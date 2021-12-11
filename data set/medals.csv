@@ -1,0 +1,2402 @@
+medal_type,medal_code,medal_date,athlete_name,event,country,discipline
+Gold Medal,1,00:00.0,KIM Je Deok,Mixed Team,Republic of Korea,Archery
+Gold Medal,1,00:00.0,AN San,Mixed Team,Republic of Korea,Archery
+Silver Medal,2,00:00.0,SCHLOESSER Gabriela,Mixed Team,Netherlands,Archery
+Silver Medal,2,00:00.0,WIJLER Steve,Mixed Team,Netherlands,Archery
+Bronze Medal,3,00:00.0,ALVAREZ Luis,Mixed Team,Mexico,Archery
+Bronze Medal,3,00:00.0,VALENCIA Alejandra,Mixed Team,Mexico,Archery
+Gold Medal,1,00:00.0,CARAPAZ Richard,Men's Road Race,Ecuador,Cycling Road
+Silver Medal,2,00:00.0,van AERT Wout,Men's Road Race,Belgium,Cycling Road
+Bronze Medal,3,00:00.0,POGACAR Tadej,Men's Road Race,Slovenia,Cycling Road
+Gold Medal,1,00:00.0,SZILAGYI Aron,Men's Sabre Individual,Hungary,Fencing
+Silver Medal,2,00:00.0,SAMELE Luigi,Men's Sabre Individual,Italy,Fencing
+Bronze Medal,3,00:00.0,KIM Junghwan,Men's Sabre Individual,Republic of Korea,Fencing
+Gold Medal,1,00:00.0,SUN Yiwen,Women's &Eacute;p&eacute;e Individual,People's Republic of China,Fencing
+Silver Medal,2,00:00.0,POPESCU Ana Maria,Women's &Eacute;p&eacute;e Individual,Romania,Fencing
+Bronze Medal,3,00:00.0,LEHIS Katrina,Women's &Eacute;p&eacute;e Individual,Estonia,Fencing
+Gold Medal,1,00:00.0,TAKATO Naohisa,Men -60 kg,Japan,Judo
+Silver Medal,2,00:00.0,YANG Yung Wei,Men -60 kg,Chinese Taipei,Judo
+Bronze Medal,3,00:00.0,MKHEIDZE Luka,Men -60 kg,France,Judo
+Bronze Medal,3,00:00.0,SMETOV Yeldos,Men -60 kg,Kazakhstan,Judo
+Gold Medal,1,00:00.0,KRASNIQI Distria,Women -48 kg,Kosovo,Judo
+Silver Medal,2,00:00.0,TONAKI Funa,Women -48 kg,Japan,Judo
+Bronze Medal,3,00:00.0,BILODID Daria,Women -48 kg,Ukraine,Judo
+Bronze Medal,3,00:00.0,MUNKHBAT Urantsetseg,Women -48 kg,Mongolia,Judo
+Gold Medal,1,00:00.0,FOROUGHI Javad,10m Air Pistol Men,Islamic Republic of Iran,Shooting
+Silver Medal,2,00:00.0,MIKEC Damir,10m Air Pistol Men,Serbia,Shooting
+Bronze Medal,3,00:00.0,PANG Wei,10m Air Pistol Men,People's Republic of China,Shooting
+Gold Medal,1,00:00.0,YANG Qian,10m Air Rifle Women,People's Republic of China,Shooting
+Silver Medal,2,00:00.0,GALASHINA Anastasiia,10m Air Rifle Women,ROC,Shooting
+Bronze Medal,3,00:00.0,CHRISTEN Nina,10m Air Rifle Women,Switzerland,Shooting
+Gold Medal,1,00:00.0,DELL'AQUILA Vito,Men -58kg,Italy,Taekwondo
+Silver Medal,2,00:00.0,JENDOUBI Mohamed Khalil,Men -58kg,Tunisia,Taekwondo
+Bronze Medal,3,00:00.0,ARTAMONOV Mikhail,Men -58kg,ROC,Taekwondo
+Bronze Medal,3,00:00.0,JANG Jun,Men -58kg,Republic of Korea,Taekwondo
+Gold Medal,1,00:00.0,WONGPATTANAKIT Panipak,Women -49kg,Thailand,Taekwondo
+Silver Medal,2,00:00.0,CEREZO IGLESIAS Adriana,Women -49kg,Spain,Taekwondo
+Bronze Medal,3,00:00.0,BOGDANOVIC Tijana,Women -49kg,Serbia,Taekwondo
+Bronze Medal,3,00:00.0,SEMBERG Abishag,Women -49kg,Israel,Taekwondo
+Gold Medal,1,00:00.0,HOU Zhihui,Women's 49kg,People's Republic of China,Weightlifting
+Silver Medal,2,00:00.0,MIRABAI Chanu Saikhom,Women's 49kg,India,Weightlifting
+Bronze Medal,3,00:00.0,AISAH Windy Cantika,Women's 49kg,Indonesia,Weightlifting
+Gold Medal,1,00:00.0,KANG Chaeyoung,Women's Team,Republic of Korea,Archery
+Gold Medal,1,00:00.0,AN San,Women's Team,Republic of Korea,Archery
+Gold Medal,1,00:00.0,JANG Minhee,Women's Team,Republic of Korea,Archery
+Silver Medal,2,00:00.0,OSIPOVA Elena,Women's Team,ROC,Archery
+Silver Medal,2,00:00.0,PEROVA Ksenia,Women's Team,ROC,Archery
+Silver Medal,2,00:00.0,GOMBOEVA Svetlana,Women's Team,ROC,Archery
+Bronze Medal,3,00:00.0,SCHWARZ Charline,Women's Team,Germany,Archery
+Bronze Medal,3,00:00.0,UNRUH Lisa,Women's Team,Germany,Archery
+Bronze Medal,3,00:00.0,KROPPEN Michelle,Women's Team,Germany,Archery
+Gold Medal,1,00:00.0,KIESENHOFER Anna,Women's Road Race,Austria,Cycling Road
+Silver Medal,2,00:00.0,van VLEUTEN Annemiek,Women's Road Race,Netherlands,Cycling Road
+Bronze Medal,3,00:00.0,LONGO BORGHINI Elisa,Women's Road Race,Italy,Cycling Road
+Gold Medal,1,00:00.0,WANG Han,Women's Synchronised 3m Springboard,People's Republic of China,Diving
+Gold Medal,1,00:00.0,SHI Tingmao,Women's Synchronised 3m Springboard,People's Republic of China,Diving
+Silver Medal,2,00:00.0,ABEL Jennifer,Women's Synchronised 3m Springboard,Canada,Diving
+Silver Medal,2,00:00.0,CITRINI BEAULIEU Melissa,Women's Synchronised 3m Springboard,Canada,Diving
+Bronze Medal,3,00:00.0,HENTSCHEL Lena,Women's Synchronised 3m Springboard,Germany,Diving
+Bronze Medal,3,00:00.0,PUNZEL Tina,Women's Synchronised 3m Springboard,Germany,Diving
+Gold Medal,1,00:00.0,CANNONE Romain,Men's &Eacute;p&eacute;e Individual,France,Fencing
+Silver Medal,2,00:00.0,SIKLOSI Gergely,Men's &Eacute;p&eacute;e Individual,Hungary,Fencing
+Bronze Medal,3,00:00.0,REIZLIN Igor,Men's &Eacute;p&eacute;e Individual,Ukraine,Fencing
+Gold Medal,1,00:00.0,KIEFER Lee,Women's Foil Individual,United States of America,Fencing
+Silver Medal,2,00:00.0,DERIGLAZOVA Inna,Women's Foil Individual,ROC,Fencing
+Bronze Medal,3,00:00.0,KOROBEYNIKOVA Larisa,Women's Foil Individual,ROC,Fencing
+Gold Medal,1,00:00.0,ABE Hifumi,Men -66 kg,Japan,Judo
+Silver Medal,2,00:00.0,MARGVELASHVILI Vazha,Men -66 kg,Georgia,Judo
+Bronze Medal,3,00:00.0,AN Baul,Men -66 kg,Republic of Korea,Judo
+Bronze Medal,3,00:00.0,CARGNIN Daniel,Men -66 kg,Brazil,Judo
+Gold Medal,1,00:00.0,ABE Uta,Women -52 kg,Japan,Judo
+Silver Medal,2,00:00.0,BUCHARD Amandine,Women -52 kg,France,Judo
+Bronze Medal,3,00:00.0,GILES Chelsie,Women -52 kg,Great Britain,Judo
+Bronze Medal,3,00:00.0,GIUFFRIDA Odette,Women -52 kg,Italy,Judo
+Gold Medal,1,00:00.0,BATSARASHKINA Vitalina,10m Air Pistol Women,ROC,Shooting
+Silver Medal,2,00:00.0,KOSTADINOVA Antoaneta,10m Air Pistol Women,Bulgaria,Shooting
+Bronze Medal,3,00:00.0,JIANG Ranxin,10m Air Pistol Women,People's Republic of China,Shooting
+Gold Medal,1,00:00.0,SHANER William,10m Air Rifle Men,United States of America,Shooting
+Silver Medal,2,00:00.0,SHENG Lihao,10m Air Rifle Men,People's Republic of China,Shooting
+Bronze Medal,3,00:00.0,YANG Haoran,10m Air Rifle Men,People's Republic of China,Shooting
+Gold Medal,1,00:00.0,HORIGOME Yuto,Men's Street,Japan,Skateboarding
+Silver Medal,2,00:00.0,HOEFLER Kelvin,Men's Street,Brazil,Skateboarding
+Bronze Medal,3,00:00.0,EATON Jagger,Men's Street,United States of America,Skateboarding
+Gold Medal,1,00:00.0,HAFNAOUI Ahmed,Men's 400m Freestyle,Tunisia,Swimming
+Silver Medal,2,00:00.0,McLOUGHLIN Jack,Men's 400m Freestyle,Australia,Swimming
+Bronze Medal,3,00:00.0,SMITH Kieran,Men's 400m Freestyle,United States of America,Swimming
+Gold Medal,1,00:00.0,KALISZ Chase,Men's 400m Individual Medley,United States of America,Swimming
+Silver Medal,2,00:00.0,LITHERLAND Jay,Men's 400m Individual Medley,United States of America,Swimming
+Bronze Medal,3,00:00.0,SMITH Brendon,Men's 400m Individual Medley,Australia,Swimming
+Gold Medal,1,00:00.0,CAMPBELL Cate,Women's 4 x 100m Freestyle Relay,Australia,Swimming
+Gold Medal,1,00:00.0,CAMPBELL Bronte,Women's 4 x 100m Freestyle Relay,Australia,Swimming
+Gold Medal,1,00:00.0,McKEON Emma,Women's 4 x 100m Freestyle Relay,Australia,Swimming
+Gold Medal,1,00:00.0,WILSON Madison,Women's 4 x 100m Freestyle Relay,Australia,Swimming
+Gold Medal,1,00:00.0,O'CALLAGHAN Mollie,Women's 4 x 100m Freestyle Relay,Australia,Swimming
+Gold Medal,1,00:00.0,HARRIS Meg,Women's 4 x 100m Freestyle Relay,Australia,Swimming
+Silver Medal,2,00:00.0,OLEKSIAK Penny,Women's 4 x 100m Freestyle Relay,Canada,Swimming
+Silver Medal,2,00:00.0,SMITH Rebecca,Women's 4 x 100m Freestyle Relay,Canada,Swimming
+Silver Medal,2,00:00.0,SANCHEZ Kayla,Women's 4 x 100m Freestyle Relay,Canada,Swimming
+Silver Medal,2,00:00.0,MACNEIL Margaret,Women's 4 x 100m Freestyle Relay,Canada,Swimming
+Silver Medal,2,00:00.0,RUCK Taylor,Women's 4 x 100m Freestyle Relay,Canada,Swimming
+Bronze Medal,3,00:00.0,BROWN Erika,Women's 4 x 100m Freestyle Relay,United States of America,Swimming
+Bronze Medal,3,00:00.0,WEITZEIL Abbey,Women's 4 x 100m Freestyle Relay,United States of America,Swimming
+Bronze Medal,3,00:00.0,de LOOF Catie,Women's 4 x 100m Freestyle Relay,United States of America,Swimming
+Bronze Medal,3,00:00.0,SCHMITT Allison,Women's 4 x 100m Freestyle Relay,United States of America,Swimming
+Bronze Medal,3,00:00.0,HINDS Natalie,Women's 4 x 100m Freestyle Relay,United States of America,Swimming
+Bronze Medal,3,00:00.0,SMOLIGA Olivia,Women's 4 x 100m Freestyle Relay,United States of America,Swimming
+Bronze Medal,3,00:00.0,MANUEL Simone,Women's 4 x 100m Freestyle Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,OHASHI Yui,Women's 400m Individual Medley,Japan,Swimming
+Silver Medal,2,00:00.0,WEYANT Emma,Women's 400m Individual Medley,United States of America,Swimming
+Bronze Medal,3,00:00.0,FLICKINGER Hali,Women's 400m Individual Medley,United States of America,Swimming
+Gold Medal,1,00:00.0,RASHITOV Ulugbek,Men -68kg,Uzbekistan,Taekwondo
+Silver Medal,2,00:00.0,SINDEN Bradly,Men -68kg,Great Britain,Taekwondo
+Bronze Medal,3,00:00.0,RECBER Hakan,Men -68kg,Turkey,Taekwondo
+Bronze Medal,3,00:00.0,ZHAO Shuai,Men -68kg,People's Republic of China,Taekwondo
+Gold Medal,1,00:00.0,ZOLOTIC Anastasija,Women -57kg,United States of America,Taekwondo
+Silver Medal,2,00:00.0,MININA Tatiana,Women -57kg,ROC,Taekwondo
+Bronze Medal,3,00:00.0,LO Chia-Ling,Women -57kg,Chinese Taipei,Taekwondo
+Bronze Medal,3,00:00.0,ILGUN Hatice Kubra,Women -57kg,Turkey,Taekwondo
+Gold Medal,1,00:00.0,LI Fabin,Men's 61kg,People's Republic of China,Weightlifting
+Silver Medal,2,00:00.0,IRAWAN Eko Yuli,Men's 61kg,Indonesia,Weightlifting
+Bronze Medal,3,00:00.0,SON Igor,Men's 61kg,Kazakhstan,Weightlifting
+Gold Medal,1,00:00.0,CHEN Lijun,Men's 67kg,People's Republic of China,Weightlifting
+Silver Medal,2,00:00.0,MOSQUERA LOZANO Luis Javier,Men's 67kg,Colombia,Weightlifting
+Bronze Medal,3,00:00.0,ZANNI Mirko,Men's 67kg,Italy,Weightlifting
+Gold Medal,1,00:00.0,KIM Je Deok,Men's Team,Republic of Korea,Archery
+Gold Medal,1,00:00.0,OH Jinhyek,Men's Team,Republic of Korea,Archery
+Gold Medal,1,00:00.0,KIM Woojin,Men's Team,Republic of Korea,Archery
+Silver Medal,2,00:00.0,TANG Chih-Chun,Men's Team,Chinese Taipei,Archery
+Silver Medal,2,00:00.0,WEI Chun-Heng,Men's Team,Chinese Taipei,Archery
+Silver Medal,2,00:00.0,DENG Yu-Cheng,Men's Team,Chinese Taipei,Archery
+Bronze Medal,3,00:00.0,FURUKAWA Takaharu,Men's Team,Japan,Archery
+Bronze Medal,3,00:00.0,KAWATA Yuki,Men's Team,Japan,Archery
+Bronze Medal,3,00:00.0,MUTO Hiroki,Men's Team,Japan,Archery
+Gold Medal,1,00:00.0,ABLIAZIN Denis,Men's Team,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,BELYAVSKIY David,Men's Team,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,DALALOYAN Artur,Men's Team,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,NAGORNYY Nikita,Men's Team,ROC,Artistic Gymnastics
+Silver Medal,2,00:00.0,KAYA Kazuma,Men's Team,Japan,Artistic Gymnastics
+Silver Medal,2,00:00.0,TANIGAWA Wataru,Men's Team,Japan,Artistic Gymnastics
+Silver Medal,2,00:00.0,KITAZONO Takeru,Men's Team,Japan,Artistic Gymnastics
+Silver Medal,2,00:00.0,HASHIMOTO Daiki,Men's Team,Japan,Artistic Gymnastics
+Bronze Medal,3,00:00.0,LIN Chaopan,Men's Team,People's Republic of China,Artistic Gymnastics
+Bronze Medal,3,00:00.0,SUN Wei,Men's Team,People's Republic of China,Artistic Gymnastics
+Bronze Medal,3,00:00.0,XIAO Ruoteng,Men's Team,People's Republic of China,Artistic Gymnastics
+Bronze Medal,3,00:00.0,ZOU Jingyuan,Men's Team,People's Republic of China,Artistic Gymnastics
+Gold Medal,1,00:00.0,SAVSEK Benjamin,Men's Canoe,Slovenia,Canoe Slalom
+Silver Medal,2,00:00.0,ROHAN Lukas,Men's Canoe,Czech Republic,Canoe Slalom
+Bronze Medal,3,00:00.0,TASIADIS Sideris,Men's Canoe,Germany,Canoe Slalom
+Gold Medal,1,00:00.0,PIDCOCK Thomas,Men's Cross-country,Great Britain,Cycling Mountain Bike
+Silver Medal,2,00:00.0,FLUECKIGER Mathias,Men's Cross-country,Switzerland,Cycling Mountain Bike
+Bronze Medal,3,00:00.0,VALERO SERRANO David,Men's Cross-country,Spain,Cycling Mountain Bike
+Gold Medal,1,00:00.0,DALEY Thomas,Men's Synchronised 10m Platform,Great Britain,Diving
+Gold Medal,1,00:00.0,LEE Matty,Men's Synchronised 10m Platform,Great Britain,Diving
+Silver Medal,2,00:00.0,CAO Yuan,Men's Synchronised 10m Platform,People's Republic of China,Diving
+Silver Medal,2,00:00.0,CHEN Aisen,Men's Synchronised 10m Platform,People's Republic of China,Diving
+Bronze Medal,3,00:00.0,BONDAR Aleksandr,Men's Synchronised 10m Platform,ROC,Diving
+Bronze Medal,3,00:00.0,MINIBAEV Viktor,Men's Synchronised 10m Platform,ROC,Diving
+Gold Medal,1,00:00.0,CHEUNG Ka Long,Men's Foil Individual,"Hong Kong, China",Fencing
+Silver Medal,2,00:00.0,GAROZZO Daniele,Men's Foil Individual,Italy,Fencing
+Bronze Medal,3,00:00.0,CHOUPENITCH Alexander,Men's Foil Individual,Czech Republic,Fencing
+Gold Medal,1,00:00.0,POZDNIAKOVA Sofia,Women's Sabre Individual,ROC,Fencing
+Silver Medal,2,00:00.0,VELIKAYA Sofya,Women's Sabre Individual,ROC,Fencing
+Bronze Medal,3,00:00.0,BRUNET Manon,Women's Sabre Individual,France,Fencing
+Gold Medal,1,00:00.0,ONO Shohei,Men -73 kg,Japan,Judo
+Silver Medal,2,00:00.0,SHAVDATUASHVILI Lasha,Men -73 kg,Georgia,Judo
+Bronze Medal,3,00:00.0,AN Changrim,Men -73 kg,Republic of Korea,Judo
+Bronze Medal,3,00:00.0,TSEND-OCHIR Tsogtbaatar,Men -73 kg,Mongolia,Judo
+Gold Medal,1,00:00.0,GJAKOVA Nora,Women -57 kg,Kosovo,Judo
+Silver Medal,2,00:00.0,CYSIQUE Sarah Leonie,Women -57 kg,France,Judo
+Bronze Medal,3,00:00.0,KLIMKAIT Jessica,Women -57 kg,Canada,Judo
+Bronze Medal,3,00:00.0,YOSHIDA Tsukasa,Women -57 kg,Japan,Judo
+Gold Medal,1,00:00.0,HANCOCK Vincent,Skeet Men,United States of America,Shooting
+Silver Medal,2,00:00.0,HANSEN Jesper,Skeet Men,Denmark,Shooting
+Bronze Medal,3,00:00.0,ALRASHIDI Abdullah,Skeet Men,Kuwait,Shooting
+Gold Medal,1,00:00.0,ENGLISH Amber,Skeet Women,United States of America,Shooting
+Silver Medal,2,00:00.0,BACOSI Diana,Skeet Women,Italy,Shooting
+Bronze Medal,3,00:00.0,WEI Meng,Skeet Women,People's Republic of China,Shooting
+Gold Medal,1,00:00.0,NISHIYA Momiji,Women's Street,Japan,Skateboarding
+Silver Medal,2,00:00.0,LEAL Rayssa,Women's Street,Brazil,Skateboarding
+Bronze Medal,3,00:00.0,NAKAYAMA Funa,Women's Street,Japan,Skateboarding
+Gold Medal,1,00:00.0,PEATY Adam,Men's 100m Breaststroke,Great Britain,Swimming
+Silver Medal,2,00:00.0,KAMMINGA Arno,Men's 100m Breaststroke,Netherlands,Swimming
+Bronze Medal,3,00:00.0,MARTINENGHI Nicolo,Men's 100m Breaststroke,Italy,Swimming
+Gold Medal,1,00:00.0,CURRY Brooks,Men's 4 x 100m Freestyle Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,DRESSEL Caeleb,Men's 4 x 100m Freestyle Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,BECKER Bowen,Men's 4 x 100m Freestyle Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,PIERONI Blake,Men's 4 x 100m Freestyle Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,APPLE Zach,Men's 4 x 100m Freestyle Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,CECCON Thomas,Men's 4 x 100m Freestyle Relay,Italy,Swimming
+Silver Medal,2,00:00.0,FRIGO Manuel,Men's 4 x 100m Freestyle Relay,Italy,Swimming
+Silver Medal,2,00:00.0,ZAZZERI Lorenzo,Men's 4 x 100m Freestyle Relay,Italy,Swimming
+Silver Medal,2,00:00.0,CONDORELLI Santo,Men's 4 x 100m Freestyle Relay,Italy,Swimming
+Silver Medal,2,00:00.0,MIRESSI Alessandro,Men's 4 x 100m Freestyle Relay,Italy,Swimming
+Bronze Medal,3,00:00.0,CHALMERS Kyle,Men's 4 x 100m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,GRAHAM Alexander,Men's 4 x 100m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,INCERTI Zac,Men's 4 x 100m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,McEVOY Cameron,Men's 4 x 100m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,TEMPLE Matthew,Men's 4 x 100m Freestyle Relay,Australia,Swimming
+Gold Medal,1,00:00.0,MACNEIL Margaret,Women's 100m Butterfly,Canada,Swimming
+Silver Medal,2,00:00.0,ZHANG Yufei,Women's 100m Butterfly,People's Republic of China,Swimming
+Bronze Medal,3,00:00.0,McKEON Emma,Women's 100m Butterfly,Australia,Swimming
+Gold Medal,1,00:00.0,TITMUS Ariarne,Women's 400m Freestyle,Australia,Swimming
+Silver Medal,2,00:00.0,LEDECKY Kathleen,Women's 400m Freestyle,United States of America,Swimming
+Bronze Medal,3,00:00.0,LI Bingjie,Women's 400m Freestyle,People's Republic of China,Swimming
+Gold Medal,1,00:00.0,MIZUTANI Jun,Mixed Doubles,Japan,Table Tennis
+Gold Medal,1,00:00.0,ITO Mima,Mixed Doubles,Japan,Table Tennis
+Silver Medal,2,00:00.0,XU Xin,Mixed Doubles,People's Republic of China,Table Tennis
+Silver Medal,2,00:00.0,LIU Shiwen,Mixed Doubles,People's Republic of China,Table Tennis
+Bronze Medal,3,00:00.0,LIN Yun Ju,Mixed Doubles,Chinese Taipei,Table Tennis
+Bronze Medal,3,00:00.0,CHENG I Ching,Mixed Doubles,Chinese Taipei,Table Tennis
+Gold Medal,1,00:00.0,KHRAMTCOV Maksim,Men -80kg,ROC,Taekwondo
+Silver Medal,2,00:00.0,ELSHARABATY Saleh,Men -80kg,Jordan,Taekwondo
+Bronze Medal,3,00:00.0,KANAET Toni,Men -80kg,Croatia,Taekwondo
+Bronze Medal,3,00:00.0,EISSA Seif,Men -80kg,Egypt,Taekwondo
+Gold Medal,1,00:00.0,JELIC Matea,Women -67kg,Croatia,Taekwondo
+Silver Medal,2,00:00.0,WILLIAMS Lauren,Women -67kg,Great Britain,Taekwondo
+Bronze Medal,3,00:00.0,GBAGBI Ruth,Women -67kg,Côte d'Ivoire,Taekwondo
+Bronze Medal,3,00:00.0,MALAK Hedaya,Women -67kg,Egypt,Taekwondo
+Gold Medal,1,00:00.0,BLUMMENFELT Kristian,Men's Individual,Norway,Triathlon
+Silver Medal,2,00:00.0,YEE Alex,Men's Individual,Great Britain,Triathlon
+Bronze Medal,3,00:00.0,WILDE Hayden,Men's Individual,New Zealand,Triathlon
+Gold Medal,1,00:00.0,DIAZ Hidilyn,Women's 55kg,Philippines,Weightlifting
+Silver Medal,2,00:00.0,LIAO Qiuyun,Women's 55kg,People's Republic of China,Weightlifting
+Bronze Medal,3,00:00.0,CHINSHANLO Zulfiya,Women's 55kg,Kazakhstan,Weightlifting
+Gold Medal,1,00:00.0,AKHAIMOVA Liliia,Women's Team,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,MELNIKOVA Angelina,Women's Team,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,URAZOVA Vladislava,Women's Team,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,LISTUNOVA Viktoriia,Women's Team,ROC,Artistic Gymnastics
+Silver Medal,2,00:00.0,Mc CALLUM Grace,Women's Team,United States of America,Artistic Gymnastics
+Silver Medal,2,00:00.0,LEE Sunisa,Women's Team,United States of America,Artistic Gymnastics
+Silver Medal,2,00:00.0,CHILES Jordan,Women's Team,United States of America,Artistic Gymnastics
+Silver Medal,2,00:00.0,BILES Simone,Women's Team,United States of America,Artistic Gymnastics
+Bronze Medal,3,00:00.0,GADIROVA Jennifer,Women's Team,Great Britain,Artistic Gymnastics
+Bronze Medal,3,00:00.0,GADIROVA Jessica,Women's Team,Great Britain,Artistic Gymnastics
+Bronze Medal,3,00:00.0,KINSELLA Alice,Women's Team,Great Britain,Artistic Gymnastics
+Bronze Medal,3,00:00.0,MORGAN Amelie,Women's Team,Great Britain,Artistic Gymnastics
+Gold Medal,1,00:00.0,UENO Yukiko,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,GOTO Miu,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,FUJITA Yamato,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,AGATSUMA Haruka,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,KIYOHARA Nayu,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,ATSUMI Mana,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,ICHIGUCHI Yuka,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,KAWABATA Hitomi,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,NAITO Minori,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,YAMAMOTO Yu,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,HARADA Nodoka,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,MORI Sayaka,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,YAMAZAKI Saki,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,YAMADA Eri,Softball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,MINE Yukiyo,Softball,Japan,Baseball/Softball
+Silver Medal,2,00:00.0,AGUILAR Ali,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,CARDA Ally,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,CHIDESTER Amanda,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,MUNRO Aubree,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,MULIPOLA Dejah,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,SPAULDING Delaney,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,Mc CLENEY Haylie,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,REED Janie,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,MOULTRIE Michelle,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,NICKLES Bubba,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,GARCIA Rachel,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,ARIOTO Valerie,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,OSTERMAN Cat,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,STEWART Kelsey,Softball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,ABBOTT Monica,Softball,United States of America,Baseball/Softball
+Bronze Medal,3,00:00.0,CAIRA Jenna,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,ENTZMINGER Emma,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,FRANKLIN Larissa,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,GILBERT Jen,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,GROENEWEGEN Sara,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,HAYWARD Victoria,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,HARSHMAN Kelsey,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,LAWRIE Danielle,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,LEUNG Janet,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,LYE Joey,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,POLIDORI Erika,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,RAFTER Kaleigh,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,REGULA Lauren,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,SALLING Jenn,Softball,Canada,Baseball/Softball
+Bronze Medal,3,00:00.0,WIDEMAN Natalie,Softball,Canada,Baseball/Softball
+Gold Medal,1,00:00.0,FUNK Ricarda,Women's Kayak,Germany,Canoe Slalom
+Silver Medal,2,00:00.0,CHOURRAUT Maialen,Women's Kayak,Spain,Canoe Slalom
+Bronze Medal,3,00:00.0,FOX Jessica,Women's Kayak,Australia,Canoe Slalom
+Gold Medal,1,00:00.0,NEFF Jolanda,Women's Cross-country,Switzerland,Cycling Mountain Bike
+Silver Medal,2,00:00.0,FREI Sina,Women's Cross-country,Switzerland,Cycling Mountain Bike
+Bronze Medal,3,00:00.0,INDERGAND Linda,Women's Cross-country,Switzerland,Cycling Mountain Bike
+Gold Medal,1,00:00.0,CHEN Yuxi,Women's Synchronised 10m Platform,People's Republic of China,Diving
+Gold Medal,1,00:00.0,ZHANG Jiaqi,Women's Synchronised 10m Platform,People's Republic of China,Diving
+Silver Medal,2,00:00.0,SCHNELL Delaney,Women's Synchronised 10m Platform,United States of America,Diving
+Silver Medal,2,00:00.0,PARRATTO Jessica,Women's Synchronised 10m Platform,United States of America,Diving
+Bronze Medal,3,00:00.0,AGUNDEZ GARCIA Gabriela,Women's Synchronised 10m Platform,Mexico,Diving
+Bronze Medal,3,00:00.0,OROZCO LOZA Alejandra,Women's Synchronised 10m Platform,Mexico,Diving
+Gold Medal,1,00:00.0,WERTH Isabell,Dressage Team,Germany,Equestrian
+Gold Medal,1,00:00.0,von BREDOW-WERNDL Jessica,Dressage Team,Germany,Equestrian
+Gold Medal,1,00:00.0,SCHNEIDER Dorothee,Dressage Team,Germany,Equestrian
+Silver Medal,2,00:00.0,LYLE Adrienne,Dressage Team,United States of America,Equestrian
+Silver Medal,2,00:00.0,SCHUT-KERY Sabine,Dressage Team,United States of America,Equestrian
+Silver Medal,2,00:00.0,PETERS Steffen,Dressage Team,United States of America,Equestrian
+Bronze Medal,3,00:00.0,DUJARDIN Charlotte,Dressage Team,Great Britain,Equestrian
+Bronze Medal,3,00:00.0,FRY Charlotte,Dressage Team,Great Britain,Equestrian
+Bronze Medal,3,00:00.0,HESTER Carl,Dressage Team,Great Britain,Equestrian
+Gold Medal,1,00:00.0,BELJAJEVA Julia,Women's &Eacute;p&eacute;e Team,Estonia,Fencing
+Gold Medal,1,00:00.0,LEHIS Katrina,Women's &Eacute;p&eacute;e Team,Estonia,Fencing
+Gold Medal,1,00:00.0,KIRPU Erika,Women's &Eacute;p&eacute;e Team,Estonia,Fencing
+Gold Medal,1,00:00.0,EMBRICH Irina,Women's &Eacute;p&eacute;e Team,Estonia,Fencing
+Silver Medal,2,00:00.0,CHOI Injeong,Women's &Eacute;p&eacute;e Team,Republic of Korea,Fencing
+Silver Medal,2,00:00.0,LEE Hyein,Women's &Eacute;p&eacute;e Team,Republic of Korea,Fencing
+Silver Medal,2,00:00.0,KANG Young Mi,Women's &Eacute;p&eacute;e Team,Republic of Korea,Fencing
+Silver Medal,2,00:00.0,SONG Sera,Women's &Eacute;p&eacute;e Team,Republic of Korea,Fencing
+Bronze Medal,3,00:00.0,SANTUCCIO Alberta,Women's &Eacute;p&eacute;e Team,Italy,Fencing
+Bronze Medal,3,00:00.0,ISOLA Federica,Women's &Eacute;p&eacute;e Team,Italy,Fencing
+Bronze Medal,3,00:00.0,FIAMINGO Rossella,Women's &Eacute;p&eacute;e Team,Italy,Fencing
+Bronze Medal,3,00:00.0,NAVARRIA Mara,Women's &Eacute;p&eacute;e Team,Italy,Fencing
+Gold Medal,1,00:00.0,NAGASE Takanori,Men -81 kg,Japan,Judo
+Silver Medal,2,00:00.0,MOLLAEI Saeid,Men -81 kg,Mongolia,Judo
+Bronze Medal,3,00:00.0,BORCHASHVILI Shamil,Men -81 kg,Austria,Judo
+Bronze Medal,3,00:00.0,CASSE Matthias,Men -81 kg,Belgium,Judo
+Gold Medal,1,00:00.0,AGBEGNENOU Clarisse,Women -63 kg,France,Judo
+Silver Medal,2,00:00.0,TRSTENJAK Tina,Women -63 kg,Slovenia,Judo
+Bronze Medal,3,00:00.0,BEAUCHEMIN-PINARD Catherine,Women -63 kg,Canada,Judo
+Bronze Medal,3,00:00.0,CENTRACCHIO Maria,Women -63 kg,Italy,Judo
+Gold Medal,1,00:00.0,JIANG Ranxin,10m Air Pistol Mixed Team,People's Republic of China,Shooting
+Gold Medal,1,00:00.0,PANG Wei,10m Air Pistol Mixed Team,People's Republic of China,Shooting
+Silver Medal,2,00:00.0,BATSARASHKINA Vitalina,10m Air Pistol Mixed Team,ROC,Shooting
+Silver Medal,2,00:00.0,CHERNOUSOV Artem,10m Air Pistol Mixed Team,ROC,Shooting
+Bronze Medal,3,00:00.0,KOSTEVYCH Olena,10m Air Pistol Mixed Team,Ukraine,Shooting
+Bronze Medal,3,00:00.0,OMELCHUK Oleh,10m Air Pistol Mixed Team,Ukraine,Shooting
+Gold Medal,1,00:00.0,YANG Qian,10m Air Rifle Mixed Team,People's Republic of China,Shooting
+Gold Medal,1,00:00.0,YANG Haoran,10m Air Rifle Mixed Team,People's Republic of China,Shooting
+Silver Medal,2,00:00.0,KOZENIESKY Lucas,10m Air Rifle Mixed Team,United States of America,Shooting
+Silver Medal,2,00:00.0,TUCKER Mary Carolynn,10m Air Rifle Mixed Team,United States of America,Shooting
+Bronze Medal,3,00:00.0,KARIMOVA Yulia,10m Air Rifle Mixed Team,ROC,Shooting
+Bronze Medal,3,00:00.0,KAMENSKIY Sergey,10m Air Rifle Mixed Team,ROC,Shooting
+Gold Medal,1,00:00.0,FERREIRA Italo,Men,Brazil,Surfing
+Silver Medal,2,00:00.0,IGARASHI Kanoa,Men,Japan,Surfing
+Bronze Medal,3,00:00.0,WRIGHT Owen,Men,Australia,Surfing
+Gold Medal,1,00:00.0,MOORE Carissa,Women,United States of America,Surfing
+Silver Medal,2,00:00.0,BUITENDAG Bianca,Women,South Africa,Surfing
+Bronze Medal,3,00:00.0,TSUZUKI Amuro,Women,Japan,Surfing
+Gold Medal,1,00:00.0,RYLOV Evgeny,Men's 100m Backstroke,ROC,Swimming
+Silver Medal,2,00:00.0,KOLESNIKOV Kliment,Men's 100m Backstroke,ROC,Swimming
+Bronze Medal,3,00:00.0,MURPHY Ryan,Men's 100m Backstroke,United States of America,Swimming
+Gold Medal,1,00:00.0,DEAN Tom,Men's 200m Freestyle,Great Britain,Swimming
+Silver Medal,2,00:00.0,SCOTT Duncan,Men's 200m Freestyle,Great Britain,Swimming
+Bronze Medal,3,00:00.0,SCHEFFER Fernando,Men's 200m Freestyle,Brazil,Swimming
+Gold Medal,1,00:00.0,McKEOWN Kaylee,Women's 100m Backstroke,Australia,Swimming
+Silver Medal,2,00:00.0,MASSE Kylie,Women's 100m Backstroke,Canada,Swimming
+Bronze Medal,3,00:00.0,SMITH Regan,Women's 100m Backstroke,United States of America,Swimming
+Gold Medal,1,00:00.0,JACOBY Lydia,Women's 100m Breaststroke,United States of America,Swimming
+Silver Medal,2,00:00.0,SCHOENMAKER Tatjana,Women's 100m Breaststroke,South Africa,Swimming
+Bronze Medal,3,00:00.0,KING Lilly,Women's 100m Breaststroke,United States of America,Swimming
+Gold Medal,1,00:00.0,LARIN Vladislav,Men +80kg,ROC,Taekwondo
+Silver Medal,2,00:00.0,GEORGIEVSKI Dejan,Men +80kg,North Macedonia,Taekwondo
+Bronze Medal,3,00:00.0,IN Kyo Don,Men +80kg,Republic of Korea,Taekwondo
+Bronze Medal,3,00:00.0,ALBA CASTILLO Rafael Yunier,Men +80kg,Cuba,Taekwondo
+Gold Medal,1,00:00.0,MANDIC Milica,Women +67kg,Serbia,Taekwondo
+Silver Medal,2,00:00.0,LEE Dabin,Women +67kg,Republic of Korea,Taekwondo
+Bronze Medal,3,00:00.0,LAURIN Althea,Women +67kg,France,Taekwondo
+Bronze Medal,3,00:00.0,WALKDEN Bianca,Women +67kg,Great Britain,Taekwondo
+Gold Medal,1,00:00.0,DUFFY Flora,Women's Individual,Bermuda,Triathlon
+Silver Medal,2,00:00.0,TAYLOR-BROWN Georgia,Women's Individual,Great Britain,Triathlon
+Bronze Medal,3,00:00.0,ZAFERES Katie,Women's Individual,United States of America,Triathlon
+Gold Medal,1,00:00.0,KUO Hsing-Chun,Women's 59kg,Chinese Taipei,Weightlifting
+Silver Medal,2,00:00.0,GURYEVA Polina,Women's 59kg,Turkmenistan,Weightlifting
+Bronze Medal,3,00:00.0,ANDOH Mikiko,Women's 59kg,Japan,Weightlifting
+Gold Medal,1,00:00.0,CHARRON Maude G,Women's 64kg,Canada,Weightlifting
+Silver Medal,2,00:00.0,BORDIGNON Giorgia,Women's 64kg,Italy,Weightlifting
+Bronze Medal,3,00:00.0,CHEN Wen-Huei,Women's 64kg,Chinese Taipei,Weightlifting
+Gold Medal,1,00:00.0,MIEZIS Nauris,Men,Latvia,3x3 Basketball
+Gold Medal,1,00:00.0,LASMANIS Karlis,Men,Latvia,3x3 Basketball
+Gold Medal,1,00:00.0,CAVARS Agnis,Men,Latvia,3x3 Basketball
+Gold Medal,1,00:00.0,KRUMINS Edgars,Men,Latvia,3x3 Basketball
+Silver Medal,2,00:00.0,ZUEV Alexander,Men,ROC,3x3 Basketball
+Silver Medal,2,00:00.0,KARPENKOV Ilia,Men,ROC,3x3 Basketball
+Silver Medal,2,00:00.0,PISKLOV Kirill,Men,ROC,3x3 Basketball
+Silver Medal,2,00:00.0,SHAROV Stanislav,Men,ROC,3x3 Basketball
+Bronze Medal,3,00:00.0,DOMOVIC BULUT Dusan,Men,Serbia,3x3 Basketball
+Bronze Medal,3,00:00.0,MAJSTOROVIC Dejan,Men,Serbia,3x3 Basketball
+Bronze Medal,3,00:00.0,RATKOV Aleksandar,Men,Serbia,3x3 Basketball
+Bronze Medal,3,00:00.0,VASIC Mihailo,Men,Serbia,3x3 Basketball
+Gold Medal,1,00:00.0,YOUNG Jacquelyn,Women,United States of America,3x3 Basketball
+Gold Medal,1,00:00.0,GRAY Allisha,Women,United States of America,3x3 Basketball
+Gold Medal,1,00:00.0,PLUM Kelsey,Women,United States of America,3x3 Basketball
+Gold Medal,1,00:00.0,DOLSON Stefanie,Women,United States of America,3x3 Basketball
+Silver Medal,2,00:00.0,KOZIK Yulia,Women,ROC,3x3 Basketball
+Silver Medal,2,00:00.0,LOGUNOVA Anastasiia,Women,ROC,3x3 Basketball
+Silver Medal,2,00:00.0,FROLKINA Evgeniia,Women,ROC,3x3 Basketball
+Silver Medal,2,00:00.0,FROLKINA Olga,Women,ROC,3x3 Basketball
+Bronze Medal,3,00:00.0,ZHANG Zhiting,Women,People's Republic of China,3x3 Basketball
+Bronze Medal,3,00:00.0,WAN Jiyuan,Women,People's Republic of China,3x3 Basketball
+Bronze Medal,3,00:00.0,YANG Shuyu,Women,People's Republic of China,3x3 Basketball
+Bronze Medal,3,00:00.0,WANG Lili,Women,People's Republic of China,3x3 Basketball
+Gold Medal,1,00:00.0,HASHIMOTO Daiki,Men's All-Around,Japan,Artistic Gymnastics
+Silver Medal,2,00:00.0,XIAO Ruoteng,Men's All-Around,People's Republic of China,Artistic Gymnastics
+Bronze Medal,3,00:00.0,NAGORNYY Nikita,Men's All-Around,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,ROGLIC Primoz,Men's Individual Time Trial,Slovenia,Cycling Road
+Silver Medal,2,00:00.0,DUMOULIN Tom,Men's Individual Time Trial,Netherlands,Cycling Road
+Bronze Medal,3,00:00.0,DENNIS Rohan,Men's Individual Time Trial,Australia,Cycling Road
+Gold Medal,1,00:00.0,van VLEUTEN Annemiek,Women's Individual Time Trial,Netherlands,Cycling Road
+Silver Medal,2,00:00.0,REUSSER Marlen,Women's Individual Time Trial,Switzerland,Cycling Road
+Bronze Medal,3,00:00.0,van der BREGGEN Anna,Women's Individual Time Trial,Netherlands,Cycling Road
+Gold Medal,1,00:00.0,WANG Zongyuan,Men's Synchronised 3m Springboard,People's Republic of China,Diving
+Gold Medal,1,00:00.0,XIE Siyi,Men's Synchronised 3m Springboard,People's Republic of China,Diving
+Silver Medal,2,00:00.0,CAPOBIANCO Andrew,Men's Synchronised 3m Springboard,United States of America,Diving
+Silver Medal,2,00:00.0,HIXON Michael,Men's Synchronised 3m Springboard,United States of America,Diving
+Bronze Medal,3,00:00.0,HAUSDING Patrick,Men's Synchronised 3m Springboard,Germany,Diving
+Bronze Medal,3,00:00.0,RUDIGER Lars,Men's Synchronised 3m Springboard,Germany,Diving
+Gold Medal,1,00:00.0,von BREDOW-WERNDL Jessica,Dressage Individual,Germany,Equestrian
+Silver Medal,2,00:00.0,WERTH Isabell,Dressage Individual,Germany,Equestrian
+Bronze Medal,3,00:00.0,DUJARDIN Charlotte,Dressage Individual,Great Britain,Equestrian
+Gold Medal,1,00:00.0,OH Sanguk,Men's Sabre Team,Republic of Korea,Fencing
+Gold Medal,1,00:00.0,KIM Junho,Men's Sabre Team,Republic of Korea,Fencing
+Gold Medal,1,00:00.0,KIM Junghwan,Men's Sabre Team,Republic of Korea,Fencing
+Gold Medal,1,00:00.0,GU Bongil,Men's Sabre Team,Republic of Korea,Fencing
+Silver Medal,2,00:00.0,MONTANO Aldo,Men's Sabre Team,Italy,Fencing
+Silver Medal,2,00:00.0,SAMELE Luigi,Men's Sabre Team,Italy,Fencing
+Silver Medal,2,00:00.0,BERRE' Enrico,Men's Sabre Team,Italy,Fencing
+Silver Medal,2,00:00.0,CURATOLI Luca,Men's Sabre Team,Italy,Fencing
+Bronze Medal,3,00:00.0,SZILAGYI Aron,Men's Sabre Team,Hungary,Fencing
+Bronze Medal,3,00:00.0,SZATMARI Andras,Men's Sabre Team,Hungary,Fencing
+Bronze Medal,3,00:00.0,DECSI Tamas,Men's Sabre Team,Hungary,Fencing
+Bronze Medal,3,00:00.0,GEMESI Csanad,Men's Sabre Team,Hungary,Fencing
+Gold Medal,1,00:00.0,BEKAURI Lasha,Men -90 kg,Georgia,Judo
+Silver Medal,2,00:00.0,TRIPPEL Eduard,Men -90 kg,Germany,Judo
+Bronze Medal,3,00:00.0,BOBONOV Davlat,Men -90 kg,Uzbekistan,Judo
+Bronze Medal,3,00:00.0,TOTH Krisztian,Men -90 kg,Hungary,Judo
+Gold Medal,1,00:00.0,ARAI Chizuru,Women -70 kg,Japan,Judo
+Silver Medal,2,00:00.0,POLLERES Michaela,Women -70 kg,Austria,Judo
+Bronze Medal,3,00:00.0,van DIJKE Sanne,Women -70 kg,Netherlands,Judo
+Bronze Medal,3,00:00.0,TAIMAZOVA Madina,Women -70 kg,ROC,Judo
+Gold Medal,1,00:00.0,BOUCHERON Hugo,Men's Double Sculls,France,Rowing
+Gold Medal,1,00:00.0,ANDRODIAS Matthieu,Men's Double Sculls,France,Rowing
+Silver Medal,2,00:00.0,BROENINK Stef,Men's Double Sculls,Netherlands,Rowing
+Silver Medal,2,00:00.0,TWELLAAR Melvin,Men's Double Sculls,Netherlands,Rowing
+Bronze Medal,3,00:00.0,LIU Zhiyu,Men's Double Sculls,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,ZHANG Liang,Men's Double Sculls,People's Republic of China,Rowing
+Gold Medal,1,00:00.0,TURRIN Spencer,Men's Four,Australia,Rowing
+Gold Medal,1,00:00.0,HARGREAVES Jack,Men's Four,Australia,Rowing
+Gold Medal,1,00:00.0,HILL Alexander,Men's Four,Australia,Rowing
+Gold Medal,1,00:00.0,PURNELL Alexander,Men's Four,Australia,Rowing
+Silver Medal,2,00:00.0,PASCARI Cosmin,Men's Four,Romania,Rowing
+Silver Medal,2,00:00.0,SEMCIUC Mugurel Vasile,Men's Four,Romania,Rowing
+Silver Medal,2,00:00.0,TIGANESCU Mihaita,Men's Four,Romania,Rowing
+Silver Medal,2,00:00.0,BERARIU Stefan,Men's Four,Romania,Rowing
+Bronze Medal,3,00:00.0,CASTALDO Matteo,Men's Four,Italy,Rowing
+Bronze Medal,3,00:00.0,VICINO Giuseppe,Men's Four,Italy,Rowing
+Bronze Medal,3,00:00.0,LODO Matteo,Men's Four,Italy,Rowing
+Bronze Medal,3,00:00.0,di COSTANZO Marco,Men's Four,Italy,Rowing
+Gold Medal,1,00:00.0,WIERSMA Abe,Men's Quadruple Sculls,Netherlands,Rowing
+Gold Medal,1,00:00.0,WIETEN Tone,Men's Quadruple Sculls,Netherlands,Rowing
+Gold Medal,1,00:00.0,METSEMAKERS Koen,Men's Quadruple Sculls,Netherlands,Rowing
+Gold Medal,1,00:00.0,UITTENBOGAARD Lucas Theodoor Dirk,Men's Quadruple Sculls,Netherlands,Rowing
+Silver Medal,2,00:00.0,GROOM Angus,Men's Quadruple Sculls,Great Britain,Rowing
+Silver Medal,2,00:00.0,LEASK Harry,Men's Quadruple Sculls,Great Britain,Rowing
+Silver Medal,2,00:00.0,BARRAS Tom,Men's Quadruple Sculls,Great Britain,Rowing
+Silver Medal,2,00:00.0,BEAUMONT Jack,Men's Quadruple Sculls,Great Britain,Rowing
+Bronze Medal,3,00:00.0,GIRDLESTONE Cameron,Men's Quadruple Sculls,Australia,Rowing
+Bronze Medal,3,00:00.0,ANTILL Caleb,Men's Quadruple Sculls,Australia,Rowing
+Bronze Medal,3,00:00.0,CLEARY Jack,Men's Quadruple Sculls,Australia,Rowing
+Bronze Medal,3,00:00.0,LETCHER Luke,Men's Quadruple Sculls,Australia,Rowing
+Gold Medal,1,00:00.0,BODNAR Ancuta,Women's Double Sculls,Romania,Rowing
+Gold Medal,1,00:00.0,RADIS Simona,Women's Double Sculls,Romania,Rowing
+Silver Medal,2,00:00.0,OSBORNE Hannah,Women's Double Sculls,New Zealand,Rowing
+Silver Medal,2,00:00.0,DONOGHUE Brooke,Women's Double Sculls,New Zealand,Rowing
+Bronze Medal,3,00:00.0,de JONG Roos,Women's Double Sculls,Netherlands,Rowing
+Bronze Medal,3,00:00.0,SCHEENAARD Lisa,Women's Double Sculls,Netherlands,Rowing
+Gold Medal,1,00:00.0,STEPHAN Lucy,Women's Four,Australia,Rowing
+Gold Medal,1,00:00.0,MORRISON Jessica,Women's Four,Australia,Rowing
+Gold Medal,1,00:00.0,POPA Rosemary,Women's Four,Australia,Rowing
+Gold Medal,1,00:00.0,McINTYRE Annabelle,Women's Four,Australia,Rowing
+Silver Medal,2,00:00.0,HOGERWERF Ellen,Women's Four,Netherlands,Rowing
+Silver Medal,2,00:00.0,CLEVERING Ymkje,Women's Four,Netherlands,Rowing
+Silver Medal,2,00:00.0,FLORIJN Karolien,Women's Four,Netherlands,Rowing
+Silver Medal,2,00:00.0,MEESTER Veronique,Women's Four,Netherlands,Rowing
+Bronze Medal,3,00:00.0,HEGARTY Emily,Women's Four,Ireland,Rowing
+Bronze Medal,3,00:00.0,LAMBE Eimear,Women's Four,Ireland,Rowing
+Bronze Medal,3,00:00.0,KEOGH Aifric,Women's Four,Ireland,Rowing
+Bronze Medal,3,00:00.0,MURTAGH Fiona,Women's Four,Ireland,Rowing
+Gold Medal,1,00:00.0,ZHANG Ling,Women's Quadruple Sculls,People's Republic of China,Rowing
+Gold Medal,1,00:00.0,CHEN Yunxia,Women's Quadruple Sculls,People's Republic of China,Rowing
+Gold Medal,1,00:00.0,CUI Xiaotong,Women's Quadruple Sculls,People's Republic of China,Rowing
+Gold Medal,1,00:00.0,LYU Yang,Women's Quadruple Sculls,People's Republic of China,Rowing
+Silver Medal,2,00:00.0,ZILLMANN Katarzyna,Women's Quadruple Sculls,Poland,Rowing
+Silver Medal,2,00:00.0,KOBUS-ZAWOJSKA Agnieszka,Women's Quadruple Sculls,Poland,Rowing
+Silver Medal,2,00:00.0,SAJDAK Maria,Women's Quadruple Sculls,Poland,Rowing
+Silver Medal,2,00:00.0,WIELICZKO Marta,Women's Quadruple Sculls,Poland,Rowing
+Bronze Medal,3,00:00.0,MEREDITH Rowena,Women's Quadruple Sculls,Australia,Rowing
+Bronze Medal,3,00:00.0,HUDSON Harriet,Women's Quadruple Sculls,Australia,Rowing
+Bronze Medal,3,00:00.0,THOMPSON Ria,Women's Quadruple Sculls,Australia,Rowing
+Bronze Medal,3,00:00.0,CRONIN Caitlin,Women's Quadruple Sculls,Australia,Rowing
+Gold Medal,1,00:00.0,VAKURUNABILI Josua,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,DERENALAGI Meli,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,NACUQU Waisea,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,TUIMABA Aminiasi,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,TUWAI Jerry,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,BOTITU Vilimoni,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,NASOKO Kalione,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,BOLACA Napolioni,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,TUIVUAKA Asaeli,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,WAINIQOLO Jiuta,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,RADRADRA Semi,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,MAQALA Sireli,Men,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,BALEIWAIRIKI Iosefo Masikau,Men,Fiji,Rugby Sevens
+Silver Medal,2,00:00.0,WARBRICK William,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,WARE Regan,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,WEBBER Joe,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,NG SHIU Tone,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,NICOLE Amanaki,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,BAKER Kurt,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,COLLIER Dylan,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,CURRY Scott,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,KNEWSTUBB Andrew,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,McGARVEY-BLACK Ngarohi,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,MIKKELSON Tim,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,MOLIA Sione,Men,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,NANAI-SETURO Etene,Men,New Zealand,Rugby Sevens
+Bronze Medal,3,00:00.0,ALVAREZ Santiago,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,BAZAN VELEZ Lautaro,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,del MESTRE Felipe,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,OSADCZUK Matias,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,ETCHART Rodrigo,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,REVOL Gaston,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,GONZALEZ Luciano,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,MARE Santiago,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,MONETA Marcos,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,CINTI Lucio,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,MENDY Ignacio,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,SCHULZ German,Men,Argentina,Rugby Sevens
+Bronze Medal,3,00:00.0,ISGRO Rodrigo,Men,Argentina,Rugby Sevens
+Gold Medal,1,00:00.0,MILAK Kristof,Men's 200m Butterfly,Hungary,Swimming
+Silver Medal,2,00:00.0,HONDA Tomoru,Men's 200m Butterfly,Japan,Swimming
+Bronze Medal,3,00:00.0,BURDISSO Federico,Men's 200m Butterfly,Italy,Swimming
+Gold Medal,1,00:00.0,SCOTT Duncan,Men's 4 x 200m Freestyle Relay,Great Britain,Swimming
+Gold Medal,1,00:00.0,DEAN Tom,Men's 4 x 200m Freestyle Relay,Great Britain,Swimming
+Gold Medal,1,00:00.0,JARVIS Calum,Men's 4 x 200m Freestyle Relay,Great Britain,Swimming
+Gold Medal,1,00:00.0,GUY James,Men's 4 x 200m Freestyle Relay,Great Britain,Swimming
+Gold Medal,1,00:00.0,RICHARDS Matthew,Men's 4 x 200m Freestyle Relay,Great Britain,Swimming
+Silver Medal,2,00:00.0,RYLOV Evgeny,Men's 4 x 200m Freestyle Relay,ROC,Swimming
+Silver Medal,2,00:00.0,VEKOVISHCHEV Mikhail,Men's 4 x 200m Freestyle Relay,ROC,Swimming
+Silver Medal,2,00:00.0,GIREV Ivan,Men's 4 x 200m Freestyle Relay,ROC,Swimming
+Silver Medal,2,00:00.0,DOVGALYUK Mikhail,Men's 4 x 200m Freestyle Relay,ROC,Swimming
+Silver Medal,2,00:00.0,KRASNYKH Aleksandr,Men's 4 x 200m Freestyle Relay,ROC,Swimming
+Silver Medal,2,00:00.0,MALYUTIN Martin,Men's 4 x 200m Freestyle Relay,ROC,Swimming
+Bronze Medal,3,00:00.0,WINNINGTON Elijah,Men's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,INCERTI Zac,Men's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,GRAHAM Alexander,Men's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,HORTON Mack,Men's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,CHALMERS Kyle,Men's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,NEILL Thomas,Men's 4 x 200m Freestyle Relay,Australia,Swimming
+Gold Medal,1,00:00.0,LEDECKY Kathleen,Women's 1500m Freestyle,United States of America,Swimming
+Silver Medal,2,00:00.0,SULLIVAN Erica,Women's 1500m Freestyle,United States of America,Swimming
+Bronze Medal,3,00:00.0,KOHLER Sarah,Women's 1500m Freestyle,Germany,Swimming
+Gold Medal,1,00:00.0,TITMUS Ariarne,Women's 200m Freestyle,Australia,Swimming
+Silver Medal,2,00:00.0,HAUGHEY Siobhan Bernadette,Women's 200m Freestyle,"Hong Kong, China",Swimming
+Bronze Medal,3,00:00.0,OLEKSIAK Penny,Women's 200m Freestyle,Canada,Swimming
+Gold Medal,1,00:00.0,OHASHI Yui,Women's 200m Individual Medley,Japan,Swimming
+Silver Medal,2,00:00.0,WALSH Alex,Women's 200m Individual Medley,United States of America,Swimming
+Bronze Medal,3,00:00.0,DOUGLASS Kate,Women's 200m Individual Medley,United States of America,Swimming
+Gold Medal,1,00:00.0,SHI Zhiyong,Men's 73kg,People's Republic of China,Weightlifting
+Silver Medal,2,00:00.0,MAYORA PERNIA Julio Ruben,Men's 73kg,Venezuela,Weightlifting
+Bronze Medal,3,00:00.0,ABDULLAH Rahmat Erwin,Men's 73kg,Indonesia,Weightlifting
+Gold Medal,1,00:00.0,LEE Sunisa,Women's All-Around,United States of America,Artistic Gymnastics
+Silver Medal,2,00:00.0,ANDRADE Rebeca,Women's All-Around,Brazil,Artistic Gymnastics
+Bronze Medal,3,00:00.0,MELNIKOVA Angelina,Women's All-Around,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,FOX Jessica,Women's Canoe,Australia,Canoe Slalom
+Silver Medal,2,00:00.0,FRANKLIN Mallory,Women's Canoe,Great Britain,Canoe Slalom
+Bronze Medal,3,00:00.0,HERZOG Andrea,Women's Canoe,Germany,Canoe Slalom
+Gold Medal,1,00:00.0,DERIGLAZOVA Inna,Women's Foil Team,ROC,Fencing
+Gold Medal,1,00:00.0,ZAGIDULLINA Adelina,Women's Foil Team,ROC,Fencing
+Gold Medal,1,00:00.0,KOROBEYNIKOVA Larisa,Women's Foil Team,ROC,Fencing
+Gold Medal,1,00:00.0,MARTYANOVA Marta,Women's Foil Team,ROC,Fencing
+Silver Medal,2,00:00.0,BLAZE Anita,Women's Foil Team,France,Fencing
+Silver Medal,2,00:00.0,GUYART Astrid,Women's Foil Team,France,Fencing
+Silver Medal,2,00:00.0,RANVIER Pauline,Women's Foil Team,France,Fencing
+Silver Medal,2,00:00.0,THIBUS Ysaora,Women's Foil Team,France,Fencing
+Bronze Medal,3,00:00.0,VOLPI Alice,Women's Foil Team,Italy,Fencing
+Bronze Medal,3,00:00.0,ERRIGO Arianna,Women's Foil Team,Italy,Fencing
+Bronze Medal,3,00:00.0,BATINI Martina,Women's Foil Team,Italy,Fencing
+Bronze Medal,3,00:00.0,CIPRESSA Erica,Women's Foil Team,Italy,Fencing
+Gold Medal,1,00:00.0,WOLF Aaron,Men -100 kg,Japan,Judo
+Silver Medal,2,00:00.0,CHO Guham,Men -100 kg,Republic of Korea,Judo
+Bronze Medal,3,00:00.0,ILIASOV Niiaz,Men -100 kg,ROC,Judo
+Bronze Medal,3,00:00.0,FONSECA Jorge,Men -100 kg,Portugal,Judo
+Gold Medal,1,00:00.0,HAMADA Shori,Women -78 kg,Japan,Judo
+Silver Medal,2,00:00.0,MALONGA Madeleine,Women -78 kg,France,Judo
+Bronze Medal,3,00:00.0,AGUIAR Mayra,Women -78 kg,Brazil,Judo
+Bronze Medal,3,00:00.0,WAGNER Anna-Maria,Women -78 kg,Germany,Judo
+Gold Medal,1,00:00.0,Mc CARTHY Fintan,Lightweight Men's Double Sculls,Ireland,Rowing
+Gold Medal,1,00:00.0,O'DONOVAN Paul,Lightweight Men's Double Sculls,Ireland,Rowing
+Silver Medal,2,00:00.0,ROMMELMANN Jonathan,Lightweight Men's Double Sculls,Germany,Rowing
+Silver Medal,2,00:00.0,OSBORNE Jason,Lightweight Men's Double Sculls,Germany,Rowing
+Bronze Medal,3,00:00.0,OPPO Stefano,Lightweight Men's Double Sculls,Italy,Rowing
+Bronze Medal,3,00:00.0,RUTA Pietro,Lightweight Men's Double Sculls,Italy,Rowing
+Gold Medal,1,00:00.0,CESARINI Federica,Lightweight Women's Double Sculls,Italy,Rowing
+Gold Medal,1,00:00.0,RODINI Valentina,Lightweight Women's Double Sculls,Italy,Rowing
+Silver Medal,2,00:00.0,BOVE Claire,Lightweight Women's Double Sculls,France,Rowing
+Silver Medal,2,00:00.0,TARANTOLA Laura,Lightweight Women's Double Sculls,France,Rowing
+Bronze Medal,3,00:00.0,KEIJSER Marieke,Lightweight Women's Double Sculls,Netherlands,Rowing
+Bronze Medal,3,00:00.0,PAULIS Ilse,Lightweight Women's Double Sculls,Netherlands,Rowing
+Gold Medal,1,00:00.0,SINKOVIC Martin,Men's Pair,Croatia,Rowing
+Gold Medal,1,00:00.0,SINKOVIC Valent,Men's Pair,Croatia,Rowing
+Silver Medal,2,00:00.0,COZMIUC Marius,Men's Pair,Romania,Rowing
+Silver Medal,2,00:00.0,TUDOSA Ciprian,Men's Pair,Romania,Rowing
+Bronze Medal,3,00:00.0,VYSTAVEL Frederic,Men's Pair,Denmark,Rowing
+Bronze Medal,3,00:00.0,SUTTON Joachim,Men's Pair,Denmark,Rowing
+Gold Medal,1,00:00.0,PRENDERGAST Grace,Women's Pair,New Zealand,Rowing
+Gold Medal,1,00:00.0,GOWLER Kerri,Women's Pair,New Zealand,Rowing
+Silver Medal,2,00:00.0,ORIABINSKAIA Elena,Women's Pair,ROC,Rowing
+Silver Medal,2,00:00.0,STEPANOVA Vasilisa,Women's Pair,ROC,Rowing
+Bronze Medal,3,00:00.0,JANSSENS Hillary,Women's Pair,Canada,Rowing
+Bronze Medal,3,00:00.0,FILMER Caileigh,Women's Pair,Canada,Rowing
+Gold Medal,1,00:00.0,LIPTAK Jiri,Trap Men,Czech Republic,Shooting
+Silver Medal,2,00:00.0,KOSTELECKY David,Trap Men,Czech Republic,Shooting
+Bronze Medal,3,00:00.0,COWARD HOLLEY Matthew John,Trap Men,Great Britain,Shooting
+Gold Medal,1,00:00.0,REHAK STEFECEKOVA Zuzana,Trap Women,Slovakia,Shooting
+Silver Medal,2,00:00.0,BROWNING Kayle,Trap Women,United States of America,Shooting
+Bronze Medal,3,00:00.0,PERILLI Alessandra,Trap Women,San Marino,Shooting
+Gold Medal,1,00:00.0,DRESSEL Caeleb,Men's 100m Freestyle,United States of America,Swimming
+Silver Medal,2,00:00.0,CHALMERS Kyle,Men's 100m Freestyle,Australia,Swimming
+Bronze Medal,3,00:00.0,KOLESNIKOV Kliment,Men's 100m Freestyle,ROC,Swimming
+Gold Medal,1,00:00.0,STUBBLETY-COOK Izaac,Men's 200m Breaststroke,Australia,Swimming
+Silver Medal,2,00:00.0,KAMMINGA Arno,Men's 200m Breaststroke,Netherlands,Swimming
+Bronze Medal,3,00:00.0,MATTSSON Matti,Men's 200m Breaststroke,Finland,Swimming
+Gold Medal,1,00:00.0,FINKE Robert,Men's 800m Freestyle,United States of America,Swimming
+Silver Medal,2,00:00.0,PALTRINIERI Gregorio,Men's 800m Freestyle,Italy,Swimming
+Bronze Medal,3,00:00.0,ROMANCHUK Mykhailo,Men's 800m Freestyle,Ukraine,Swimming
+Gold Medal,1,00:00.0,ZHANG Yufei,Women's 200m Butterfly,People's Republic of China,Swimming
+Silver Medal,2,00:00.0,SMITH Regan,Women's 200m Butterfly,United States of America,Swimming
+Bronze Medal,3,00:00.0,FLICKINGER Hali,Women's 200m Butterfly,United States of America,Swimming
+Gold Medal,1,00:00.0,YANG Junxuan,Women's 4 x 200m Freestyle Relay,People's Republic of China,Swimming
+Gold Medal,1,00:00.0,ZHANG Yufei,Women's 4 x 200m Freestyle Relay,People's Republic of China,Swimming
+Gold Medal,1,00:00.0,DONG Jie,Women's 4 x 200m Freestyle Relay,People's Republic of China,Swimming
+Gold Medal,1,00:00.0,ZHANG Yifan,Women's 4 x 200m Freestyle Relay,People's Republic of China,Swimming
+Gold Medal,1,00:00.0,TANG Muhan,Women's 4 x 200m Freestyle Relay,People's Republic of China,Swimming
+Gold Medal,1,00:00.0,LI Bingjie,Women's 4 x 200m Freestyle Relay,People's Republic of China,Swimming
+Silver Medal,2,00:00.0,MADDEN Paige,Women's 4 x 200m Freestyle Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,Mc LAUGHLIN Kathryn,Women's 4 x 200m Freestyle Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,SIMS Arabella,Women's 4 x 200m Freestyle Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,LEDECKY Kathleen,Women's 4 x 200m Freestyle Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,FORDE Brooke,Women's 4 x 200m Freestyle Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,SCHMITT Allison,Women's 4 x 200m Freestyle Relay,United States of America,Swimming
+Bronze Medal,3,00:00.0,THROSSELL Brianna,Women's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,WILSON Madison,Women's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,O'CALLAGHAN Mollie,Women's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,COOK Tamsin,Women's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,HARRIS Meg,Women's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,TITMUS Ariarne,Women's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,NEALE Leah,Women's 4 x 200m Freestyle Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,McKEON Emma,Women's 4 x 200m Freestyle Relay,Australia,Swimming
+Gold Medal,1,00:00.0,CHEN Meng,Women's Singles,People's Republic of China,Table Tennis
+Silver Medal,2,00:00.0,SUN Yingsha,Women's Singles,People's Republic of China,Table Tennis
+Bronze Medal,3,00:00.0,ITO Mima,Women's Singles,Japan,Table Tennis
+Gold Medal,1,00:00.0,AN San,Women's Individual,Republic of Korea,Archery
+Silver Medal,2,00:00.0,OSIPOVA Elena,Women's Individual,ROC,Archery
+Bronze Medal,3,00:00.0,BOARI Lucilla,Women's Individual,Italy,Archery
+Gold Medal,1,00:00.0,BAREGA Selemon,"Men's 10,000m",Ethiopia,Athletics
+Silver Medal,2,00:00.0,CHEPTEGEI Joshua,"Men's 10,000m",Uganda,Athletics
+Bronze Medal,3,00:00.0,KIPLIMO Jacob,"Men's 10,000m",Uganda,Athletics
+Gold Medal,1,00:00.0,WANG Yi Lyu,Mixed Doubles,People's Republic of China,Badminton
+Gold Medal,1,00:00.0,HUANG Dong Ping,Mixed Doubles,People's Republic of China,Badminton
+Silver Medal,2,00:00.0,ZHENG Si Wei,Mixed Doubles,People's Republic of China,Badminton
+Silver Medal,2,00:00.0,HUANG Ya Qiong,Mixed Doubles,People's Republic of China,Badminton
+Bronze Medal,3,00:00.0,WATANABE Yuta,Mixed Doubles,Japan,Badminton
+Bronze Medal,3,00:00.0,HIGASHINO Arisa,Mixed Doubles,Japan,Badminton
+Gold Medal,1,00:00.0,PRSKAVEC Jiri,Men's Kayak,Czech Republic,Canoe Slalom
+Silver Medal,2,00:00.0,GRIGAR Jakub,Men's Kayak,Slovakia,Canoe Slalom
+Bronze Medal,3,00:00.0,AIGNER Hannes,Men's Kayak,Germany,Canoe Slalom
+Gold Medal,1,00:00.0,KIMMANN Niek,Men,Netherlands,Cycling BMX Racing
+Silver Medal,2,00:00.0,WHYTE Kye,Men,Great Britain,Cycling BMX Racing
+Bronze Medal,3,00:00.0,RAMIREZ YEPES Carlos Alberto,Men,Colombia,Cycling BMX Racing
+Gold Medal,1,00:00.0,SHRIEVER Bethany,Women,Great Britain,Cycling BMX Racing
+Silver Medal,2,00:00.0,PAJON Mariana,Women,Colombia,Cycling BMX Racing
+Bronze Medal,3,00:00.0,SMULDERS Merel,Women,Netherlands,Cycling BMX Racing
+Gold Medal,1,00:00.0,MINOBE Kazuyasu,Men's &Eacute;p&eacute;e Team,Japan,Fencing
+Gold Medal,1,00:00.0,KANO Koki,Men's &Eacute;p&eacute;e Team,Japan,Fencing
+Gold Medal,1,00:00.0,YAMADA Masaru,Men's &Eacute;p&eacute;e Team,Japan,Fencing
+Gold Medal,1,00:00.0,UYAMA Satoru,Men's &Eacute;p&eacute;e Team,Japan,Fencing
+Silver Medal,2,00:00.0,BIDA Sergey,Men's &Eacute;p&eacute;e Team,ROC,Fencing
+Silver Medal,2,00:00.0,KHODOS Sergey,Men's &Eacute;p&eacute;e Team,ROC,Fencing
+Silver Medal,2,00:00.0,SUKHOV Pavel,Men's &Eacute;p&eacute;e Team,ROC,Fencing
+Silver Medal,2,00:00.0,GLAZKOV Nikita,Men's &Eacute;p&eacute;e Team,ROC,Fencing
+Bronze Medal,3,00:00.0,KWEON Youngjun,Men's &Eacute;p&eacute;e Team,Republic of Korea,Fencing
+Bronze Medal,3,00:00.0,PARK Sangyoung,Men's &Eacute;p&eacute;e Team,Republic of Korea,Fencing
+Bronze Medal,3,00:00.0,MA Segeon,Men's &Eacute;p&eacute;e Team,Republic of Korea,Fencing
+Bronze Medal,3,00:00.0,SONG Jaeho,Men's &Eacute;p&eacute;e Team,Republic of Korea,Fencing
+Gold Medal,1,00:00.0,KRPALEK Lukas,Men +100 kg,Czech Republic,Judo
+Silver Medal,2,00:00.0,TUSHISHVILI Guram,Men +100 kg,Georgia,Judo
+Bronze Medal,3,00:00.0,RINER Teddy,Men +100 kg,France,Judo
+Bronze Medal,3,00:00.0,BASHAEV Tamerlan,Men +100 kg,ROC,Judo
+Gold Medal,1,00:00.0,SONE Akira,Women +78 kg,Japan,Judo
+Silver Medal,2,00:00.0,ORTIZ Idalys,Women +78 kg,Cuba,Judo
+Bronze Medal,3,00:00.0,DICKO Romane,Women +78 kg,France,Judo
+Bronze Medal,3,00:00.0,KINDZERSKA Iryna,Women +78 kg,Azerbaijan,Judo
+Gold Medal,1,00:00.0,BOND Hamish,Men's Eight,New Zealand,Rowing
+Gold Medal,1,00:00.0,BOSWORTH Sam,Men's Eight,New Zealand,Rowing
+Gold Medal,1,00:00.0,BRAKE Michael,Men's Eight,New Zealand,Rowing
+Gold Medal,1,00:00.0,KIRKHAM Shaun,Men's Eight,New Zealand,Rowing
+Gold Medal,1,00:00.0,MACDONALD Matt,Men's Eight,New Zealand,Rowing
+Gold Medal,1,00:00.0,MACKINTOSH Thomas,Men's Eight,New Zealand,Rowing
+Gold Medal,1,00:00.0,MURRAY Tom,Men's Eight,New Zealand,Rowing
+Gold Medal,1,00:00.0,WILLIAMSON Daniel,Men's Eight,New Zealand,Rowing
+Gold Medal,1,00:00.0,WILSON Phillip,Men's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,FOLLERT Laurits,Men's Eight,Germany,Rowing
+Silver Medal,2,00:00.0,JAKSCHIK Malte,Men's Eight,Germany,Rowing
+Silver Medal,2,00:00.0,JOHANNESEN Torben,Men's Eight,Germany,Rowing
+Silver Medal,2,00:00.0,OCIK Hannes,Men's Eight,Germany,Rowing
+Silver Medal,2,00:00.0,SAUER Martin,Men's Eight,Germany,Rowing
+Silver Medal,2,00:00.0,SCHMIDT Richard,Men's Eight,Germany,Rowing
+Silver Medal,2,00:00.0,SCHNEIDER Jakob,Men's Eight,Germany,Rowing
+Silver Medal,2,00:00.0,WEISSENFELD Johannes,Men's Eight,Germany,Rowing
+Silver Medal,2,00:00.0,ROGGENSACK Olaf,Men's Eight,Germany,Rowing
+Bronze Medal,3,00:00.0,BUGAJSKI Josh,Men's Eight,Great Britain,Rowing
+Bronze Medal,3,00:00.0,DAWSON Jacob,Men's Eight,Great Britain,Rowing
+Bronze Medal,3,00:00.0,ELWES Charles,Men's Eight,Great Britain,Rowing
+Bronze Medal,3,00:00.0,FIELDMAN Henry,Men's Eight,Great Britain,Rowing
+Bronze Medal,3,00:00.0,FORD Tom,Men's Eight,Great Britain,Rowing
+Bronze Medal,3,00:00.0,GEORGE Tom,Men's Eight,Great Britain,Rowing
+Bronze Medal,3,00:00.0,RUDKIN James,Men's Eight,Great Britain,Rowing
+Bronze Medal,3,00:00.0,SBIHI Mohamed,Men's Eight,Great Britain,Rowing
+Bronze Medal,3,00:00.0,WYNNE-GRIFFITH Oliver,Men's Eight,Great Britain,Rowing
+Gold Medal,1,00:00.0,NTOUSKOS Stefanos,Men's Single Sculls,Greece,Rowing
+Silver Medal,2,00:00.0,BORCH Kjetil,Men's Single Sculls,Norway,Rowing
+Bronze Medal,3,00:00.0,MARTIN Damir,Men's Single Sculls,Croatia,Rowing
+Gold Medal,1,00:00.0,GRAINGER Susanne,Women's Eight,Canada,Rowing
+Gold Medal,1,00:00.0,GRUCHALLA-WESIERSKI Kasia,Women's Eight,Canada,Rowing
+Gold Medal,1,00:00.0,KIT Kristen,Women's Eight,Canada,Rowing
+Gold Medal,1,00:00.0,MAILEY Madison,Women's Eight,Canada,Rowing
+Gold Medal,1,00:00.0,PAYNE Sydney,Women's Eight,Canada,Rowing
+Gold Medal,1,00:00.0,PROSKE Andrea,Women's Eight,Canada,Rowing
+Gold Medal,1,00:00.0,ROMAN Lisa,Women's Eight,Canada,Rowing
+Gold Medal,1,00:00.0,ROPER Christine,Women's Eight,Canada,Rowing
+Gold Medal,1,00:00.0,WASTENEYS Avalon,Women's Eight,Canada,Rowing
+Silver Medal,2,00:00.0,DYKE Emma,Women's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,GOWLER Jackie,Women's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,GOWLER Kerri,Women's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,BEVAN Kelsey,Women's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,PRENDERGAST Grace,Women's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,ROSS Beth,Women's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,SHEPHERD Caleb,Women's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,SPOORS Lucy,Women's Eight,New Zealand,Rowing
+Silver Medal,2,00:00.0,GREENSLADE Ella,Women's Eight,New Zealand,Rowing
+Bronze Medal,3,00:00.0,ZHANG Min,Women's Eight,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,GUO Linlin,Women's Eight,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,JU Rui,Women's Eight,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,LI Jingjing,Women's Eight,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,MIAO Tian,Women's Eight,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,WANG Yuwei,Women's Eight,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,WANG Zifeng,Women's Eight,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,XU Fei,Women's Eight,People's Republic of China,Rowing
+Bronze Medal,3,00:00.0,ZHANG Dechang,Women's Eight,People's Republic of China,Rowing
+Gold Medal,1,00:00.0,TWIGG Emma,Women's Single Sculls,New Zealand,Rowing
+Silver Medal,2,00:00.0,PRAKATSEN Hanna,Women's Single Sculls,ROC,Rowing
+Bronze Medal,3,00:00.0,LOBNIG Magdalena,Women's Single Sculls,Austria,Rowing
+Gold Medal,1,00:00.0,BATSARASHKINA Vitalina,25m Pistol Women,ROC,Shooting
+Silver Medal,2,00:00.0,KIM Minjung,25m Pistol Women,Republic of Korea,Shooting
+Bronze Medal,3,00:00.0,XIAO Jiaruixuan,25m Pistol Women,People's Republic of China,Shooting
+Gold Medal,1,00:00.0,RYLOV Evgeny,Men's 200m Backstroke,ROC,Swimming
+Silver Medal,2,00:00.0,MURPHY Ryan,Men's 200m Backstroke,United States of America,Swimming
+Bronze Medal,3,00:00.0,GREENBANK Luke,Men's 200m Backstroke,Great Britain,Swimming
+Gold Medal,1,00:00.0,WANG Shun,Men's 200m Individual Medley,People's Republic of China,Swimming
+Silver Medal,2,00:00.0,SCOTT Duncan,Men's 200m Individual Medley,Great Britain,Swimming
+Bronze Medal,3,00:00.0,DESPLANCHES Jeremy,Men's 200m Individual Medley,Switzerland,Swimming
+Gold Medal,1,00:00.0,McKEON Emma,Women's 100m Freestyle,Australia,Swimming
+Silver Medal,2,00:00.0,HAUGHEY Siobhan Bernadette,Women's 100m Freestyle,"Hong Kong, China",Swimming
+Bronze Medal,3,00:00.0,CAMPBELL Cate,Women's 100m Freestyle,Australia,Swimming
+Gold Medal,1,00:00.0,SCHOENMAKER Tatjana,Women's 200m Breaststroke,South Africa,Swimming
+Silver Medal,2,00:00.0,KING Lilly,Women's 200m Breaststroke,United States of America,Swimming
+Bronze Medal,3,00:00.0,LAZOR Annie,Women's 200m Breaststroke,United States of America,Swimming
+Gold Medal,1,00:00.0,MA Long,Men's Singles,People's Republic of China,Table Tennis
+Silver Medal,2,00:00.0,FAN Zhendong,Men's Singles,People's Republic of China,Table Tennis
+Bronze Medal,3,00:00.0,OVTCHAROV Dimitrij,Men's Singles,Germany,Table Tennis
+Gold Medal,1,00:00.0,MEKTIC Nikola,Men's Doubles,Croatia,Tennis
+Gold Medal,1,00:00.0,PAVIC Mate,Men's Doubles,Croatia,Tennis
+Silver Medal,2,00:00.0,CILIC Marin,Men's Doubles,Croatia,Tennis
+Silver Medal,2,00:00.0,DODIG Ivan,Men's Doubles,Croatia,Tennis
+Bronze Medal,3,00:00.0,DANIELL Marcus,Men's Doubles,New Zealand,Tennis
+Bronze Medal,3,00:00.0,VENUS Michael,Men's Doubles,New Zealand,Tennis
+Gold Medal,1,00:00.0,ZHU Xueying,Women,People's Republic of China,Trampoline Gymnastics
+Silver Medal,2,00:00.0,LIU Lingling,Women,People's Republic of China,Trampoline Gymnastics
+Bronze Medal,3,00:00.0,PAGE Bryony,Women,Great Britain,Trampoline Gymnastics
+Gold Medal,1,00:00.0,GAZOZ Mete,Men's Individual,Turkey,Archery
+Silver Medal,2,00:00.0,NESPOLI Mauro,Men's Individual,Italy,Archery
+Bronze Medal,3,00:00.0,FURUKAWA Takaharu,Men's Individual,Japan,Archery
+Gold Medal,1,00:00.0,HOLUB-KOWALIK Malgorzata,4 x 400m Relay Mixed,Poland,Athletics
+Gold Medal,1,00:00.0,KACZMAREK Natalia,4 x 400m Relay Mixed,Poland,Athletics
+Gold Medal,1,00:00.0,BAUMGART-WITAN Iga,4 x 400m Relay Mixed,Poland,Athletics
+Gold Medal,1,00:00.0,SWIETY-ERSETIC Justyna,4 x 400m Relay Mixed,Poland,Athletics
+Gold Medal,1,00:00.0,DUSZYNSKI Kajetan,4 x 400m Relay Mixed,Poland,Athletics
+Gold Medal,1,00:00.0,ZALEWSKI Karol,4 x 400m Relay Mixed,Poland,Athletics
+Gold Medal,1,00:00.0,KOWALUK Dariusz,4 x 400m Relay Mixed,Poland,Athletics
+Silver Medal,2,00:00.0,OGANDO Alexander,4 x 400m Relay Mixed,Dominican Republic,Athletics
+Silver Medal,2,00:00.0,SANTOS Luguelin,4 x 400m Relay Mixed,Dominican Republic,Athletics
+Silver Medal,2,00:00.0,FELIZ Lidio Andres,4 x 400m Relay Mixed,Dominican Republic,Athletics
+Silver Medal,2,00:00.0,PAULINO Marileidy,4 x 400m Relay Mixed,Dominican Republic,Athletics
+Silver Medal,2,00:00.0,MEDINA VENTURA Anabel,4 x 400m Relay Mixed,Dominican Republic,Athletics
+Bronze Medal,3,00:00.0,GODWIN Elija,4 x 400m Relay Mixed,United States of America,Athletics
+Bronze Medal,3,00:00.0,DEADMON Bryce,4 x 400m Relay Mixed,United States of America,Athletics
+Bronze Medal,3,00:00.0,ELLIS Kendall,4 x 400m Relay Mixed,United States of America,Athletics
+Bronze Medal,3,00:00.0,WHITNEY Kaylin,4 x 400m Relay Mixed,United States of America,Athletics
+Bronze Medal,3,00:00.0,STEWART Trevor,4 x 400m Relay Mixed,United States of America,Athletics
+Bronze Medal,3,00:00.0,MANSON Taylor,4 x 400m Relay Mixed,United States of America,Athletics
+Bronze Medal,3,00:00.0,IRBY Lynna,4 x 400m Relay Mixed,United States of America,Athletics
+Bronze Medal,3,00:00.0,NORWOOD Vernon,4 x 400m Relay Mixed,United States of America,Athletics
+Gold Medal,1,00:00.0,STAHL Daniel,Men's Discus Throw,Sweden,Athletics
+Silver Medal,2,00:00.0,PETTERSSON Simon,Men's Discus Throw,Sweden,Athletics
+Bronze Medal,3,00:00.0,WEISSHAIDINGER Lukas,Men's Discus Throw,Austria,Athletics
+Gold Medal,1,00:00.0,THOMPSON-HERAH Elaine,Women's 100m,Jamaica,Athletics
+Silver Medal,2,00:00.0,FRASER-PRYCE Shelly-Ann,Women's 100m,Jamaica,Athletics
+Bronze Medal,3,00:00.0,JACKSON Shericka,Women's 100m,Jamaica,Athletics
+Gold Medal,1,00:00.0,WANG Chi-Lin,Men's Doubles,Chinese Taipei,Badminton
+Gold Medal,1,00:00.0,LEE Yang,Men's Doubles,Chinese Taipei,Badminton
+Silver Medal,2,00:00.0,LI Jun Hui,Men's Doubles,People's Republic of China,Badminton
+Silver Medal,2,00:00.0,LIU Yu Chen,Men's Doubles,People's Republic of China,Badminton
+Bronze Medal,3,00:00.0,CHIA Aaron,Men's Doubles,Malaysia,Badminton
+Bronze Medal,3,00:00.0,SOH Wooi Yik,Men's Doubles,Malaysia,Badminton
+Bronze Medal,3,00:00.0,TESTA Irma,Women's Feather (54-57kg),Italy,Boxing
+Bronze Medal,3,00:00.0,ARTINGSTALL Karriss,Women's Feather (54-57kg),Great Britain,Boxing
+Gold Medal,1,00:00.0,POZDNIAKOVA Sofia,Women's Sabre Team,ROC,Fencing
+Gold Medal,1,00:00.0,NIKITINA Olga,Women's Sabre Team,ROC,Fencing
+Gold Medal,1,00:00.0,VELIKAYA Sofya,Women's Sabre Team,ROC,Fencing
+Silver Medal,2,00:00.0,BALZER Sara,Women's Sabre Team,France,Fencing
+Silver Medal,2,00:00.0,BERDER Cecilia,Women's Sabre Team,France,Fencing
+Silver Medal,2,00:00.0,BRUNET Manon,Women's Sabre Team,France,Fencing
+Silver Medal,2,00:00.0,LEMBACH Charlotte,Women's Sabre Team,France,Fencing
+Bronze Medal,3,00:00.0,KIM Jiyeon,Women's Sabre Team,Republic of Korea,Fencing
+Bronze Medal,3,00:00.0,YOON Jisu,Women's Sabre Team,Republic of Korea,Fencing
+Bronze Medal,3,00:00.0,SEO Jiyeon,Women's Sabre Team,Republic of Korea,Fencing
+Bronze Medal,3,00:00.0,CHOI Sooyeon,Women's Sabre Team,Republic of Korea,Fencing
+Gold Medal,1,00:00.0,BUCHARD Amandine,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,RINER Teddy,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,le BLOUCH Kilian,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,CHAINE Guillaume,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,CLERGET Axel,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,IDDIR Alexandre,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,DICKO Romane,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,MALONGA Madeleine,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,AGBEGNENOU Clarisse,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,PINOT Margaux,Mixed Team,France,Judo
+Gold Medal,1,00:00.0,CYSIQUE Sarah Leonie,Mixed Team,France,Judo
+Silver Medal,2,00:00.0,ABE Uta,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,ARAI Chizuru,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,YOSHIDA Tsukasa,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,TASHIRO Miku,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,SONE Akira,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,HARASAWA Hisayoshi,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,HAMADA Shori,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,NAGASE Takanori,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,WOLF Aaron,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,MUKAI Shoichiro,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,ONO Shohei,Mixed Team,Japan,Judo
+Silver Medal,2,00:00.0,ABE Hifumi,Mixed Team,Japan,Judo
+Bronze Medal,3,00:00.0,MUKI Sagi,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,BUTBUL Tohar,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,SASSON Or,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,KOCHMAN Li,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,SHMAILOV Baruch,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,PALTCHIK Peter,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,LANIR Inbar,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,SHARIR Gili,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,HERSHKO Raz,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,NELSON LEVY Timna,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,RISHONY Shira,Mixed Team,Israel,Judo
+Bronze Medal,3,00:00.0,WAGNER Anna-Maria,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,MENZ Katharina,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,SCOCCIMARRO Giovanna,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,FREY Karl-Richard,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,RESSEL Dominic,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,SEIDL Sebastian,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,WANDTKE Igor,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,FREY Johannes,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,TRIPPEL Eduard,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,TRAJDOS Martyna,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,STOLL Theresa,Mixed Team,Germany,Judo
+Bronze Medal,3,00:00.0,GRABOWSKI Jasmin,Mixed Team,Germany,Judo
+Gold Medal,1,00:00.0,BLYDE Michaela,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,BROUGHTON Gayle,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,POURI-LANE Risi,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,SAILI Alena,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,KAKA Shiray,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,TUI Ruby,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,FLUHLER Stacey,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,WILLISON Tenika,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,WOODMAN Portia,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,NATHAN-WONG Tyla,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,FITZPATRICK Theresa,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,HIRINI Sarah,Women,New Zealand,Rugby Sevens
+Gold Medal,1,00:00.0,BRAZIER Kelly,Women,New Zealand,Rugby Sevens
+Silver Medal,2,00:00.0,BERTRAND Coralie,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,CIOFANI Anne-Cecile,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,DROUIN Caroline,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,GRASSINEAU Camille,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,GUERIN Lina,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,HORTA Fanny,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,IZAR Shannon,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,JACQUET Chloe,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,ULUTULE Jade,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,NEISEN Carla,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,OKEMBA Seraphine,Women,France,Rugby Sevens
+Silver Medal,2,00:00.0,PELLE Chloe,Women,France,Rugby Sevens
+Bronze Medal,3,00:00.0,LIKUCEVA Laisana,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,ULUNISAU Reapi,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,ROQICA Ana,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,NAGASAU Rusila,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,SOLIKOVITI Vasiti,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,TINAI Lavenia,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,NAIMASI Ana Maria,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,RIWAI Viniana,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,RADINIYAVUNI Roela,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,NAKOCI Alowesi,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,DAVEUA Raijieli,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,CAVURU Lavena,Women,Fiji,Rugby Sevens
+Bronze Medal,3,00:00.0,DONU Sesenieli,Women,Fiji,Rugby Sevens
+Gold Medal,1,00:00.0,BADLOE Kiran,Men's Windsurfer - RS:X,Netherlands,Sailing
+Silver Medal,2,00:00.0,GOYARD Thomas,Men's Windsurfer - RS:X,France,Sailing
+Bronze Medal,3,00:00.0,BI Kun,Men's Windsurfer - RS:X,People's Republic of China,Sailing
+Gold Medal,1,00:00.0,LU Yunxiu,Women's Windsurfer - RS:X,People's Republic of China,Sailing
+Silver Medal,2,00:00.0,PICON Charline,Women's Windsurfer - RS:X,France,Sailing
+Bronze Medal,3,00:00.0,WILSON Emma,Women's Windsurfer - RS:X,Great Britain,Sailing
+Gold Medal,1,00:00.0,CHRISTEN Nina,50m Rifle 3 Positions Women,Switzerland,Shooting
+Silver Medal,2,00:00.0,ZYKOVA Yulia,50m Rifle 3 Positions Women,ROC,Shooting
+Bronze Medal,3,00:00.0,KARIMOVA Yulia,50m Rifle 3 Positions Women,ROC,Shooting
+Gold Medal,1,00:00.0,FERNANDEZ Alberto,Trap Mixed Team,Spain,Shooting
+Gold Medal,1,00:00.0,GALVEZ Fatima,Trap Mixed Team,Spain,Shooting
+Silver Medal,2,00:00.0,PERILLI Alessandra,Trap Mixed Team,San Marino,Shooting
+Silver Medal,2,00:00.0,BERTI Gian Marco,Trap Mixed Team,San Marino,Shooting
+Bronze Medal,3,00:00.0,BERNAU Madelynn Ann,Trap Mixed Team,United States of America,Shooting
+Bronze Medal,3,00:00.0,BURROWS Brian,Trap Mixed Team,United States of America,Shooting
+Gold Medal,1,00:00.0,DRESSEL Caeleb,Men's 100m Butterfly,United States of America,Swimming
+Silver Medal,2,00:00.0,MILAK Kristof,Men's 100m Butterfly,Hungary,Swimming
+Bronze Medal,3,00:00.0,PONTI Noe,Men's 100m Butterfly,Switzerland,Swimming
+Gold Medal,1,00:00.0,ANDERSON Freya,Mixed 4 x 100m Medley Relay,Great Britain,Swimming
+Gold Medal,1,00:00.0,DAWSON Kathleen,Mixed 4 x 100m Medley Relay,Great Britain,Swimming
+Gold Medal,1,00:00.0,GUY James,Mixed 4 x 100m Medley Relay,Great Britain,Swimming
+Gold Medal,1,00:00.0,HOPKIN Anna,Mixed 4 x 100m Medley Relay,Great Britain,Swimming
+Gold Medal,1,00:00.0,PEATY Adam,Mixed 4 x 100m Medley Relay,Great Britain,Swimming
+Silver Medal,2,00:00.0,ZHANG Yufei,Mixed 4 x 100m Medley Relay,People's Republic of China,Swimming
+Silver Medal,2,00:00.0,YANG Junxuan,Mixed 4 x 100m Medley Relay,People's Republic of China,Swimming
+Silver Medal,2,00:00.0,YAN Zibei,Mixed 4 x 100m Medley Relay,People's Republic of China,Swimming
+Silver Medal,2,00:00.0,XU Jiayu,Mixed 4 x 100m Medley Relay,People's Republic of China,Swimming
+Bronze Medal,3,00:00.0,TEMPLE Matthew,Mixed 4 x 100m Medley Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,THROSSELL Brianna,Mixed 4 x 100m Medley Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,COOPER Isaac,Mixed 4 x 100m Medley Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,STUBBLETY-COOK Izaac,Mixed 4 x 100m Medley Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,McKEOWN Kaylee,Mixed 4 x 100m Medley Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,McKEON Emma,Mixed 4 x 100m Medley Relay,Australia,Swimming
+Bronze Medal,3,00:00.0,CAMPBELL Bronte,Mixed 4 x 100m Medley Relay,Australia,Swimming
+Gold Medal,1,00:00.0,McKEOWN Kaylee,Women's 200m Backstroke,Australia,Swimming
+Silver Medal,2,00:00.0,MASSE Kylie,Women's 200m Backstroke,Canada,Swimming
+Bronze Medal,3,00:00.0,SEEBOHM Emily,Women's 200m Backstroke,Australia,Swimming
+Gold Medal,1,00:00.0,LEDECKY Kathleen,Women's 800m Freestyle,United States of America,Swimming
+Silver Medal,2,00:00.0,TITMUS Ariarne,Women's 800m Freestyle,Australia,Swimming
+Bronze Medal,3,00:00.0,QUADARELLA Simona,Women's 800m Freestyle,Italy,Swimming
+Bronze Medal,3,00:00.0,CARRENO BUSTA Pablo,Men's Singles,Spain,Tennis
+Bronze Medal,3,00:00.0,PEERS John,Mixed Doubles,Australia,Tennis
+Bronze Medal,3,00:00.0,BARTY Ashleigh,Mixed Doubles,Australia,Tennis
+Bronze Medal,3,00:00.0,PIGOSSI Laura,Women's Doubles,Brazil,Tennis
+Bronze Medal,3,00:00.0,STEFANI Luisa,Women's Doubles,Brazil,Tennis
+Gold Medal,1,00:00.0,BENCIC Belinda,Women's Singles,Switzerland,Tennis
+Silver Medal,2,00:00.0,VONDROUSOVA Marketa,Women's Singles,Czech Republic,Tennis
+Bronze Medal,3,00:00.0,SVITOLINA Elina,Women's Singles,Ukraine,Tennis
+Gold Medal,1,00:00.0,LITVINOVICH Ivan,Men,Belarus,Trampoline Gymnastics
+Silver Medal,2,00:00.0,DONG Dong,Men,People's Republic of China,Trampoline Gymnastics
+Bronze Medal,3,00:00.0,SCHMIDT Dylan,Men,New Zealand,Trampoline Gymnastics
+Gold Medal,1,00:00.0,TAYLOR-BROWN Georgia,Mixed Relay,Great Britain,Triathlon
+Gold Medal,1,00:00.0,YEE Alex,Mixed Relay,Great Britain,Triathlon
+Gold Medal,1,00:00.0,BROWNLEE Jonathan,Mixed Relay,Great Britain,Triathlon
+Gold Medal,1,00:00.0,LEARMONTH Jessica,Mixed Relay,Great Britain,Triathlon
+Silver Medal,2,00:00.0,ZAFERES Katie,Mixed Relay,United States of America,Triathlon
+Silver Medal,2,00:00.0,PEARSON Morgan,Mixed Relay,United States of America,Triathlon
+Silver Medal,2,00:00.0,KNIBB Taylor,Mixed Relay,United States of America,Triathlon
+Silver Medal,2,00:00.0,McDOWELL Kevin,Mixed Relay,United States of America,Triathlon
+Bronze Medal,3,00:00.0,BEAUGRAND Cassandre,Mixed Relay,France,Triathlon
+Bronze Medal,3,00:00.0,CONINX Dorian,Mixed Relay,France,Triathlon
+Bronze Medal,3,00:00.0,LUIS Vincent,Mixed Relay,France,Triathlon
+Bronze Medal,3,00:00.0,PERIAULT Leonie,Mixed Relay,France,Triathlon
+Gold Medal,1,00:00.0,LYU Xiaojun,Men's 81kg,People's Republic of China,Weightlifting
+Silver Medal,2,00:00.0,BONNAT MICHEL Zacarias,Men's 81kg,Dominican Republic,Weightlifting
+Bronze Medal,3,00:00.0,PIZZOLATO Antonino,Men's 81kg,Italy,Weightlifting
+Gold Medal,1,00:00.0,ELBAKH Fares Ibrahim E H,Men's 96kg,Qatar,Weightlifting
+Silver Medal,2,00:00.0,VALLENILLA SANCHEZ Keydomar Giovan.,Men's 96kg,Venezuela,Weightlifting
+Bronze Medal,3,00:00.0,PLIESNOI Anton,Men's 96kg,Georgia,Weightlifting
+Gold Medal,1,00:00.0,DOLGOPYAT Artem,Men's Floor Exercise,Israel,Artistic Gymnastics
+Silver Medal,2,00:00.0,ZAPATA Rayderley,Men's Floor Exercise,Spain,Artistic Gymnastics
+Bronze Medal,3,00:00.0,XIAO Ruoteng,Men's Floor Exercise,People's Republic of China,Artistic Gymnastics
+Gold Medal,1,00:00.0,WHITLOCK Max,Men's Pommel Horse,Great Britain,Artistic Gymnastics
+Silver Medal,2,00:00.0,LEE Chih Kai,Men's Pommel Horse,Chinese Taipei,Artistic Gymnastics
+Bronze Medal,3,00:00.0,KAYA Kazuma,Men's Pommel Horse,Japan,Artistic Gymnastics
+Gold Medal,1,00:00.0,DERWAEL Nina,Women's Uneven Bars,Belgium,Artistic Gymnastics
+Silver Medal,2,00:00.0,ILIANKOVA Anastasiia,Women's Uneven Bars,ROC,Artistic Gymnastics
+Bronze Medal,3,00:00.0,LEE Sunisa,Women's Uneven Bars,United States of America,Artistic Gymnastics
+Gold Medal,1,00:00.0,ANDRADE Rebeca,Women's Vault,Brazil,Artistic Gymnastics
+Silver Medal,2,00:00.0,SKINNER Mykayla,Women's Vault,United States of America,Artistic Gymnastics
+Bronze Medal,3,00:00.0,YEO Seojeong,Women's Vault,Republic of Korea,Artistic Gymnastics
+Gold Medal,1,00:00.0,JACOBS Lamont Marcell,Men's 100m,Italy,Athletics
+Silver Medal,2,00:00.0,KERLEY Fred,Men's 100m,United States of America,Athletics
+Bronze Medal,3,00:00.0,de GRASSE Andre,Men's 100m,Canada,Athletics
+Gold Medal,1,00:00.0,BARSHIM Mutaz Essa,Men's High Jump,Qatar,Athletics
+Gold Medal,1,00:00.0,TAMBERI Gianmarco,Men's High Jump,Italy,Athletics
+Bronze Medal,3,00:00.0,NEDASEKAU Maksim,Men's High Jump,Belarus,Athletics
+Gold Medal,1,00:00.0,GONG Lijiao,Women's Shot Put,People's Republic of China,Athletics
+Silver Medal,2,00:00.0,SAUNDERS Raven,Women's Shot Put,United States of America,Athletics
+Bronze Medal,3,00:00.0,ADAMS Valerie,Women's Shot Put,New Zealand,Athletics
+Gold Medal,1,00:00.0,ROJAS Yulimar,Women's Triple Jump,Venezuela,Athletics
+Silver Medal,2,00:00.0,MAMONA Patricia,Women's Triple Jump,Portugal,Athletics
+Bronze Medal,3,00:00.0,PELETEIRO Ana,Women's Triple Jump,Spain,Athletics
+Gold Medal,1,00:00.0,CHEN Yu Fei,Women's Singles,People's Republic of China,Badminton
+Silver Medal,2,00:00.0,TAI Tzu-Ying,Women's Singles,Chinese Taipei,Badminton
+Bronze Medal,3,00:00.0,PUSARLA V. Sindhu,Women's Singles,India,Badminton
+Bronze Medal,3,00:00.0,ALFONSO DOMINGUEZ Loren Berto,Men's Light Heavy (75-81kg),Azerbaijan,Boxing
+Bronze Medal,3,00:00.0,KHATAEV Imam,Men's Light Heavy (75-81kg),ROC,Boxing
+Bronze Medal,3,00:00.0,WALSH Aidan,Men's Welter (63-69kg),Ireland,Boxing
+Bronze Medal,3,00:00.0,ZAMKOVOI Andrei,Men's Welter (63-69kg),ROC,Boxing
+Gold Medal,1,00:00.0,MARTIN Logan,Men's Park,Australia,Cycling BMX Freestyle
+Silver Medal,2,00:00.0,DHERS Daniel,Men's Park,Venezuela,Cycling BMX Freestyle
+Bronze Medal,3,00:00.0,BROOKS Declan,Men's Park,Great Britain,Cycling BMX Freestyle
+Gold Medal,1,00:00.0,WORTHINGTON Charlotte,Women's Park,Great Britain,Cycling BMX Freestyle
+Silver Medal,2,00:00.0,ROBERTS Hannah,Women's Park,United States of America,Cycling BMX Freestyle
+Bronze Medal,3,00:00.0,DUCARROZ Nikita,Women's Park,Switzerland,Cycling BMX Freestyle
+Gold Medal,1,00:00.0,SHI Tingmao,Women's 3m Springboard,People's Republic of China,Diving
+Silver Medal,2,00:00.0,WANG Han,Women's 3m Springboard,People's Republic of China,Diving
+Bronze Medal,3,00:00.0,PALMER Krysta,Women's 3m Springboard,United States of America,Diving
+Gold Medal,1,00:00.0,le PECHOUX Erwann,Men's Foil Team,France,Fencing
+Gold Medal,1,00:00.0,LEFORT Enzo,Men's Foil Team,France,Fencing
+Gold Medal,1,00:00.0,MERTINE Julien,Men's Foil Team,France,Fencing
+Gold Medal,1,00:00.0,PAUTY Maxime,Men's Foil Team,France,Fencing
+Silver Medal,2,00:00.0,SAFIN Timur,Men's Foil Team,ROC,Fencing
+Silver Medal,2,00:00.0,BORODACHEV Kirill,Men's Foil Team,ROC,Fencing
+Silver Medal,2,00:00.0,BORODACHEV Anton,Men's Foil Team,ROC,Fencing
+Silver Medal,2,00:00.0,MYLNIKOV Vladislav,Men's Foil Team,ROC,Fencing
+Bronze Medal,3,00:00.0,ITKIN Nick,Men's Foil Team,United States of America,Fencing
+Bronze Medal,3,00:00.0,IMBODEN Race,Men's Foil Team,United States of America,Fencing
+Bronze Medal,3,00:00.0,MASSIALAS Alexander,Men's Foil Team,United States of America,Fencing
+Bronze Medal,3,00:00.0,MEINHARDT Gerek,Men's Foil Team,United States of America,Fencing
+Gold Medal,1,00:00.0,SCHAUFFELE Xander,Men's Individual Stroke Play,United States of America,Golf
+Silver Medal,2,00:00.0,SABBATINI Rory,Men's Individual Stroke Play,Slovakia,Golf
+Bronze Medal,3,00:00.0,PAN C T,Men's Individual Stroke Play,Chinese Taipei,Golf
+Gold Medal,1,00:00.0,WEARN Matt,Men's One Person Dinghy - Laser,Australia,Sailing
+Silver Medal,2,00:00.0,STIPANOVIC Tonci,Men's One Person Dinghy - Laser,Croatia,Sailing
+Bronze Medal,3,00:00.0,TOMASGAARD Hermann,Men's One Person Dinghy - Laser,Norway,Sailing
+Gold Medal,1,00:00.0,RINDOM Anne-Marie,Women's One Person Dinghy - Laser Radial,Denmark,Sailing
+Silver Medal,2,00:00.0,OLSSON Josefin,Women's One Person Dinghy - Laser Radial,Sweden,Sailing
+Bronze Medal,3,00:00.0,BOUWMEESTER Marit,Women's One Person Dinghy - Laser Radial,Netherlands,Sailing
+Gold Medal,1,00:00.0,FINKE Robert,Men's 1500m Freestyle,United States of America,Swimming
+Silver Medal,2,00:00.0,ROMANCHUK Mykhailo,Men's 1500m Freestyle,Ukraine,Swimming
+Bronze Medal,3,00:00.0,WELLBROCK Florian,Men's 1500m Freestyle,Germany,Swimming
+Gold Medal,1,00:00.0,ARMSTRONG Joseph,Men's 4 x 100m Medley Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,WILSON Andrew,Men's 4 x 100m Medley Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,DRESSEL Caeleb,Men's 4 x 100m Medley Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,APPLE Zach,Men's 4 x 100m Medley Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,SHIELDS Tom,Men's 4 x 100m Medley Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,PIERONI Blake,Men's 4 x 100m Medley Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,ANDREW Michael,Men's 4 x 100m Medley Relay,United States of America,Swimming
+Gold Medal,1,00:00.0,MURPHY Ryan,Men's 4 x 100m Medley Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,WILBY James,Men's 4 x 100m Medley Relay,Great Britain,Swimming
+Silver Medal,2,00:00.0,SCOTT Duncan,Men's 4 x 100m Medley Relay,Great Britain,Swimming
+Silver Medal,2,00:00.0,GREENBANK Luke,Men's 4 x 100m Medley Relay,Great Britain,Swimming
+Silver Medal,2,00:00.0,GUY James,Men's 4 x 100m Medley Relay,Great Britain,Swimming
+Silver Medal,2,00:00.0,PEATY Adam,Men's 4 x 100m Medley Relay,Great Britain,Swimming
+Bronze Medal,3,00:00.0,MIRESSI Alessandro,Men's 4 x 100m Medley Relay,Italy,Swimming
+Bronze Medal,3,00:00.0,MARTINENGHI Nicolo,Men's 4 x 100m Medley Relay,Italy,Swimming
+Bronze Medal,3,00:00.0,CECCON Thomas,Men's 4 x 100m Medley Relay,Italy,Swimming
+Bronze Medal,3,00:00.0,BURDISSO Federico,Men's 4 x 100m Medley Relay,Italy,Swimming
+Gold Medal,1,00:00.0,DRESSEL Caeleb,Men's 50m Freestyle,United States of America,Swimming
+Silver Medal,2,00:00.0,MANAUDOU Florent,Men's 50m Freestyle,France,Swimming
+Bronze Medal,3,00:00.0,FRATUS Bruno,Men's 50m Freestyle,Brazil,Swimming
+Gold Medal,1,00:00.0,O'CALLAGHAN Mollie,Women's 4 x 100m Medley Relay,Australia,Swimming
+Gold Medal,1,00:00.0,THROSSELL Brianna,Women's 4 x 100m Medley Relay,Australia,Swimming
+Gold Medal,1,00:00.0,SEEBOHM Emily,Women's 4 x 100m Medley Relay,Australia,Swimming
+Gold Medal,1,00:00.0,HODGES Chelsea,Women's 4 x 100m Medley Relay,Australia,Swimming
+Gold Medal,1,00:00.0,McKEON Emma,Women's 4 x 100m Medley Relay,Australia,Swimming
+Gold Medal,1,00:00.0,CAMPBELL Cate,Women's 4 x 100m Medley Relay,Australia,Swimming
+Gold Medal,1,00:00.0,McKEOWN Kaylee,Women's 4 x 100m Medley Relay,Australia,Swimming
+Silver Medal,2,00:00.0,SMITH Regan,Women's 4 x 100m Medley Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,KING Lilly,Women's 4 x 100m Medley Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,HUSKE Torri,Women's 4 x 100m Medley Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,CURZAN Claire,Women's 4 x 100m Medley Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,WEITZEIL Abbey,Women's 4 x 100m Medley Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,BROWN Erika,Women's 4 x 100m Medley Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,JACOBY Lydia,Women's 4 x 100m Medley Relay,United States of America,Swimming
+Silver Medal,2,00:00.0,WHITE Rhyan Elizabeth,Women's 4 x 100m Medley Relay,United States of America,Swimming
+Bronze Medal,3,00:00.0,RUCK Taylor,Women's 4 x 100m Medley Relay,Canada,Swimming
+Bronze Medal,3,00:00.0,MACNEIL Margaret,Women's 4 x 100m Medley Relay,Canada,Swimming
+Bronze Medal,3,00:00.0,SANCHEZ Kayla,Women's 4 x 100m Medley Relay,Canada,Swimming
+Bronze Medal,3,00:00.0,MASSE Kylie,Women's 4 x 100m Medley Relay,Canada,Swimming
+Bronze Medal,3,00:00.0,PICKREM Sydney,Women's 4 x 100m Medley Relay,Canada,Swimming
+Bronze Medal,3,00:00.0,OLEKSIAK Penny,Women's 4 x 100m Medley Relay,Canada,Swimming
+Gold Medal,1,00:00.0,McKEON Emma,Women's 50m Freestyle,Australia,Swimming
+Silver Medal,2,00:00.0,SJOESTROEM Sarah,Women's 50m Freestyle,Sweden,Swimming
+Bronze Medal,3,00:00.0,BLUME Pernille,Women's 50m Freestyle,Denmark,Swimming
+Gold Medal,1,00:00.0,ZVEREV Alexander,Men's Singles,Germany,Tennis
+Silver Medal,2,00:00.0,KHACHANOV Karen,Men's Singles,ROC,Tennis
+Gold Medal,1,00:00.0,RUBLEV Andrey,Mixed Doubles,ROC,Tennis
+Gold Medal,1,00:00.0,PAVLYUCHENKOVA Anastasia,Mixed Doubles,ROC,Tennis
+Silver Medal,2,00:00.0,KARATSEV Aslan,Mixed Doubles,ROC,Tennis
+Silver Medal,2,00:00.0,VESNINA Elena,Mixed Doubles,ROC,Tennis
+Gold Medal,1,00:00.0,KREJCIKOVA Barbora,Women's Doubles,Czech Republic,Tennis
+Gold Medal,1,00:00.0,SINIAKOVA Katerina,Women's Doubles,Czech Republic,Tennis
+Silver Medal,2,00:00.0,BENCIC Belinda,Women's Doubles,Switzerland,Tennis
+Silver Medal,2,00:00.0,GOLUBIC Viktorija,Women's Doubles,Switzerland,Tennis
+Gold Medal,1,00:00.0,DAJOMES BARRERA Neisi Patricia,Women's 76kg,Ecuador,Weightlifting
+Silver Medal,2,00:00.0,NYE Katherine Elizabeth,Women's 76kg,United States of America,Weightlifting
+Bronze Medal,3,00:00.0,FUENTES ZAVALA Aremi,Women's 76kg,Mexico,Weightlifting
+Gold Medal,1,00:00.0,LIU Yang,Men's Rings,People's Republic of China,Artistic Gymnastics
+Silver Medal,2,00:00.0,YOU Hao,Men's Rings,People's Republic of China,Artistic Gymnastics
+Bronze Medal,3,00:00.0,PETROUNIAS Eleftherios,Men's Rings,Greece,Artistic Gymnastics
+Gold Medal,1,00:00.0,SHIN Jeahwan,Men's Vault,Republic of Korea,Artistic Gymnastics
+Silver Medal,2,00:00.0,ABLIAZIN Denis,Men's Vault,ROC,Artistic Gymnastics
+Bronze Medal,3,00:00.0,DAVTYAN Artur,Men's Vault,Armenia,Artistic Gymnastics
+Gold Medal,1,00:00.0,CAREY Jade,Women's Floor Exercise,United States of America,Artistic Gymnastics
+Silver Medal,2,00:00.0,FERRARI Vanessa,Women's Floor Exercise,Italy,Artistic Gymnastics
+Bronze Medal,3,00:00.0,MURAKAMI Mai,Women's Floor Exercise,Japan,Artistic Gymnastics
+Bronze Medal,3,00:00.0,MELNIKOVA Angelina,Women's Floor Exercise,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,EL BAKKALI Soufiane,Men's 3000m Steeplechase,Morocco,Athletics
+Silver Medal,2,00:00.0,GIRMA Lamecha,Men's 3000m Steeplechase,Ethiopia,Athletics
+Bronze Medal,3,00:00.0,KIGEN Benjamin,Men's 3000m Steeplechase,Kenya,Athletics
+Gold Medal,1,00:00.0,TENTOGLOU Miltiadis,Men's Long Jump,Greece,Athletics
+Silver Medal,2,00:00.0,ECHEVARRIA Juan Miguel,Men's Long Jump,Cuba,Athletics
+Bronze Medal,3,00:00.0,MASSO Maykel,Men's Long Jump,Cuba,Athletics
+Gold Medal,1,00:00.0,CAMACHO-QUINN Jasmine,Women's 100m Hurdles,Puerto Rico,Athletics
+Silver Medal,2,00:00.0,HARRISON Kendra,Women's 100m Hurdles,United States of America,Athletics
+Bronze Medal,3,00:00.0,TAPPER Megan,Women's 100m Hurdles,Jamaica,Athletics
+Gold Medal,1,00:00.0,HASSAN Sifan,Women's 5000m,Netherlands,Athletics
+Silver Medal,2,00:00.0,OBIRI Hellen,Women's 5000m,Kenya,Athletics
+Bronze Medal,3,00:00.0,TSEGAY Gudaf,Women's 5000m,Ethiopia,Athletics
+Gold Medal,1,00:00.0,ALLMAN Valarie,Women's Discus Throw,United States of America,Athletics
+Silver Medal,2,00:00.0,PUDENZ Kristin,Women's Discus Throw,Germany,Athletics
+Bronze Medal,3,00:00.0,PEREZ Yaime,Women's Discus Throw,Cuba,Athletics
+Gold Medal,1,00:00.0,AXELSEN Viktor,Men's Singles,Denmark,Badminton
+Silver Medal,2,00:00.0,CHEN Long,Men's Singles,People's Republic of China,Badminton
+Bronze Medal,3,00:00.0,GINTING Anthony Sinisuka,Men's Singles,Indonesia,Badminton
+Gold Medal,1,00:00.0,Greysia POLII,Women's Doubles,Indonesia,Badminton
+Gold Medal,1,00:00.0,RAHAYU Apriyani,Women's Doubles,Indonesia,Badminton
+Silver Medal,2,00:00.0,CHEN Qing Chen,Women's Doubles,People's Republic of China,Badminton
+Silver Medal,2,00:00.0,JIA Yi Fan,Women's Doubles,People's Republic of China,Badminton
+Bronze Medal,3,00:00.0,KIM Soyeong,Women's Doubles,Republic of Korea,Badminton
+Bronze Medal,3,00:00.0,KONG Heeyong,Women's Doubles,Republic of Korea,Badminton
+Gold Medal,1,00:00.0,ZHONG Tianshi,Women's Team Sprint,People's Republic of China,Cycling Track
+Gold Medal,1,00:00.0,BAO Shanju,Women's Team Sprint,People's Republic of China,Cycling Track
+Silver Medal,2,00:00.0,HINZE Emma,Women's Team Sprint,Germany,Cycling Track
+Silver Medal,2,00:00.0,FRIEDRICH Lea Sophie,Women's Team Sprint,Germany,Cycling Track
+Bronze Medal,3,00:00.0,VOINOVA Anastasiia,Women's Team Sprint,ROC,Cycling Track
+Bronze Medal,3,00:00.0,SHMELEVA Daria,Women's Team Sprint,ROC,Cycling Track
+Gold Medal,1,00:00.0,KRAJEWSKI Julia,Eventing Individual,Germany,Equestrian
+Silver Medal,2,00:00.0,McEWEN Tom,Eventing Individual,Great Britain,Equestrian
+Bronze Medal,3,00:00.0,HOY Andrew,Eventing Individual,Australia,Equestrian
+Gold Medal,1,00:00.0,McEWEN Tom,Eventing Team,Great Britain,Equestrian
+Gold Medal,1,00:00.0,TOWNEND Oliver,Eventing Team,Great Britain,Equestrian
+Gold Medal,1,00:00.0,COLLETT Laura,Eventing Team,Great Britain,Equestrian
+Silver Medal,2,00:00.0,ROSE Shane,Eventing Team,Australia,Equestrian
+Silver Medal,2,00:00.0,McNAB Kevin,Eventing Team,Australia,Equestrian
+Silver Medal,2,00:00.0,HOY Andrew,Eventing Team,Australia,Equestrian
+Bronze Medal,3,00:00.0,LAGHOUAG Karim Florent,Eventing Team,France,Equestrian
+Bronze Medal,3,00:00.0,SIX Christopher,Eventing Team,France,Equestrian
+Bronze Medal,3,00:00.0,TOUZAINT Nicolas,Eventing Team,France,Equestrian
+Gold Medal,1,00:00.0,QUIQUAMPOIX Jean,25m Rapid Fire Pistol Men,France,Shooting
+Silver Medal,2,00:00.0,PUPO Leuris,25m Rapid Fire Pistol Men,Cuba,Shooting
+Bronze Medal,3,00:00.0,LI Yuehong,25m Rapid Fire Pistol Men,People's Republic of China,Shooting
+Gold Medal,1,00:00.0,ZHANG Changhong,50m Rifle 3 Positions Men,People's Republic of China,Shooting
+Silver Medal,2,00:00.0,KAMENSKIY Sergey,50m Rifle 3 Positions Men,ROC,Shooting
+Bronze Medal,3,00:00.0,SEBIC Milenko,50m Rifle 3 Positions Men,Serbia,Shooting
+Gold Medal,1,00:00.0,LI Wenwen,Women's +87kg,People's Republic of China,Weightlifting
+Silver Medal,2,00:00.0,CAMPBELL Emily Jade,Women's +87kg,Great Britain,Weightlifting
+Bronze Medal,3,00:00.0,ROBLES Sarah Elizabeth,Women's +87kg,United States of America,Weightlifting
+Gold Medal,1,00:00.0,WANG Zhouyu,Women's 87kg,People's Republic of China,Weightlifting
+Silver Medal,2,00:00.0,SALAZAR ARCE Tamara Yajaira,Women's 87kg,Ecuador,Weightlifting
+Bronze Medal,3,00:00.0,SANTANA PEGUERO Crismery Dominga,Women's 87kg,Dominican Republic,Weightlifting
+Gold Medal,1,00:00.0,LOPEZ NUNEZ Mijain,Men's Greco-Roman 130kg,Cuba,Wrestling
+Silver Medal,2,00:00.0,KAJAIA Iakobi,Men's Greco-Roman 130kg,Georgia,Wrestling
+Bronze Medal,3,00:00.0,KAYAALP Riza,Men's Greco-Roman 130kg,Turkey,Wrestling
+Bronze Medal,3,00:00.0,SEMENOV Sergei,Men's Greco-Roman 130kg,ROC,Wrestling
+Gold Medal,1,00:00.0,ORTA SANCHEZ Luis Alberto,Men's Greco-Roman 60kg,Cuba,Wrestling
+Silver Medal,2,00:00.0,FUMITA Kenichiro,Men's Greco-Roman 60kg,Japan,Wrestling
+Bronze Medal,3,00:00.0,EMELIN Sergey,Men's Greco-Roman 60kg,ROC,Wrestling
+Bronze Medal,3,00:00.0,WALIHAN Sailike,Men's Greco-Roman 60kg,People's Republic of China,Wrestling
+Gold Medal,1,00:00.0,ROTTER FOCKEN Aline,Women's Freestyle 76kg,Germany,Wrestling
+Silver Medal,2,00:00.0,GRAY Adeline Maria,Women's Freestyle 76kg,United States of America,Wrestling
+Bronze Medal,3,00:00.0,ADAR Yasemin,Women's Freestyle 76kg,Turkey,Wrestling
+Bronze Medal,3,00:00.0,ZHOU Qian,Women's Freestyle 76kg,People's Republic of China,Wrestling
+Gold Medal,1,00:00.0,HASHIMOTO Daiki,Men's Horizontal Bar,Japan,Artistic Gymnastics
+Silver Medal,2,00:00.0,SRBIC Tin,Men's Horizontal Bar,Croatia,Artistic Gymnastics
+Bronze Medal,3,00:00.0,NAGORNYY Nikita,Men's Horizontal Bar,ROC,Artistic Gymnastics
+Gold Medal,1,00:00.0,ZOU Jingyuan,Men's Parallel Bars,People's Republic of China,Artistic Gymnastics
+Silver Medal,2,00:00.0,DAUSER Lukas,Men's Parallel Bars,Germany,Artistic Gymnastics
+Bronze Medal,3,00:00.0,ARICAN Ferhat,Men's Parallel Bars,Turkey,Artistic Gymnastics
+Gold Medal,1,00:00.0,GUAN Chenchen,Women's Balance Beam,People's Republic of China,Artistic Gymnastics
+Silver Medal,2,00:00.0,TANG Xijing,Women's Balance Beam,People's Republic of China,Artistic Gymnastics
+Bronze Medal,3,00:00.0,BILES Simone,Women's Balance Beam,United States of America,Artistic Gymnastics
+Gold Medal,1,00:00.0,WARHOLM Karsten,Men's 400m Hurdles,Norway,Athletics
+Silver Medal,2,00:00.0,BENJAMIN Rai,Men's 400m Hurdles,United States of America,Athletics
+Bronze Medal,3,00:00.0,dos SANTOS Alison,Men's 400m Hurdles,Brazil,Athletics
+Gold Medal,1,00:00.0,DUPLANTIS Armand,Men's Pole Vault,Sweden,Athletics
+Silver Medal,2,00:00.0,NILSEN Christopher,Men's Pole Vault,United States of America,Athletics
+Bronze Medal,3,00:00.0,BRAZ Thiago,Men's Pole Vault,Brazil,Athletics
+Gold Medal,1,00:00.0,THOMPSON-HERAH Elaine,Women's 200m,Jamaica,Athletics
+Silver Medal,2,00:00.0,MBOMA Christine,Women's 200m,Namibia,Athletics
+Bronze Medal,3,00:00.0,THOMAS Gabrielle,Women's 200m,United States of America,Athletics
+Gold Medal,1,00:00.0,MU Athing,Women's 800m,United States of America,Athletics
+Silver Medal,2,00:00.0,HODGKINSON Keely,Women's 800m,Great Britain,Athletics
+Bronze Medal,3,00:00.0,ROGERS Raevyn,Women's 800m,United States of America,Athletics
+Gold Medal,1,00:00.0,WLODARCZYK Anita,Women's Hammer Throw,Poland,Athletics
+Silver Medal,2,00:00.0,WANG Zheng,Women's Hammer Throw,People's Republic of China,Athletics
+Bronze Medal,3,00:00.0,KOPRON Malwina,Women's Hammer Throw,Poland,Athletics
+Gold Medal,1,00:00.0,MIHAMBO Malaika,Women's Long Jump,Germany,Athletics
+Silver Medal,2,00:00.0,REESE Brittney,Women's Long Jump,United States of America,Athletics
+Bronze Medal,3,00:00.0,BRUME Ese,Women's Long Jump,Nigeria,Athletics
+Bronze Medal,3,00:00.0,ALVAREZ Lazaro,Men's Feather (52-57kg),Cuba,Boxing
+Bronze Medal,3,00:00.0,TAKYI Samuel,Men's Feather (52-57kg),Ghana,Boxing
+Bronze Medal,3,00:00.0,NYIKA David,Men's Heavy (81-91kg),New Zealand,Boxing
+Bronze Medal,3,00:00.0,TEIXEIRA Abner,Men's Heavy (81-91kg),Brazil,Boxing
+Gold Medal,1,00:00.0,IGLESIAS Roniel,Men's Welter (63-69kg),Cuba,Boxing
+Silver Medal,2,00:00.0,McCORMACK Pat,Men's Welter (63-69kg),Great Britain,Boxing
+Gold Medal,1,00:00.0,IRIE Sena,Women's Feather (54-57kg),Japan,Boxing
+Silver Medal,2,00:00.0,PETECIO Nesthy,Women's Feather (54-57kg),Philippines,Boxing
+Gold Medal,1,00:00.0,JORGE ENRIQUEZ Fernando Dayan,Men's Canoe Double 1000m,Cuba,Canoe Sprint
+Gold Medal,1,00:00.0,TORRES MADRIGAL Serguey,Men's Canoe Double 1000m,Cuba,Canoe Sprint
+Silver Medal,2,00:00.0,LIU Hao,Men's Canoe Double 1000m,People's Republic of China,Canoe Sprint
+Silver Medal,2,00:00.0,ZHENG Pengfei,Men's Canoe Double 1000m,People's Republic of China,Canoe Sprint
+Bronze Medal,3,00:00.0,HECKER Tim,Men's Canoe Double 1000m,Germany,Canoe Sprint
+Bronze Medal,3,00:00.0,BRENDEL Sebastian,Men's Canoe Double 1000m,Germany,Canoe Sprint
+Gold Medal,1,00:00.0,KOPASZ Balint,Men's Kayak Single 1000m,Hungary,Canoe Sprint
+Silver Medal,2,00:00.0,VARGA Adam,Men's Kayak Single 1000m,Hungary,Canoe Sprint
+Bronze Medal,3,00:00.0,PIMENTA Fernando,Men's Kayak Single 1000m,Portugal,Canoe Sprint
+Gold Medal,1,00:00.0,CARRINGTON Lisa,Women's Kayak Double 500m,New Zealand,Canoe Sprint
+Gold Medal,1,00:00.0,REGAL Caitlin,Women's Kayak Double 500m,New Zealand,Canoe Sprint
+Silver Medal,2,00:00.0,PULAWSKA Anna,Women's Kayak Double 500m,Poland,Canoe Sprint
+Silver Medal,2,00:00.0,NAJA Karolina,Women's Kayak Double 500m,Poland,Canoe Sprint
+Bronze Medal,3,00:00.0,KOZAK Danuta,Women's Kayak Double 500m,Hungary,Canoe Sprint
+Bronze Medal,3,00:00.0,BODONYI Dora,Women's Kayak Double 500m,Hungary,Canoe Sprint
+Gold Medal,1,00:00.0,CARRINGTON Lisa,Women's Kayak Single 200m,New Zealand,Canoe Sprint
+Silver Medal,2,00:00.0,PORTELA Teresa,Women's Kayak Single 200m,Spain,Canoe Sprint
+Bronze Medal,3,00:00.0,JORGENSEN Emma Aastrand,Women's Kayak Single 200m,Denmark,Canoe Sprint
+Gold Medal,1,00:00.0,van den BERG Roy,Men's Team Sprint,Netherlands,Cycling Track
+Gold Medal,1,00:00.0,HOOGLAND Jeffrey,Men's Team Sprint,Netherlands,Cycling Track
+Gold Medal,1,00:00.0,BUCHLI Matthijs,Men's Team Sprint,Netherlands,Cycling Track
+Gold Medal,1,00:00.0,LAVREYSEN Harrie,Men's Team Sprint,Netherlands,Cycling Track
+Silver Medal,2,00:00.0,CARLIN Jack,Men's Team Sprint,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,KENNY Jason,Men's Team Sprint,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,OWENS Ryan,Men's Team Sprint,Great Britain,Cycling Track
+Bronze Medal,3,00:00.0,VIGIER Sebastien,Men's Team Sprint,France,Cycling Track
+Bronze Medal,3,00:00.0,HELAL Rayan,Men's Team Sprint,France,Cycling Track
+Bronze Medal,3,00:00.0,GRENGBO Florian,Men's Team Sprint,France,Cycling Track
+Gold Medal,1,00:00.0,BRENNAUER Lisa,Women's Team Pursuit,Germany,Cycling Track
+Gold Medal,1,00:00.0,BRAUSSE Franziska,Women's Team Pursuit,Germany,Cycling Track
+Gold Medal,1,00:00.0,KROEGER Mieke,Women's Team Pursuit,Germany,Cycling Track
+Gold Medal,1,00:00.0,KLEIN Lisa,Women's Team Pursuit,Germany,Cycling Track
+Silver Medal,2,00:00.0,ARCHIBALD Katie,Women's Team Pursuit,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,BARKER Elinor,Women's Team Pursuit,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,EVANS Neah,Women's Team Pursuit,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,KENNY Laura,Women's Team Pursuit,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,KNIGHT Josie,Women's Team Pursuit,Great Britain,Cycling Track
+Bronze Medal,3,00:00.0,WILLIAMS Lily,Women's Team Pursuit,United States of America,Cycling Track
+Bronze Medal,3,00:00.0,DYGERT Chloe,Women's Team Pursuit,United States of America,Cycling Track
+Bronze Medal,3,00:00.0,WHITE Emma,Women's Team Pursuit,United States of America,Cycling Track
+Bronze Medal,3,00:00.0,VALENTE Jennifer,Women's Team Pursuit,United States of America,Cycling Track
+Bronze Medal,3,00:00.0,JASTRAB Megan,Women's Team Pursuit,United States of America,Cycling Track
+Gold Medal,1,00:00.0,XIE Siyi,Men's 3m Springboard,People's Republic of China,Diving
+Silver Medal,2,00:00.0,WANG Zongyuan,Men's 3m Springboard,People's Republic of China,Diving
+Bronze Medal,3,00:00.0,LAUGHER Jack,Men's 3m Springboard,Great Britain,Diving
+Gold Medal,1,00:00.0,SCOTT Giles,Men's One Person Dinghy (Heavyweight) - Finn,Great Britain,Sailing
+Silver Medal,2,00:00.0,BERECZ Zsombor,Men's One Person Dinghy (Heavyweight) - Finn,Hungary,Sailing
+Bronze Medal,3,00:00.0,CARDONA MENDEZ Joan,Men's One Person Dinghy (Heavyweight) - Finn,Spain,Sailing
+Gold Medal,1,00:00.0,BITHELL Stuart,Men's Skiff - 49er,Great Britain,Sailing
+Gold Medal,1,00:00.0,FLETCHER Dylan,Men's Skiff - 49er,Great Britain,Sailing
+Silver Medal,2,00:00.0,BURLING Peter,Men's Skiff - 49er,New Zealand,Sailing
+Silver Medal,2,00:00.0,TUKE Blair,Men's Skiff - 49er,New Zealand,Sailing
+Bronze Medal,3,00:00.0,HEIL Erik,Men's Skiff - 49er,Germany,Sailing
+Bronze Medal,3,00:00.0,PLOESSEL Thomas,Men's Skiff - 49er,Germany,Sailing
+Gold Medal,1,00:00.0,BANTI Caterina,Mixed Multihull - Nacra 17 Foiling,Italy,Sailing
+Gold Medal,1,00:00.0,TITA Ruggero,Mixed Multihull - Nacra 17 Foiling,Italy,Sailing
+Silver Medal,2,00:00.0,GIMSON John,Mixed Multihull - Nacra 17 Foiling,Great Britain,Sailing
+Silver Medal,2,00:00.0,BURNET Anna,Mixed Multihull - Nacra 17 Foiling,Great Britain,Sailing
+Bronze Medal,3,00:00.0,STUHLEMMER Alica,Mixed Multihull - Nacra 17 Foiling,Germany,Sailing
+Bronze Medal,3,00:00.0,KOHLHOFF Paul,Mixed Multihull - Nacra 17 Foiling,Germany,Sailing
+Gold Medal,1,00:00.0,KUNZE Kahena,Women's Skiff - 49er FX,Brazil,Sailing
+Gold Medal,1,00:00.0,GRAEL Martine,Women's Skiff - 49er FX,Brazil,Sailing
+Silver Medal,2,00:00.0,BEUCKE Susann,Women's Skiff - 49er FX,Germany,Sailing
+Silver Medal,2,00:00.0,LUTZ Tina,Women's Skiff - 49er FX,Germany,Sailing
+Bronze Medal,3,00:00.0,BEKKERING Annemiek,Women's Skiff - 49er FX,Netherlands,Sailing
+Bronze Medal,3,00:00.0,DUETZ Annette,Women's Skiff - 49er FX,Netherlands,Sailing
+Gold Medal,1,00:00.0,DJURAEV Akbar,Men's 109kg,Uzbekistan,Weightlifting
+Silver Medal,2,00:00.0,MARTIROSYAN Simon,Men's 109kg,Armenia,Weightlifting
+Bronze Medal,3,00:00.0,PLESNIEKS Arturs,Men's 109kg,Latvia,Weightlifting
+Gold Medal,1,00:00.0,LORINCZ Tamas,Men's Greco-Roman 77kg,Hungary,Wrestling
+Silver Medal,2,00:00.0,MAKHMUDOV Akzhol,Men's Greco-Roman 77kg,Kyrgyzstan,Wrestling
+Bronze Medal,3,00:00.0,HUSEYNOV Rafig,Men's Greco-Roman 77kg,Azerbaijan,Wrestling
+Bronze Medal,3,00:00.0,YABIKU Shohei,Men's Greco-Roman 77kg,Japan,Wrestling
+Gold Medal,1,00:00.0,EVLOEV Musa,Men's Greco-Roman 97kg,ROC,Wrestling
+Silver Medal,2,00:00.0,ALEKSANYAN Artur,Men's Greco-Roman 97kg,Armenia,Wrestling
+Bronze Medal,3,00:00.0,MICHALIK Tadeusz,Men's Greco-Roman 97kg,Poland,Wrestling
+Bronze Medal,3,00:00.0,SARAVI Mohammadhadi,Men's Greco-Roman 97kg,Islamic Republic of Iran,Wrestling
+Gold Medal,1,00:00.0,MENSAH STOCK Tamyra Mariama,Women's Freestyle 68kg,United States of America,Wrestling
+Silver Medal,2,00:00.0,OBORUDUDU Blessing,Women's Freestyle 68kg,Nigeria,Wrestling
+Bronze Medal,3,00:00.0,CHERKASOVA Alla,Women's Freestyle 68kg,Ukraine,Wrestling
+Bronze Medal,3,00:00.0,ZHUMANAZAROVA Meerim,Women's Freestyle 68kg,Kyrgyzstan,Wrestling
+Gold Medal,1,00:00.0,KOLESNICHENKO Svetlana,Duet,ROC,Artistic Swimming
+Gold Medal,1,00:00.0,ROMASHINA Svetlana,Duet,ROC,Artistic Swimming
+Silver Medal,2,00:00.0,HUANG Xuechen,Duet,People's Republic of China,Artistic Swimming
+Silver Medal,2,00:00.0,SUN Wenyan,Duet,People's Republic of China,Artistic Swimming
+Bronze Medal,3,00:00.0,SAVCHUK Anastasiya,Duet,Ukraine,Artistic Swimming
+Bronze Medal,3,00:00.0,FIEDINA Marta,Duet,Ukraine,Artistic Swimming
+Gold Medal,1,00:00.0,de GRASSE Andre,Men's 200m,Canada,Athletics
+Silver Medal,2,00:00.0,BEDNAREK Kenneth,Men's 200m,United States of America,Athletics
+Bronze Medal,3,00:00.0,LYLES Noah,Men's 200m,United States of America,Athletics
+Gold Medal,1,00:00.0,KORIR Emmanuel Kipkurui,Men's 800m,Kenya,Athletics
+Silver Medal,2,00:00.0,ROTICH Ferguson Cheruiyot,Men's 800m,Kenya,Athletics
+Bronze Medal,3,00:00.0,DOBEK Patryk,Men's 800m,Poland,Athletics
+Gold Medal,1,00:00.0,WARNER Damian,Men's Decathlon,Canada,Athletics
+Silver Medal,2,00:00.0,MAYER Kevin,Men's Decathlon,France,Athletics
+Bronze Medal,3,00:00.0,MOLONEY Ashley,Men's Decathlon,Australia,Athletics
+Gold Medal,1,00:00.0,NOWICKI Wojciech,Men's Hammer Throw,Poland,Athletics
+Silver Medal,2,00:00.0,HENRIKSEN Eivind,Men's Hammer Throw,Norway,Athletics
+Bronze Medal,3,00:00.0,FAJDEK Pawel,Men's Hammer Throw,Poland,Athletics
+Gold Medal,1,00:00.0,CHEMUTAI Peruth,Women's 3000m Steeplechase,Uganda,Athletics
+Silver Medal,2,00:00.0,FRERICHS Courtney,Women's 3000m Steeplechase,United States of America,Athletics
+Bronze Medal,3,00:00.0,KIYENG Hyvin,Women's 3000m Steeplechase,Kenya,Athletics
+Gold Medal,1,00:00.0,McLAUGHLIN Sydney,Women's 400m Hurdles,United States of America,Athletics
+Silver Medal,2,00:00.0,MUHAMMAD Dalilah,Women's 400m Hurdles,United States of America,Athletics
+Bronze Medal,3,00:00.0,BOL Femke,Women's 400m Hurdles,Netherlands,Athletics
+Gold Medal,1,00:00.0,THIAM Nafissatou,Women's Heptathlon,Belgium,Athletics
+Silver Medal,2,00:00.0,VETTER Anouk,Women's Heptathlon,Netherlands,Athletics
+Bronze Medal,3,00:00.0,OOSTERWEGEL Emma,Women's Heptathlon,Netherlands,Athletics
+Gold Medal,1,00:00.0,LOPEZ Arlen,Men's Light Heavy (75-81kg),Cuba,Boxing
+Silver Medal,2,00:00.0,WHITTAKER Benjamin,Men's Light Heavy (75-81kg),Great Britain,Boxing
+Bronze Medal,3,00:00.0,KUNKABAYEV Kamshybek,Men's Super Heavy (+91kg),Kazakhstan,Boxing
+Bronze Medal,3,00:00.0,CLARKE Frazer,Men's Super Heavy (+91kg),Great Britain,Boxing
+Bronze Medal,3,00:00.0,HUANG Hsiao-Wen,Women's Fly (48-51kg),Chinese Taipei,Boxing
+Bronze Medal,3,00:00.0,NAMIKI Tsukimi,Women's Fly (48-51kg),Japan,Boxing
+Bronze Medal,3,00:00.0,BORGOHAIN Lovlina,Women's Welter (64-69kg),India,Boxing
+Bronze Medal,3,00:00.0,JONES Oshae,Women's Welter (64-69kg),United States of America,Boxing
+Gold Medal,1,00:00.0,CONSONNI Simone,Men's Team Pursuit,Italy,Cycling Track
+Gold Medal,1,00:00.0,GANNA Filippo,Men's Team Pursuit,Italy,Cycling Track
+Gold Medal,1,00:00.0,MILAN Jonathan,Men's Team Pursuit,Italy,Cycling Track
+Gold Medal,1,00:00.0,LAMON Francesco,Men's Team Pursuit,Italy,Cycling Track
+Silver Medal,2,00:00.0,LARSEN Niklas,Men's Team Pursuit,Denmark,Cycling Track
+Silver Medal,2,00:00.0,MADSEN Frederik,Men's Team Pursuit,Denmark,Cycling Track
+Silver Medal,2,00:00.0,HANSEN Lasse Norman,Men's Team Pursuit,Denmark,Cycling Track
+Silver Medal,2,00:00.0,PEDERSEN Rasmus,Men's Team Pursuit,Denmark,Cycling Track
+Bronze Medal,3,00:00.0,O'BRIEN Kelland,Men's Team Pursuit,Australia,Cycling Track
+Bronze Medal,3,00:00.0,WELSFORD Sam,Men's Team Pursuit,Australia,Cycling Track
+Bronze Medal,3,00:00.0,PLAPP Lucas,Men's Team Pursuit,Australia,Cycling Track
+Bronze Medal,3,00:00.0,HOWARD Leigh,Men's Team Pursuit,Australia,Cycling Track
+Bronze Medal,3,00:00.0,PORTER Alexander,Men's Team Pursuit,Australia,Cycling Track
+Gold Medal,1,00:00.0,MAHER Ben,Jumping Individual,Great Britain,Equestrian
+Silver Medal,2,00:00.0,FREDRICSON Peder,Jumping Individual,Sweden,Equestrian
+Bronze Medal,3,00:00.0,van der VLEUTEN Maikel,Jumping Individual,Netherlands,Equestrian
+Gold Medal,1,00:00.0,CUNHA Ana Marcela,Women's 10km,Brazil,Marathon Swimming
+Silver Medal,2,00:00.0,van ROUWENDAAL Sharon,Women's 10km,Netherlands,Marathon Swimming
+Bronze Medal,3,00:00.0,LEE Kareena,Women's 10km,Australia,Marathon Swimming
+Gold Medal,1,00:00.0,RYAN Will,Men's Two Person Dinghy - 470,Australia,Sailing
+Gold Medal,1,00:00.0,BELCHER Mathew,Men's Two Person Dinghy - 470,Australia,Sailing
+Silver Medal,2,00:00.0,BERGSTROM Fredrik,Men's Two Person Dinghy - 470,Sweden,Sailing
+Silver Medal,2,00:00.0,DAHLBERG Anton,Men's Two Person Dinghy - 470,Sweden,Sailing
+Bronze Medal,3,00:00.0,RODRIGUEZ GARCIA-PAZ Nicolas,Men's Two Person Dinghy - 470,Spain,Sailing
+Bronze Medal,3,00:00.0,XAMMAR Jordi,Men's Two Person Dinghy - 470,Spain,Sailing
+Gold Medal,1,00:00.0,McINTYRE Eilidh,Women's Two Person Dinghy - 470,Great Britain,Sailing
+Gold Medal,1,00:00.0,MILLS Hannah,Women's Two Person Dinghy - 470,Great Britain,Sailing
+Silver Medal,2,00:00.0,SKRZYPULEC Agnieszka,Women's Two Person Dinghy - 470,Poland,Sailing
+Silver Medal,2,00:00.0,OGAR Jolanta,Women's Two Person Dinghy - 470,Poland,Sailing
+Bronze Medal,3,00:00.0,LECOINTRE Camille,Women's Two Person Dinghy - 470,France,Sailing
+Bronze Medal,3,00:00.0,RETORNAZ Aloise,Women's Two Person Dinghy - 470,France,Sailing
+Gold Medal,1,00:00.0,YOSOZUMI Sakura,Women's Park,Japan,Skateboarding
+Silver Medal,2,00:00.0,HIRAKI Kokona,Women's Park,Japan,Skateboarding
+Bronze Medal,3,00:00.0,BROWN Sky,Women's Park,Great Britain,Skateboarding
+Gold Medal,1,00:00.0,TALAKHADZE Lasha,Men's +109kg,Georgia,Weightlifting
+Silver Medal,2,00:00.0,DAVOUDI Ali,Men's +109kg,Islamic Republic of Iran,Weightlifting
+Bronze Medal,3,00:00.0,ASAAD Man,Men's +109kg,Syrian Arab Republic,Weightlifting
+Gold Medal,1,00:00.0,GERAEI Mohammadreza,Men's Greco-Roman 67kg,Islamic Republic of Iran,Wrestling
+Silver Medal,2,00:00.0,NASIBOV Parviz,Men's Greco-Roman 67kg,Ukraine,Wrestling
+Bronze Medal,3,00:00.0,ELSAYED Mohamed Ibrahim Elsayed,Men's Greco-Roman 67kg,Egypt,Wrestling
+Bronze Medal,3,00:00.0,STAEBLER Frank,Men's Greco-Roman 67kg,Germany,Wrestling
+Gold Medal,1,00:00.0,BELENIUK Zhan,Men's Greco-Roman 87kg,Ukraine,Wrestling
+Silver Medal,2,00:00.0,LORINCZ Viktor,Men's Greco-Roman 87kg,Hungary,Wrestling
+Bronze Medal,3,00:00.0,KUDLA Denis Maksymilian,Men's Greco-Roman 87kg,Germany,Wrestling
+Bronze Medal,3,00:00.0,DATUNASHVILI Zurabi,Men's Greco-Roman 87kg,Serbia,Wrestling
+Gold Medal,1,00:00.0,KAWAI Yukako,Women's Freestyle 62kg,Japan,Wrestling
+Silver Medal,2,00:00.0,TYNYBEKOVA Aisuluu,Women's Freestyle 62kg,Kyrgyzstan,Wrestling
+Bronze Medal,3,00:00.0,KOLIADENKO Iryna,Women's Freestyle 62kg,Ukraine,Wrestling
+Bronze Medal,3,00:00.0,YUSEIN Taybe Mustafa,Women's Freestyle 62kg,Bulgaria,Wrestling
+Gold Medal,1,00:00.0,PARCHMENT Hansle,Men's 110m Hurdles,Jamaica,Athletics
+Silver Medal,2,00:00.0,HOLLOWAY Grant,Men's 110m Hurdles,United States of America,Athletics
+Bronze Medal,3,00:00.0,LEVY Ronald,Men's 110m Hurdles,Jamaica,Athletics
+Gold Medal,1,00:00.0,STANO Massimo,Men's 20km Race Walk,Italy,Athletics
+Silver Medal,2,00:00.0,IKEDA Koki,Men's 20km Race Walk,Japan,Athletics
+Bronze Medal,3,00:00.0,YAMANISHI Toshikazu,Men's 20km Race Walk,Japan,Athletics
+Gold Medal,1,00:00.0,GARDINER Steven,Men's 400m,Bahamas,Athletics
+Silver Medal,2,00:00.0,ZAMBRANO Anthony Jose,Men's 400m,Colombia,Athletics
+Bronze Medal,3,00:00.0,JAMES Kirani,Men's 400m,Grenada,Athletics
+Gold Medal,1,00:00.0,CROUSER Ryan,Men's Shot Put,United States of America,Athletics
+Silver Medal,2,00:00.0,KOVACS Joe,Men's Shot Put,United States of America,Athletics
+Bronze Medal,3,00:00.0,WALSH Tomas,Men's Shot Put,New Zealand,Athletics
+Gold Medal,1,00:00.0,PICHARDO Pedro,Men's Triple Jump,Portugal,Athletics
+Silver Medal,2,00:00.0,ZHU Yaming,Men's Triple Jump,People's Republic of China,Athletics
+Bronze Medal,3,00:00.0,ZANGO Hugues Fabrice,Men's Triple Jump,Burkina Faso,Athletics
+Gold Medal,1,00:00.0,NAGEOTTE Katie,Women's Pole Vault,United States of America,Athletics
+Silver Medal,2,00:00.0,SIDOROVA Anzhelika,Women's Pole Vault,ROC,Athletics
+Bronze Medal,3,00:00.0,BRADSHAW Holly,Women's Pole Vault,Great Britain,Athletics
+Gold Medal,1,00:00.0,BATYRGAZIEV Albert,Men's Feather (52-57kg),ROC,Boxing
+Silver Medal,2,00:00.0,RAGAN Duke,Men's Feather (52-57kg),United States of America,Boxing
+Bronze Medal,3,00:00.0,BIBOSSINOV Saken,Men's Fly (48-52kg),Kazakhstan,Boxing
+Bronze Medal,3,00:00.0,TANAKA Ryomei,Men's Fly (48-52kg),Japan,Boxing
+Bronze Medal,3,00:00.0,MARCIAL Eumir,Men's Middle (69-75kg),Philippines,Boxing
+Bronze Medal,3,00:00.0,BAKSHI Gleb,Men's Middle (69-75kg),ROC,Boxing
+Bronze Medal,3,00:00.0,SEESONDEE Sudaporn,Women's Light (57-60kg),Thailand,Boxing
+Bronze Medal,3,00:00.0,POTKONEN Mira Marjut Johanna,Women's Light (57-60kg),Finland,Boxing
+Gold Medal,1,00:00.0,van der WESTHUYZEN Jean,Men's Kayak Double 1000m,Australia,Canoe Sprint
+Gold Medal,1,00:00.0,GREEN Thomas,Men's Kayak Double 1000m,Australia,Canoe Sprint
+Silver Medal,2,00:00.0,SCHOPF Jacob,Men's Kayak Double 1000m,Germany,Canoe Sprint
+Silver Medal,2,00:00.0,HOFF Max,Men's Kayak Double 1000m,Germany,Canoe Sprint
+Bronze Medal,3,00:00.0,DOSTAL Josef,Men's Kayak Double 1000m,Czech Republic,Canoe Sprint
+Bronze Medal,3,00:00.0,SLOUF Radek,Men's Kayak Double 1000m,Czech Republic,Canoe Sprint
+Gold Medal,1,00:00.0,TOTKA Sandor,Men's Kayak Single 200m,Hungary,Canoe Sprint
+Silver Medal,2,00:00.0,RIZZA Manfredi,Men's Kayak Single 200m,Italy,Canoe Sprint
+Bronze Medal,3,00:00.0,HEATH Liam,Men's Kayak Single 200m,Great Britain,Canoe Sprint
+Gold Medal,1,00:00.0,HARRISON Nevin,Women's Canoe Single 200m,United States of America,Canoe Sprint
+Silver Medal,2,00:00.0,VINCENT-LAPOINTE Laurence,Women's Canoe Single 200m,Canada,Canoe Sprint
+Bronze Medal,3,00:00.0,LUZAN Liudmyla,Women's Canoe Single 200m,Ukraine,Canoe Sprint
+Gold Medal,1,00:00.0,CARRINGTON Lisa,Women's Kayak Single 500m,New Zealand,Canoe Sprint
+Silver Medal,2,00:00.0,CSIPES Tamara,Women's Kayak Single 500m,Hungary,Canoe Sprint
+Bronze Medal,3,00:00.0,JORGENSEN Emma Aastrand,Women's Kayak Single 500m,Denmark,Canoe Sprint
+Gold Medal,1,00:00.0,WALLS Matthew,Men's Omnium,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,STEWART Campbell,Men's Omnium,New Zealand,Cycling Track
+Bronze Medal,3,00:00.0,VIVIANI Elia,Men's Omnium,Italy,Cycling Track
+Gold Medal,1,00:00.0,BRASPENNINCX Shanne,Women's Keirin,Netherlands,Cycling Track
+Silver Medal,2,00:00.0,ANDREWS Ellesse,Women's Keirin,New Zealand,Cycling Track
+Bronze Medal,3,00:00.0,GENEST Lauriane,Women's Keirin,Canada,Cycling Track
+Gold Medal,1,00:00.0,QUAN Hongchan,Women's 10m Platform,People's Republic of China,Diving
+Silver Medal,2,00:00.0,CHEN Yuxi,Women's 10m Platform,People's Republic of China,Diving
+Bronze Medal,3,00:00.0,WU Melissa,Women's 10m Platform,Australia,Diving
+Gold Medal,1,00:00.0,BOCCARD Gauthier,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,de KERPEL Nicolas,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,de SLOOVER Arthur Anne-Marie Thierr,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,HENDRICKX Alexander Robby P,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,LUYPAERT Loick Fanny A,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,van AUBEL Florent,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,VANASCH Vincent,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,BOON Tom Alain,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,BRIELS Thomas,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,CHARLIER Cedric Daniel Andre,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,DENAYER Felix Veronique B.,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,DOCKIER Sebastien,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,GOUGNARD Simon Pierre F,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,KINA Antoine Sylvain T,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,MEURMANS Augustin Jean J,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,WEGNEZ Victor Nicky B,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,van DOREN Arthur,Men,Belgium,Hockey
+Gold Medal,1,00:00.0,DOHMEN John-John Dominique M,Men,Belgium,Hockey
+Silver Medal,2,00:00.0,CHARTER Andrew Lewis,Men,Australia,Hockey
+Silver Medal,2,00:00.0,MITTON Trent Grant,Men,Australia,Hockey
+Silver Medal,2,00:00.0,OCKENDEN Edward Clive,Men,Australia,Hockey
+Silver Medal,2,00:00.0,WHETTON Jacob Thomas,Men,Australia,Hockey
+Silver Medal,2,00:00.0,ZALEWSKI Aran,Men,Australia,Hockey
+Silver Medal,2,00:00.0,BEALE Daniel James,Men,Australia,Hockey
+Silver Medal,2,00:00.0,WICKHAM Tom Joseph,Men,Australia,Hockey
+Silver Medal,2,00:00.0,DAWSON Matthew,Men,Australia,Hockey
+Silver Medal,2,00:00.0,BRAND Tim,Men,Australia,Hockey
+Silver Medal,2,00:00.0,GOVERS Blake,Men,Australia,Hockey
+Silver Medal,2,00:00.0,OGILVIE Flynn Andrew,Men,Australia,Hockey
+Silver Medal,2,00:00.0,CRAIG Thomas William,Men,Australia,Hockey
+Silver Medal,2,00:00.0,HOWARD Tim,Men,Australia,Hockey
+Silver Medal,2,00:00.0,BELTZ Joshua,Men,Australia,Hockey
+Silver Medal,2,00:00.0,HAYWARD Jeremy Thomas,Men,Australia,Hockey
+Silver Medal,2,00:00.0,SHARP Lachlan Thomas,Men,Australia,Hockey
+Silver Medal,2,00:00.0,SIMMONDS Joshua,Men,Australia,Hockey
+Silver Medal,2,00:00.0,MARTIN Dylan,Men,Australia,Hockey
+Bronze Medal,3,00:00.0,PARATTU RAVEENDRAN Sreejesh,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Harmanpreet,Men,India,Hockey
+Bronze Medal,3,00:00.0,LAKRA Birendra,Men,India,Hockey
+Bronze Medal,3,00:00.0,KUMAR Surender,Men,India,Hockey
+Bronze Medal,3,00:00.0,ROHIDAS Amit,Men,India,Hockey
+Bronze Medal,3,00:00.0,KUMAR Varun,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Rupinder Pal,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Manpreet,Men,India,Hockey
+Bronze Medal,3,00:00.0,SUMIT,Men,India,Hockey
+Bronze Medal,3,00:00.0,SHARMA Nilakanta,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Hardik,Men,India,Hockey
+Bronze Medal,3,00:00.0,PRASAD Vivek Sagar,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Mandeep,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Shamsher,Men,India,Hockey
+Bronze Medal,3,00:00.0,UPADHYAY Lalit Kumar,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Simranjeet,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Dilpreet,Men,India,Hockey
+Bronze Medal,3,00:00.0,SINGH Gurjant,Men,India,Hockey
+Gold Medal,1,00:00.0,da COSTA Steven,Men's Kumite -67kg,France,Karate
+Silver Medal,2,00:00.0,SAMDAN Eray,Men's Kumite -67kg,Turkey,Karate
+Bronze Medal,3,00:00.0,ALMASATFA Abdel Rahman,Men's Kumite -67kg,Jordan,Karate
+Bronze Medal,3,00:00.0,ASSADILOV Darkhan,Men's Kumite -67kg,Kazakhstan,Karate
+Gold Medal,1,00:00.0,SANCHEZ JAIME Sandra,Women's Kata,Spain,Karate
+Silver Medal,2,00:00.0,SHIMIZU Kiyou,Women's Kata,Japan,Karate
+Bronze Medal,3,00:00.0,LAU Mo Sheung Grace,Women's Kata,"Hong Kong, China",Karate
+Bronze Medal,3,00:00.0,BOTTARO Viviana,Women's Kata,Italy,Karate
+Gold Medal,1,00:00.0,GORANOVA Ivet,Women's Kumite -55kg,Bulgaria,Karate
+Silver Medal,2,00:00.0,TERLIUGA Anzhelika,Women's Kumite -55kg,Ukraine,Karate
+Bronze Medal,3,00:00.0,PLANK Bettina,Women's Kumite -55kg,Austria,Karate
+Bronze Medal,3,00:00.0,WEN Tzuyun,Women's Kumite -55kg,Chinese Taipei,Karate
+Gold Medal,1,00:00.0,WELLBROCK Florian,Men's 10km,Germany,Marathon Swimming
+Silver Medal,2,00:00.0,RASOVSZKY Kristof,Men's 10km,Hungary,Marathon Swimming
+Bronze Medal,3,00:00.0,PALTRINIERI Gregorio,Men's 10km,Italy,Marathon Swimming
+Gold Medal,1,00:00.0,PALMER Keegan,Men's Park,Australia,Skateboarding
+Silver Medal,2,00:00.0,BARROS Pedro,Men's Park,Brazil,Skateboarding
+Bronze Medal,3,00:00.0,JUNEAU Cory,Men's Park,United States of America,Skateboarding
+Gold Medal,1,00:00.0,GINES LOPEZ Alberto,Men's Combined,Spain,Sport Climbing
+Silver Medal,2,00:00.0,COLEMAN Nathaniel,Men's Combined,United States of America,Sport Climbing
+Bronze Medal,3,00:00.0,SCHUBERT Jakob,Men's Combined,Austria,Sport Climbing
+Gold Medal,1,00:00.0,CHEN Meng,Women's Team,People's Republic of China,Table Tennis
+Gold Medal,1,00:00.0,SUN Yingsha,Women's Team,People's Republic of China,Table Tennis
+Gold Medal,1,00:00.0,WANG Manyu,Women's Team,People's Republic of China,Table Tennis
+Silver Medal,2,00:00.0,ISHIKAWA Kasumi,Women's Team,Japan,Table Tennis
+Silver Medal,2,00:00.0,HIRANO Miu,Women's Team,Japan,Table Tennis
+Silver Medal,2,00:00.0,ITO Mima,Women's Team,Japan,Table Tennis
+Bronze Medal,3,00:00.0,DOO Hoi Kem,Women's Team,"Hong Kong, China",Table Tennis
+Bronze Medal,3,00:00.0,LEE Ho Ching,Women's Team,"Hong Kong, China",Table Tennis
+Bronze Medal,3,00:00.0,SOO Wai Yam Minnie,Women's Team,"Hong Kong, China",Table Tennis
+Gold Medal,1,00:00.0,UGUEV Zavur,Men's Freestyle 57kg,ROC,Wrestling
+Silver Medal,2,00:00.0,RAVI Kumar,Men's Freestyle 57kg,India,Wrestling
+Bronze Medal,3,00:00.0,SANAYEV Nurislam,Men's Freestyle 57kg,Kazakhstan,Wrestling
+Bronze Medal,3,00:00.0,GILMAN Thomas Patrick,Men's Freestyle 57kg,United States of America,Wrestling
+Gold Medal,1,00:00.0,TAYLOR III David Morris,Men's Freestyle 86kg,United States of America,Wrestling
+Silver Medal,2,00:00.0,YAZDANICHARATI Hassan,Men's Freestyle 86kg,Islamic Republic of Iran,Wrestling
+Bronze Medal,3,00:00.0,AMINE Myles Nazem,Men's Freestyle 86kg,San Marino,Wrestling
+Bronze Medal,3,00:00.0,NAIFONOV Artur,Men's Freestyle 86kg,ROC,Wrestling
+Gold Medal,1,00:00.0,KAWAI Risako,Women's Freestyle 57kg,Japan,Wrestling
+Silver Medal,2,00:00.0,KURACHKINA Iryna,Women's Freestyle 57kg,Belarus,Wrestling
+Bronze Medal,3,00:00.0,NIKOLOVA Evelina Georgieva,Women's Freestyle 57kg,Bulgaria,Wrestling
+Bronze Medal,3,00:00.0,MAROULIS Helen Louise,Women's Freestyle 57kg,United States of America,Wrestling
+Gold Medal,1,00:00.0,JACOBS Lamont Marcell,Men's 4 x 100m Relay,Italy,Athletics
+Gold Medal,1,00:00.0,TORTU Filippo,Men's 4 x 100m Relay,Italy,Athletics
+Gold Medal,1,00:00.0,DESALU Eseosa Fostine,Men's 4 x 100m Relay,Italy,Athletics
+Gold Medal,1,00:00.0,PATTA Lorenzo,Men's 4 x 100m Relay,Italy,Athletics
+Silver Medal,2,00:00.0,MITCHELL-BLAKE Nethaneel,Men's 4 x 100m Relay,Great Britain,Athletics
+Silver Medal,2,00:00.0,KILTY Richard,Men's 4 x 100m Relay,Great Britain,Athletics
+Silver Medal,2,00:00.0,UJAH Chijindu,Men's 4 x 100m Relay,Great Britain,Athletics
+Silver Medal,2,00:00.0,HUGHES Zharnel,Men's 4 x 100m Relay,Great Britain,Athletics
+Bronze Medal,3,00:00.0,RODNEY Brendon,Men's 4 x 100m Relay,Canada,Athletics
+Bronze Medal,3,00:00.0,de GRASSE Andre,Men's 4 x 100m Relay,Canada,Athletics
+Bronze Medal,3,00:00.0,BLAKE Jerome,Men's 4 x 100m Relay,Canada,Athletics
+Bronze Medal,3,00:00.0,BROWN Aaron,Men's 4 x 100m Relay,Canada,Athletics
+Gold Medal,1,00:00.0,CHEPTEGEI Joshua,Men's 5000m,Uganda,Athletics
+Silver Medal,2,00:00.0,AHMED Mohammed,Men's 5000m,Canada,Athletics
+Bronze Medal,3,00:00.0,CHELIMO Paul,Men's 5000m,United States of America,Athletics
+Gold Medal,1,00:00.0,TOMALA Dawid,Men's 50km Race Walk,Poland,Athletics
+Silver Medal,2,00:00.0,HILBERT Jonathan,Men's 50km Race Walk,Germany,Athletics
+Bronze Medal,3,00:00.0,DUNFEE Evan,Men's 50km Race Walk,Canada,Athletics
+Gold Medal,1,00:00.0,KIPYEGON Faith,Women's 1500m,Kenya,Athletics
+Silver Medal,2,00:00.0,MUIR Laura,Women's 1500m,Great Britain,Athletics
+Bronze Medal,3,00:00.0,HASSAN Sifan,Women's 1500m,Netherlands,Athletics
+Gold Medal,1,00:00.0,PALMISANO Antonella,Women's 20km Race Walk,Italy,Athletics
+Silver Medal,2,00:00.0,ARENAS Sandra Lorena,Women's 20km Race Walk,Colombia,Athletics
+Bronze Medal,3,00:00.0,LIU Hong,Women's 20km Race Walk,People's Republic of China,Athletics
+Gold Medal,1,00:00.0,MORRISON Natasha,Women's 4 x 100m Relay,Jamaica,Athletics
+Gold Medal,1,00:00.0,BURCHELL Remona,Women's 4 x 100m Relay,Jamaica,Athletics
+Gold Medal,1,00:00.0,THOMPSON-HERAH Elaine,Women's 4 x 100m Relay,Jamaica,Athletics
+Gold Medal,1,00:00.0,WILLIAMS Briana,Women's 4 x 100m Relay,Jamaica,Athletics
+Gold Medal,1,00:00.0,JACKSON Shericka,Women's 4 x 100m Relay,Jamaica,Athletics
+Gold Medal,1,00:00.0,FRASER-PRYCE Shelly-Ann,Women's 4 x 100m Relay,Jamaica,Athletics
+Silver Medal,2,00:00.0,DANIELS Teahna,Women's 4 x 100m Relay,United States of America,Athletics
+Silver Medal,2,00:00.0,THOMAS Gabrielle,Women's 4 x 100m Relay,United States of America,Athletics
+Silver Medal,2,00:00.0,GARDNER English,Women's 4 x 100m Relay,United States of America,Athletics
+Silver Medal,2,00:00.0,OLIVER Javianne,Women's 4 x 100m Relay,United States of America,Athletics
+Silver Medal,2,00:00.0,PRANDINI Jenna,Women's 4 x 100m Relay,United States of America,Athletics
+Silver Medal,2,00:00.0,HOBBS Aleia,Women's 4 x 100m Relay,United States of America,Athletics
+Bronze Medal,3,00:00.0,LANSIQUOT Imani,Women's 4 x 100m Relay,Great Britain,Athletics
+Bronze Medal,3,00:00.0,NEITA Daryll,Women's 4 x 100m Relay,Great Britain,Athletics
+Bronze Medal,3,00:00.0,PHILIP Asha,Women's 4 x 100m Relay,Great Britain,Athletics
+Bronze Medal,3,00:00.0,ASHER-SMITH Dina,Women's 4 x 100m Relay,Great Britain,Athletics
+Gold Medal,1,00:00.0,MILLER-UIBO Shaunae,Women's 400m,Bahamas,Athletics
+Silver Medal,2,00:00.0,PAULINO Marileidy,Women's 400m,Dominican Republic,Athletics
+Bronze Medal,3,00:00.0,FELIX Allyson,Women's 400m,United States of America,Athletics
+Gold Medal,1,00:00.0,LIU Shiying,Women's Javelin Throw,People's Republic of China,Athletics
+Silver Medal,2,00:00.0,ANDREJCZYK Maria,Women's Javelin Throw,Poland,Athletics
+Bronze Medal,3,00:00.0,BARBER Kelsey-Lee,Women's Javelin Throw,Australia,Athletics
+Gold Medal,1,00:00.0,KLINEMAN Alix,Women,United States of America,Beach Volleyball
+Gold Medal,1,00:00.0,ROSS April,Women,United States of America,Beach Volleyball
+Silver Medal,2,00:00.0,CLANCY Taliqua,Women,Australia,Beach Volleyball
+Silver Medal,2,00:00.0,ARTACHO del SOLAR Mariafe,Women,Australia,Beach Volleyball
+Bronze Medal,3,00:00.0,HEIDRICH Joana,Women,Switzerland,Beach Volleyball
+Bronze Medal,3,00:00.0,VERGE-DEPRE Anouk,Women,Switzerland,Beach Volleyball
+Gold Medal,1,00:00.0,la CRUZ Julio,Men's Heavy (81-91kg),Cuba,Boxing
+Silver Medal,2,00:00.0,GADZHIMAGOMEDOV Muslim,Men's Heavy (81-91kg),ROC,Boxing
+Bronze Medal,3,00:00.0,GARSIDE Harry,Men's Light (57-63kg),Australia,Boxing
+Bronze Medal,3,00:00.0,BACHKOV Hovhannes,Men's Light (57-63kg),Armenia,Boxing
+Bronze Medal,3,00:00.0,FONTIJN Nouchka,Women's Middle (69-75kg),Netherlands,Boxing
+Bronze Medal,3,00:00.0,MAGOMEDALIEVA Zenfira,Women's Middle (69-75kg),ROC,Boxing
+Gold Medal,1,00:00.0,LAVREYSEN Harrie,Men's Sprint,Netherlands,Cycling Track
+Silver Medal,2,00:00.0,HOOGLAND Jeffrey,Men's Sprint,Netherlands,Cycling Track
+Bronze Medal,3,00:00.0,CARLIN Jack,Men's Sprint,Great Britain,Cycling Track
+Gold Medal,1,00:00.0,ARCHIBALD Katie,Women's Madison,Great Britain,Cycling Track
+Gold Medal,1,00:00.0,KENNY Laura,Women's Madison,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,DIDERIKSEN Amalie,Women's Madison,Denmark,Cycling Track
+Silver Medal,2,00:00.0,LETH Julie,Women's Madison,Denmark,Cycling Track
+Bronze Medal,3,00:00.0,NOVOLODSKAIA Mariia,Women's Madison,ROC,Cycling Track
+Bronze Medal,3,00:00.0,KHATUNTSEVA Gulnaz,Women's Madison,ROC,Cycling Track
+Gold Medal,1,00:00.0,BECKIE Janine,Women,Canada,Football
+Gold Medal,1,00:00.0,BUCHANAN Kadeisha,Women,Canada,Football
+Gold Medal,1,00:00.0,CARLE Gabrielle,Women,Canada,Football
+Gold Medal,1,00:00.0,CHAPMAN Allysha,Women,Canada,Football
+Gold Medal,1,00:00.0,FLEMING Jessie,Women,Canada,Football
+Gold Medal,1,00:00.0,GILLES Vanessa,Women,Canada,Football
+Gold Medal,1,00:00.0,GROSSO Julia,Women,Canada,Football
+Gold Medal,1,00:00.0,HUITEMA Jordyn,Women,Canada,Football
+Gold Medal,1,00:00.0,LABBE Stephanie,Women,Canada,Football
+Gold Medal,1,00:00.0,LAWRENCE Ashley,Women,Canada,Football
+Gold Medal,1,00:00.0,LEON Adriana,Women,Canada,Football
+Gold Medal,1,00:00.0,McLEOD Erin,Women,Canada,Football
+Gold Medal,1,00:00.0,PRINCE Nichelle,Women,Canada,Football
+Gold Medal,1,00:00.0,QUINN,Women,Canada,Football
+Gold Medal,1,00:00.0,RIVIERE Jayde,Women,Canada,Football
+Gold Medal,1,00:00.0,ROSE Deanne,Women,Canada,Football
+Gold Medal,1,00:00.0,SCHMIDT Sophie,Women,Canada,Football
+Gold Medal,1,00:00.0,SCOTT Desiree,Women,Canada,Football
+Gold Medal,1,00:00.0,SHERIDAN Kailen,Women,Canada,Football
+Gold Medal,1,00:00.0,SINCLAIR Christine,Women,Canada,Football
+Gold Medal,1,00:00.0,VIENS Evelyne,Women,Canada,Football
+Gold Medal,1,00:00.0,ZADORSKY Shelina,Women,Canada,Football
+Silver Medal,2,00:00.0,ILESTEDT Amanda,Women,Sweden,Football
+Silver Medal,2,00:00.0,ANVEGARD Anna,Women,Sweden,Football
+Silver Medal,2,00:00.0,SEGER Caroline,Women,Sweden,Football
+Silver Medal,2,00:00.0,KULLBERG Emma,Women,Sweden,Football
+Silver Medal,2,00:00.0,ANGELDAL Filippa,Women,Sweden,Football
+Silver Medal,2,00:00.0,ROLFO Fridolina,Women,Sweden,Football
+Silver Medal,2,00:00.0,BENNISON Hanna,Women,Sweden,Football
+Silver Medal,2,00:00.0,GLAS Hanna,Women,Sweden,Football
+Silver Medal,2,00:00.0,LINDAHL Hedvig,Women,Sweden,Football
+Silver Medal,2,00:00.0,FALK Jennifer,Women,Sweden,Football
+Silver Medal,2,00:00.0,ANDERSSON Jonna,Women,Sweden,Football
+Silver Medal,2,00:00.0,RODDAR Julia,Women,Sweden,Football
+Silver Medal,2,00:00.0,ASLLANI Kosovare,Women,Sweden,Football
+Silver Medal,2,00:00.0,HURTIG Lina,Women,Sweden,Football
+Silver Medal,2,00:00.0,JANOGY Madelen,Women,Sweden,Football
+Silver Medal,2,00:00.0,ERIKSSON Magdalena,Women,Sweden,Football
+Silver Medal,2,00:00.0,BJORN Nathalie,Women,Sweden,Football
+Silver Medal,2,00:00.0,SCHOUGH Olivia,Women,Sweden,Football
+Silver Medal,2,00:00.0,BLOMQVIST Rebecka,Women,Sweden,Football
+Silver Medal,2,00:00.0,JAKOBSSON Sofia,Women,Sweden,Football
+Silver Medal,2,00:00.0,BLACKSTENIUS Stina,Women,Sweden,Football
+Silver Medal,2,00:00.0,MUSOVIC Zecira,Women,Sweden,Football
+Bronze Medal,3,00:00.0,MORGAN Alex,Women,United States of America,Football
+Bronze Medal,3,00:00.0,DAHLKEMPER Abby,Women,United States of America,Football
+Bronze Medal,3,00:00.0,FRANCH Adrianna,Women,United States of America,Football
+Bronze Medal,3,00:00.0,NAEHER Alyssa,Women,United States of America,Football
+Bronze Medal,3,00:00.0,CAMPBELL Jane,Women,United States of America,Football
+Bronze Medal,3,00:00.0,LLOYD Carli,Women,United States of America,Football
+Bronze Medal,3,00:00.0,MACARIO Catarina,Women,United States of America,Football
+Bronze Medal,3,00:00.0,PRESS Christen,Women,United States of America,Football
+Bronze Medal,3,00:00.0,KRUEGER Casey,Women,United States of America,Football
+Bronze Medal,3,00:00.0,DUNN Crystal,Women,United States of America,Football
+Bronze Medal,3,00:00.0,SONNETT Emily,Women,United States of America,Football
+Bronze Medal,3,00:00.0,ERTZ Julie,Women,United States of America,Football
+Bronze Medal,3,00:00.0,MEWIS Kristie,Women,United States of America,Football
+Bronze Medal,3,00:00.0,O'HARA Kelley,Women,United States of America,Football
+Bronze Medal,3,00:00.0,HORAN Lindsey,Women,United States of America,Football
+Bronze Medal,3,00:00.0,WILLIAMS Lynn,Women,United States of America,Football
+Bronze Medal,3,00:00.0,RAPINOE Megan,Women,United States of America,Football
+Bronze Medal,3,00:00.0,LAVELLE Rose,Women,United States of America,Football
+Bronze Medal,3,00:00.0,SAUERBRUNN Becky,Women,United States of America,Football
+Bronze Medal,3,00:00.0,MEWIS Samantha,Women,United States of America,Football
+Bronze Medal,3,00:00.0,DAVIDSON Tierna,Women,United States of America,Football
+Bronze Medal,3,00:00.0,HEATH Tobin,Women,United States of America,Football
+Gold Medal,1,00:00.0,MATLA Frederique,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,NUNNINK Laura Maria,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,PHENINCKX Malou,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,SANDERS Pien,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,STAM Lauren Lara Jeanette,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,van GEFFEN Margot,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,van MAASAKKER Caia Jacqueline,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,VERSCHOOR Maria,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,WELTEN Lidewij Marsia Maria,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,ALBERS Felice,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,de GOEDE Eva Roma Maria,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,de WAARD Xan Gerdien,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,KEETELS Marloes Johanna Maria,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,KONING Josine,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,KOOLEN Sanne Anne Leonie,Women,Netherlands,Hockey
+Gold Medal,1,00:00.0,LEURINK Laurien,Women,Netherlands,Hockey
+Silver Medal,2,00:00.0,SUCCI Maria Belen,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,ALONSO Agostina,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,ALBERTARRIO Agustina,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,MERINO Delfina,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,GRANATTO Maria Jose,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,JANKUNAS Julieta,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,RETEGUI Micaela,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,TOCCALINO Sofia,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,SAUZE VALDEZ Victoria,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,COSTA BIONDI Valentina Isabel,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,GRANATTO Maria Victoria,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,TRINCHINETTI Eugenia Maria,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,GORZELANY Agustina,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,FORCHERIO Maria Emilia,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,BARRIONUEVO Maria Noel,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,SANCHEZ MOCCIA Rocio,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,MACCARI Sofia,Women,Argentina,Hockey
+Silver Medal,2,00:00.0,RAPOSO RUIZ de los LLANOS Valentina,Women,Argentina,Hockey
+Bronze Medal,3,00:00.0,ANSLEY Giselle,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,BALSDON Grace,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,CRACKLES Fiona Anne,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,HINCH Madeleine Claire,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,JONES Sarah Louise,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,MARTIN Hannah,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,McCALLIN Shona,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,OWSLEY Lily,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,PEARNE-WEBB Hollie,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,PETTER Isabelle,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,RAYER Elena Sian,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,ROBERTSON Sarah,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,TOMAN Anna-Frances,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,TOWNSEND Susannah,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,UNSWORTH Laura,Women,Great Britain,Hockey
+Bronze Medal,3,00:00.0,WILKINSON Leah Julia,Women,Great Britain,Hockey
+Gold Medal,1,00:00.0,KIYUNA Ryo,Men's Kata,Japan,Karate
+Silver Medal,2,00:00.0,QUINTERO Damian,Men's Kata,Spain,Karate
+Bronze Medal,3,00:00.0,SOFUOGLU Ali,Men's Kata,Turkey,Karate
+Bronze Medal,3,00:00.0,TORRES GUTIERREZ Ariel,Men's Kata,United States of America,Karate
+Gold Medal,1,00:00.0,BUSA Luigi,Men's Kumite -75kg,Italy,Karate
+Silver Medal,2,00:00.0,AGHAYEV Rafael,Men's Kumite -75kg,Azerbaijan,Karate
+Bronze Medal,3,00:00.0,HARSPATAKI Karoly Gabor,Men's Kumite -75kg,Hungary,Karate
+Bronze Medal,3,00:00.0,HORUNA Stanislav,Men's Kumite -75kg,Ukraine,Karate
+Gold Medal,1,00:00.0,PREKOVIC Jovana,Women's Kumite -61kg,Serbia,Karate
+Silver Medal,2,00:00.0,YIN Xiaoyan,Women's Kumite -61kg,People's Republic of China,Karate
+Bronze Medal,3,00:00.0,LOTFY Giana,Women's Kumite -61kg,Egypt,Karate
+Bronze Medal,3,00:00.0,COBAN Merve,Women's Kumite -61kg,Turkey,Karate
+Gold Medal,1,00:00.0,FRENCH Kate,Women's Individual,Great Britain,Modern Pentathlon
+Silver Medal,2,00:00.0,ASADAUSKAITE Laura,Women's Individual,Lithuania,Modern Pentathlon
+Bronze Medal,3,00:00.0,KOVACS Sarolta,Women's Individual,Hungary,Modern Pentathlon
+Gold Medal,1,00:00.0,GARNBRET Janja,Women's Combined,Slovenia,Sport Climbing
+Silver Medal,2,00:00.0,NONAKA Miho,Women's Combined,Japan,Sport Climbing
+Bronze Medal,3,00:00.0,NOGUCHI Akiyo,Women's Combined,Japan,Sport Climbing
+Gold Medal,1,00:00.0,MA Long,Men's Team,People's Republic of China,Table Tennis
+Gold Medal,1,00:00.0,XU Xin,Men's Team,People's Republic of China,Table Tennis
+Gold Medal,1,00:00.0,FAN Zhendong,Men's Team,People's Republic of China,Table Tennis
+Silver Medal,2,00:00.0,OVTCHAROV Dimitrij,Men's Team,Germany,Table Tennis
+Silver Medal,2,00:00.0,BOLL Timo,Men's Team,Germany,Table Tennis
+Silver Medal,2,00:00.0,FRANZISKA Patrick,Men's Team,Germany,Table Tennis
+Bronze Medal,3,00:00.0,NIWA Koki,Men's Team,Japan,Table Tennis
+Bronze Medal,3,00:00.0,HARIMOTO Tomokazu,Men's Team,Japan,Table Tennis
+Bronze Medal,3,00:00.0,MIZUTANI Jun,Men's Team,Japan,Table Tennis
+Gold Medal,1,00:00.0,STEVESON Gable Dan,Men's Freestyle 125kg,United States of America,Wrestling
+Silver Medal,2,00:00.0,PETRIASHVILI Geno,Men's Freestyle 125kg,Georgia,Wrestling
+Bronze Medal,3,00:00.0,ZARE Amir Hossein,Men's Freestyle 125kg,Islamic Republic of Iran,Wrestling
+Bronze Medal,3,00:00.0,AKGUL Taha,Men's Freestyle 125kg,Turkey,Wrestling
+Gold Medal,1,00:00.0,SIDAKOV Zaurbek,Men's Freestyle 74kg,ROC,Wrestling
+Silver Medal,2,00:00.0,KADZIMAHAMEDAU Mahamedkhabib,Men's Freestyle 74kg,Belarus,Wrestling
+Bronze Medal,3,00:00.0,DAKE Kyle Douglas,Men's Freestyle 74kg,United States of America,Wrestling
+Bronze Medal,3,00:00.0,ABDURAKHMONOV Bekzod,Men's Freestyle 74kg,Uzbekistan,Wrestling
+Gold Medal,1,00:00.0,MUKAIDA Mayu,Women's Freestyle 53kg,Japan,Wrestling
+Silver Medal,2,00:00.0,PANG Qianyu,Women's Freestyle 53kg,People's Republic of China,Wrestling
+Bronze Medal,3,00:00.0,KALADZINSKAYA Vanesa,Women's Freestyle 53kg,Belarus,Wrestling
+Bronze Medal,3,00:00.0,BAT OCHIR Bolortuya,Women's Freestyle 53kg,Mongolia,Wrestling
+Gold Medal,1,00:00.0,ROMASHINA Svetlana,Team,ROC,Artistic Swimming
+Gold Medal,1,00:00.0,KOLESNICHENKO Svetlana,Team,ROC,Artistic Swimming
+Gold Medal,1,00:00.0,PATSKEVICH Aleksandra,Team,ROC,Artistic Swimming
+Gold Medal,1,00:00.0,SHISHKINA Alla,Team,ROC,Artistic Swimming
+Gold Medal,1,00:00.0,CHIGIREVA Vlada,Team,ROC,Artistic Swimming
+Gold Medal,1,00:00.0,GOLIADKINA Marina,Team,ROC,Artistic Swimming
+Gold Medal,1,00:00.0,KOMAR Polina,Team,ROC,Artistic Swimming
+Gold Medal,1,00:00.0,SHUROCHKINA Maria,Team,ROC,Artistic Swimming
+Silver Medal,2,00:00.0,SUN Wenyan,Team,People's Republic of China,Artistic Swimming
+Silver Medal,2,00:00.0,FENG Yu,Team,People's Republic of China,Artistic Swimming
+Silver Medal,2,00:00.0,HUANG Xuechen,Team,People's Republic of China,Artistic Swimming
+Silver Medal,2,00:00.0,GUO Li,Team,People's Republic of China,Artistic Swimming
+Silver Medal,2,00:00.0,LIANG Xinping,Team,People's Republic of China,Artistic Swimming
+Silver Medal,2,00:00.0,YIN Chengxin,Team,People's Republic of China,Artistic Swimming
+Silver Medal,2,00:00.0,XIAO Yanning,Team,People's Republic of China,Artistic Swimming
+Silver Medal,2,00:00.0,WANG Qianyi,Team,People's Republic of China,Artistic Swimming
+Bronze Medal,3,00:00.0,FIEDINA Marta,Team,Ukraine,Artistic Swimming
+Bronze Medal,3,00:00.0,YAKHNO Yelyzaveta,Team,Ukraine,Artistic Swimming
+Bronze Medal,3,00:00.0,ALEKSIIVA Vladyslava,Team,Ukraine,Artistic Swimming
+Bronze Medal,3,00:00.0,ALEKSIIVA Maryna,Team,Ukraine,Artistic Swimming
+Bronze Medal,3,00:00.0,REZNIK Kateryna,Team,Ukraine,Artistic Swimming
+Bronze Medal,3,00:00.0,SHYNKARENKO Alina,Team,Ukraine,Artistic Swimming
+Bronze Medal,3,00:00.0,SYDORENKO Kseniya,Team,Ukraine,Artistic Swimming
+Bronze Medal,3,00:00.0,SAVCHUK Anastasiya,Team,Ukraine,Artistic Swimming
+Gold Medal,1,00:00.0,INGEBRIGTSEN Jakob,Men's 1500m,Norway,Athletics
+Silver Medal,2,00:00.0,CHERUIYOT Timothy,Men's 1500m,Kenya,Athletics
+Bronze Medal,3,00:00.0,KERR Josh,Men's 1500m,Great Britain,Athletics
+Gold Medal,1,00:00.0,ROSS Randolph,Men's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,BENJAMIN Rai,Men's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,STEWART Trevor,Men's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,NORWOOD Vernon,Men's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,DEADMON Bryce,Men's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,CHERRY Michael,Men's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,NORMAN Michael,Men's 4 x 400m Relay,United States of America,Athletics
+Silver Medal,2,00:00.0,van DIEPEN Tony,Men's 4 x 400m Relay,Netherlands,Athletics
+Silver Medal,2,00:00.0,AGARD Terrence,Men's 4 x 400m Relay,Netherlands,Athletics
+Silver Medal,2,00:00.0,ANGELA Ramsey,Men's 4 x 400m Relay,Netherlands,Athletics
+Silver Medal,2,00:00.0,BONEVACIA Liemarvin,Men's 4 x 400m Relay,Netherlands,Athletics
+Silver Medal,2,00:00.0,DOBBER Jochem,Men's 4 x 400m Relay,Netherlands,Athletics
+Bronze Medal,3,00:00.0,MAKWALA Isaac,Men's 4 x 400m Relay,Botswana,Athletics
+Bronze Medal,3,00:00.0,NGOZI Zibane,Men's 4 x 400m Relay,Botswana,Athletics
+Bronze Medal,3,00:00.0,THEBE Baboloki,Men's 4 x 400m Relay,Botswana,Athletics
+Bronze Medal,3,00:00.0,NDORI Bayapo,Men's 4 x 400m Relay,Botswana,Athletics
+Gold Medal,1,00:00.0,CHOPRA Neeraj,Men's Javelin Throw,India,Athletics
+Silver Medal,2,00:00.0,VADLEJCH Jakub,Men's Javelin Throw,Czech Republic,Athletics
+Bronze Medal,3,00:00.0,VESELY Vitezslav,Men's Javelin Throw,Czech Republic,Athletics
+Gold Medal,1,00:00.0,HASSAN Sifan,"Women's 10,000m",Netherlands,Athletics
+Silver Medal,2,00:00.0,GEZAHEGNE Kalkidan,"Women's 10,000m",Bahrain,Athletics
+Bronze Medal,3,00:00.0,GIDEY Letesenbet,"Women's 10,000m",Ethiopia,Athletics
+Gold Medal,1,00:00.0,WHITNEY Kaylin,Women's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,ELLIS Kendall,Women's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,MUHAMMAD Dalilah,Women's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,McLAUGHLIN Sydney,Women's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,IRBY Lynna,Women's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,JONATHAS Wadeline,Women's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,MU Athing,Women's 4 x 400m Relay,United States of America,Athletics
+Gold Medal,1,00:00.0,FELIX Allyson,Women's 4 x 400m Relay,United States of America,Athletics
+Silver Medal,2,00:00.0,HOLUB-KOWALIK Malgorzata,Women's 4 x 400m Relay,Poland,Athletics
+Silver Medal,2,00:00.0,KIELBASINSKA Anna,Women's 4 x 400m Relay,Poland,Athletics
+Silver Medal,2,00:00.0,SWIETY-ERSETIC Justyna,Women's 4 x 400m Relay,Poland,Athletics
+Silver Medal,2,00:00.0,BAUMGART-WITAN Iga,Women's 4 x 400m Relay,Poland,Athletics
+Silver Medal,2,00:00.0,KACZMAREK Natalia,Women's 4 x 400m Relay,Poland,Athletics
+Bronze Medal,3,00:00.0,BROMFIELD Junelle,Women's 4 x 400m Relay,Jamaica,Athletics
+Bronze Medal,3,00:00.0,JACKSON Shericka,Women's 4 x 400m Relay,Jamaica,Athletics
+Bronze Medal,3,00:00.0,RUSSELL Janieve,Women's 4 x 400m Relay,Jamaica,Athletics
+Bronze Medal,3,00:00.0,WILLIAMS Stacey Ann,Women's 4 x 400m Relay,Jamaica,Athletics
+Bronze Medal,3,00:00.0,McGREGOR Roneisha,Women's 4 x 400m Relay,Jamaica,Athletics
+Bronze Medal,3,00:00.0,McLEOD Candice,Women's 4 x 400m Relay,Jamaica,Athletics
+Gold Medal,1,00:00.0,LASITSKENE Mariya,Women's High Jump,ROC,Athletics
+Silver Medal,2,00:00.0,McDERMOTT Nicola,Women's High Jump,Australia,Athletics
+Bronze Medal,3,00:00.0,MAHUCHIKH Yaroslava,Women's High Jump,Ukraine,Athletics
+Gold Medal,1,00:00.0,JEPCHIRCHIR Peres,Women's Marathon,Kenya,Athletics
+Silver Medal,2,00:00.0,KOSGEI Brigid,Women's Marathon,Kenya,Athletics
+Bronze Medal,3,00:00.0,SEIDEL Molly,Women's Marathon,United States of America,Athletics
+Gold Medal,1,00:00.0,SAKAMOTO Hayato,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,YAMASAKI Yasuaki,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,IWAZAKI Suguru,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,UMENO Ryutaro,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,MORISHITA Masato,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,KIKUCHI Ryosuke,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,SUZUKI Seiya,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,OHNO Yudai,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,YAMADA Tetsuto,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,MURAKAMI Munetaka,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,GENDA Sosuke,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,TAIRA Kaima,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,SENGA Koudai,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,KAI Takuya,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,YANAGITA Yuki,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,KONDOH Kensuke,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,ASAMURA Hideto,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,YAMAMOTO Yoshinobu,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,YOSHIDA Masataka,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,AOYAGI Koyo,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,KURIBAYASHI Ryoji,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,KURIHARA Ryoya,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,ITOH Hiromi,Baseball,Japan,Baseball/Softball
+Gold Medal,1,00:00.0,TANAKA Masahiro,Baseball,Japan,Baseball/Softball
+Silver Medal,2,00:00.0,CARTER Anthony,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,DICKSON Brandon,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,ROBERTSON David,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,ALVAREZ Eddy,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,JACKSON JR Edwin,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,MARTINEZ Nick,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,FRAZIER Todd,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,CASAS Triston,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,FILIA Eric,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,FEDEROWICZ Tim,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,ALLEN Nick,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,WESTBROOK Jamie,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,KOLOZSVARY Mark,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,AUSTIN Tyler,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,WOODS RICHARDSON Simeon,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,RYAN Joe,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,BAZ Shane,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,STARLING Bubba,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,LOPEZ Jack,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,GOSE Anthony,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,KAZMIR Scott,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,McGOUGH Scott,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,KIVLEHAN Patrick,Baseball,United States of America,Baseball/Softball
+Silver Medal,2,00:00.0,RYAN Ryder,Baseball,United States of America,Baseball/Softball
+Bronze Medal,3,00:00.0,GARCIA Junior,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,CASTILLO Luis,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,MIESES Johan,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,RODRIGUEZ Julio,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,ROSSO Ramon,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,VALDES Raul,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,BALDWIN Roldani,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,SANCHEZ Angel,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,MERCEDES Cristopher,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,ALVAREZ Dario,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,ARIAS Gabriel,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,ASENCIO Jairo,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,CABRERA Melky,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,PEREZ Yefri,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,MARINEZ Jhan,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,NUNEZ Gustavo,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,VALERIO Charlie,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,GUZMAN Jeison,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,MEJIA Erick,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,REYES Denyi,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,BAUTISTA Jose,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,BONIFACIO Emilio,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,DIAZ Jose,Baseball,Dominican Republic,Baseball/Softball
+Bronze Medal,3,00:00.0,FRANCISCO Juan,Baseball,Dominican Republic,Baseball/Softball
+Gold Medal,1,00:00.0,MCGEE Javale,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,MIDDLETON Khris,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,TATUM Jayson,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,DURANT Kevin,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,BOOKER Devin,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,GREEN Draymond,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,LILLARD Damian,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,GRANT Jerami,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,LAVINE Zach,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,HOLIDAY Jrue,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,JOHNSON Keldon,Men,United States of America,Basketball
+Gold Medal,1,00:00.0,ADEBAYO Bam,Men,United States of America,Basketball
+Silver Medal,2,00:00.0,CORNELIE Petr,Men,France,Basketball
+Silver Medal,2,00:00.0,ALBICY Andrew,Men,France,Basketball
+Silver Medal,2,00:00.0,HEURTEL Thomas,Men,France,Basketball
+Silver Medal,2,00:00.0,NTILIKINA Frank,Men,France,Basketball
+Silver Medal,2,00:00.0,de COLO Nando,Men,France,Basketball
+Silver Medal,2,00:00.0,FOURNIER Evan,Men,France,Basketball
+Silver Medal,2,00:00.0,BATUM Nicolas,Men,France,Basketball
+Silver Medal,2,00:00.0,LUWAWU CABARROT Timothe,Men,France,Basketball
+Silver Medal,2,00:00.0,YABUSELE Guerschon,Men,France,Basketball
+Silver Medal,2,00:00.0,FALL Moustapha,Men,France,Basketball
+Silver Medal,2,00:00.0,GOBERT Rudy,Men,France,Basketball
+Silver Medal,2,00:00.0,POIRIER Vincent,Men,France,Basketball
+Bronze Medal,3,00:00.0,GREEN Josh,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,BAYNES Aron,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,DELLAVEDOVA Matthew,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,EXUM Dante,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,GOULDING Chris,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,INGLES Joe,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,KAY Nic,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,LANDALE Jock,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,MILLS Patty,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,THYBULLE Matisse,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,REATH Duop Thomas,Men,Australia,Basketball
+Bronze Medal,3,00:00.0,SOBEY Nathan,Men,Australia,Basketball
+Gold Medal,1,00:00.0,MOL Anders Berntsen,Men,Norway,Beach Volleyball
+Gold Medal,1,00:00.0,SORUM Christian Sandlie,Men,Norway,Beach Volleyball
+Silver Medal,2,00:00.0,KRASILNIKOV Viacheslav,Men,ROC,Beach Volleyball
+Silver Medal,2,00:00.0,STOYANOVSKIY Oleg,Men,ROC,Beach Volleyball
+Bronze Medal,3,00:00.0,YOUNOUSSE Cherif,Men,Qatar,Beach Volleyball
+Bronze Medal,3,00:00.0,TIJAN Ahmed,Men,Qatar,Beach Volleyball
+Gold Medal,1,00:00.0,YAFAI Galal,Men's Fly (48-52kg),Great Britain,Boxing
+Silver Medal,2,00:00.0,PAALAM Carlo,Men's Fly (48-52kg),Philippines,Boxing
+Gold Medal,1,00:00.0,SOUSA Hebert,Men's Middle (69-75kg),Brazil,Boxing
+Silver Medal,2,00:00.0,KHYZHNIAK Oleksandr,Men's Middle (69-75kg),Ukraine,Boxing
+Gold Medal,1,00:00.0,KRASTEVA Stoyka Zhelyazkova,Women's Fly (48-51kg),Bulgaria,Boxing
+Silver Medal,2,00:00.0,CAKIROGLU Buse Naz,Women's Fly (48-51kg),Turkey,Boxing
+Gold Medal,1,00:00.0,SURMENELI Busenaz,Women's Welter (64-69kg),Turkey,Boxing
+Silver Medal,2,00:00.0,GU Hong,Women's Welter (64-69kg),People's Republic of China,Boxing
+Gold Medal,1,00:00.0,QUEIROZ dos SANTOS Isaquias,Men's Canoe Single 1000m,Brazil,Canoe Sprint
+Silver Medal,2,00:00.0,LIU Hao,Men's Canoe Single 1000m,People's Republic of China,Canoe Sprint
+Bronze Medal,3,00:00.0,TARNOVSCHI Serghei,Men's Canoe Single 1000m,Republic of Moldova,Canoe Sprint
+Gold Medal,1,00:00.0,LEMKE Max,Men's Kayak Four 500m,Germany,Canoe Sprint
+Gold Medal,1,00:00.0,LIEBSCHER Tom,Men's Kayak Four 500m,Germany,Canoe Sprint
+Gold Medal,1,00:00.0,RAUHE Ronald,Men's Kayak Four 500m,Germany,Canoe Sprint
+Gold Medal,1,00:00.0,RENDSCHMIDT Max,Men's Kayak Four 500m,Germany,Canoe Sprint
+Silver Medal,2,00:00.0,AREVALO Carlos,Men's Kayak Four 500m,Spain,Canoe Sprint
+Silver Medal,2,00:00.0,CRAVIOTTO Saul,Men's Kayak Four 500m,Spain,Canoe Sprint
+Silver Medal,2,00:00.0,GERMADE Rodrigo,Men's Kayak Four 500m,Spain,Canoe Sprint
+Silver Medal,2,00:00.0,WALZ Marcus,Men's Kayak Four 500m,Spain,Canoe Sprint
+Bronze Medal,3,00:00.0,BALAZ Samuel,Men's Kayak Four 500m,Slovakia,Canoe Sprint
+Bronze Medal,3,00:00.0,BOTEK Adam,Men's Kayak Four 500m,Slovakia,Canoe Sprint
+Bronze Medal,3,00:00.0,MYSAK Denis,Men's Kayak Four 500m,Slovakia,Canoe Sprint
+Bronze Medal,3,00:00.0,VLCEK Erik,Men's Kayak Four 500m,Slovakia,Canoe Sprint
+Gold Medal,1,00:00.0,SUN Mengya,Women's Canoe Double 500m,People's Republic of China,Canoe Sprint
+Gold Medal,1,00:00.0,XU Shixiao,Women's Canoe Double 500m,People's Republic of China,Canoe Sprint
+Silver Medal,2,00:00.0,LUZAN Liudmyla,Women's Canoe Double 500m,Ukraine,Canoe Sprint
+Silver Medal,2,00:00.0,CHETVERIKOVA Anastasiia,Women's Canoe Double 500m,Ukraine,Canoe Sprint
+Bronze Medal,3,00:00.0,VINCENT-LAPOINTE Laurence,Women's Canoe Double 500m,Canada,Canoe Sprint
+Bronze Medal,3,00:00.0,VINCENT Katie,Women's Canoe Double 500m,Canada,Canoe Sprint
+Gold Medal,1,00:00.0,BODONYI Dora,Women's Kayak Four 500m,Hungary,Canoe Sprint
+Gold Medal,1,00:00.0,KOZAK Danuta,Women's Kayak Four 500m,Hungary,Canoe Sprint
+Gold Medal,1,00:00.0,CSIPES Tamara,Women's Kayak Four 500m,Hungary,Canoe Sprint
+Gold Medal,1,00:00.0,KARASZ Anna,Women's Kayak Four 500m,Hungary,Canoe Sprint
+Silver Medal,2,00:00.0,LITVINCHUK Maryna,Women's Kayak Four 500m,Belarus,Canoe Sprint
+Silver Medal,2,00:00.0,MAKHNEVA Marharyta,Women's Kayak Four 500m,Belarus,Canoe Sprint
+Silver Medal,2,00:00.0,PAPOK Nadzeya,Women's Kayak Four 500m,Belarus,Canoe Sprint
+Silver Medal,2,00:00.0,KHUDZENKA Volha,Women's Kayak Four 500m,Belarus,Canoe Sprint
+Bronze Medal,3,00:00.0,NAJA Karolina,Women's Kayak Four 500m,Poland,Canoe Sprint
+Bronze Medal,3,00:00.0,PULAWSKA Anna,Women's Kayak Four 500m,Poland,Canoe Sprint
+Bronze Medal,3,00:00.0,ISKRZYCKA Justyna,Women's Kayak Four 500m,Poland,Canoe Sprint
+Bronze Medal,3,00:00.0,WISNIEWSKA Helena,Women's Kayak Four 500m,Poland,Canoe Sprint
+Gold Medal,1,00:00.0,HANSEN Lasse Norman,Men's Madison,Denmark,Cycling Track
+Gold Medal,1,00:00.0,MORKOV Michael,Men's Madison,Denmark,Cycling Track
+Silver Medal,2,00:00.0,WALLS Matthew,Men's Madison,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,HAYTER Ethan,Men's Madison,Great Britain,Cycling Track
+Bronze Medal,3,00:00.0,GRONDIN Donavan,Men's Madison,France,Cycling Track
+Bronze Medal,3,00:00.0,THOMAS Benjamin,Men's Madison,France,Cycling Track
+Gold Medal,1,00:00.0,CAO Yuan,Men's 10m Platform,People's Republic of China,Diving
+Silver Medal,2,00:00.0,YANG Jian,Men's 10m Platform,People's Republic of China,Diving
+Bronze Medal,3,00:00.0,DALEY Thomas,Men's 10m Platform,Great Britain,Diving
+Gold Medal,1,00:00.0,von ECKERMANN Henrik,Jumping Team,Sweden,Equestrian
+Gold Medal,1,00:00.0,BARYARD-JOHNSSON Malin,Jumping Team,Sweden,Equestrian
+Gold Medal,1,00:00.0,FREDRICSON Peder,Jumping Team,Sweden,Equestrian
+Silver Medal,2,00:00.0,SPRINGSTEEN Jessica,Jumping Team,United States of America,Equestrian
+Silver Medal,2,00:00.0,KRAUT Laura,Jumping Team,United States of America,Equestrian
+Silver Medal,2,00:00.0,WARD McLain,Jumping Team,United States of America,Equestrian
+Bronze Medal,3,00:00.0,DEVOS Pieter,Jumping Team,Belgium,Equestrian
+Bronze Medal,3,00:00.0,GUERY Jerome,Jumping Team,Belgium,Equestrian
+Bronze Medal,3,00:00.0,WATHELET Gregory,Jumping Team,Belgium,Equestrian
+Gold Medal,1,00:00.0,CLAUDINHO,Men,Brazil,Football
+Gold Medal,1,00:00.0,SANTOS,Men,Brazil,Football
+Gold Medal,1,00:00.0,ANTONY,Men,Brazil,Football
+Gold Medal,1,00:00.0,ABNER,Men,Brazil,Football
+Gold Medal,1,00:00.0,BRENNO,Men,Brazil,Football
+Gold Medal,1,00:00.0,FUCHS Bruno,Men,Brazil,Football
+Gold Medal,1,00:00.0,GUIMARAES Bruno,Men,Brazil,Football
+Gold Medal,1,00:00.0,DOUGLAS LUIZ,Men,Brazil,Football
+Gold Medal,1,00:00.0,ALVES Dani,Men,Brazil,Football
+Gold Medal,1,00:00.0,DIEGO CARLOS,Men,Brazil,Football
+Gold Medal,1,00:00.0,ARANA Guilherme,Men,Brazil,Football
+Gold Medal,1,00:00.0,MENINO Gabriel,Men,Brazil,Football
+Gold Medal,1,00:00.0,MARTINELLI Gabriel,Men,Brazil,Football
+Gold Medal,1,00:00.0,LUCAO,Men,Brazil,Football
+Gold Medal,1,00:00.0,CUNHA Matheus,Men,Brazil,Football
+Gold Medal,1,00:00.0,NINO,Men,Brazil,Football
+Gold Medal,1,00:00.0,MALCOM,Men,Brazil,Football
+Gold Medal,1,00:00.0,MATHEUS HENRIQUE,Men,Brazil,Football
+Gold Medal,1,00:00.0,PAULINHO,Men,Brazil,Football
+Gold Medal,1,00:00.0,RICHARLISON,Men,Brazil,Football
+Gold Medal,1,00:00.0,REINIER,Men,Brazil,Football
+Gold Medal,1,00:00.0,GRACA Ricardo,Men,Brazil,Football
+Silver Medal,2,00:00.0,ZUBIMENDI Martin,Men,Spain,Football
+Silver Medal,2,00:00.0,GIL Oscar,Men,Spain,Football
+Silver Medal,2,00:00.0,MINGUEZA Oscar,Men,Spain,Football
+Silver Medal,2,00:00.0,ASENSIO Marco,Men,Spain,Football
+Silver Medal,2,00:00.0,CEBALLOS Dani,Men,Spain,Football
+Silver Medal,2,00:00.0,CUCURELLA Marc,Men,Spain,Football
+Silver Medal,2,00:00.0,GIL Bryan,Men,Spain,Football
+Silver Medal,2,00:00.0,GONZALEZ Pedri,Men,Spain,Football
+Silver Medal,2,00:00.0,FERNANDEZ Alvaro,Men,Spain,Football
+Silver Medal,2,00:00.0,TORRES Pau,Men,Spain,Football
+Silver Medal,2,00:00.0,GARCIA Eric,Men,Spain,Football
+Silver Medal,2,00:00.0,MERINO Mikel,Men,Spain,Football
+Silver Medal,2,00:00.0,MIR Rafa,Men,Spain,Football
+Silver Medal,2,00:00.0,MIRANDA Juan,Men,Spain,Football
+Silver Medal,2,00:00.0,MONCAYOLA Jon,Men,Spain,Football
+Silver Medal,2,00:00.0,OLMO Dani,Men,Spain,Football
+Silver Medal,2,00:00.0,OYARZABAL Mikel,Men,Spain,Football
+Silver Medal,2,00:00.0,PUADO Javier,Men,Spain,Football
+Silver Medal,2,00:00.0,SIMON Unai,Men,Spain,Football
+Silver Medal,2,00:00.0,SOLER Carlos,Men,Spain,Football
+Silver Medal,2,00:00.0,VALLEJO Jesus,Men,Spain,Football
+Silver Medal,2,00:00.0,VILLAR Ivan,Men,Spain,Football
+Bronze Medal,3,00:00.0,MARTIN Henry,Men,Mexico,Football
+Bronze Medal,3,00:00.0,MALAGON Luis,Men,Mexico,Football
+Bronze Medal,3,00:00.0,ANGULO Ricardo,Men,Mexico,Football
+Bronze Medal,3,00:00.0,BELTRAN Fernando,Men,Mexico,Football
+Bronze Medal,3,00:00.0,AGUIRRE Eduardo,Men,Mexico,Football
+Bronze Medal,3,00:00.0,AGUIRRE Erick,Men,Mexico,Football
+Bronze Medal,3,00:00.0,ALVARADO Roberto,Men,Mexico,Football
+Bronze Medal,3,00:00.0,ANGULO Jesus,Men,Mexico,Football
+Bronze Medal,3,00:00.0,ANTUNA Uriel,Men,Mexico,Football
+Bronze Medal,3,00:00.0,CORDOVA Sebastian,Men,Mexico,Football
+Bronze Medal,3,00:00.0,ESQUIVEL Joaquin,Men,Mexico,Football
+Bronze Medal,3,00:00.0,JURADO Sebastian,Men,Mexico,Football
+Bronze Medal,3,00:00.0,LAINEZ Diego,Men,Mexico,Football
+Bronze Medal,3,00:00.0,LORONA Vladimir,Men,Mexico,Football
+Bronze Medal,3,00:00.0,MONTES Cesar,Men,Mexico,Football
+Bronze Medal,3,00:00.0,MORA Adrian,Men,Mexico,Football
+Bronze Medal,3,00:00.0,OCHOA Guillermo,Men,Mexico,Football
+Bronze Medal,3,00:00.0,RODRIGUEZ Carlos,Men,Mexico,Football
+Bronze Medal,3,00:00.0,ROMO Luis,Men,Mexico,Football
+Bronze Medal,3,00:00.0,SANCHEZ Jorge,Men,Mexico,Football
+Bronze Medal,3,00:00.0,VASQUEZ Johan,Men,Mexico,Football
+Bronze Medal,3,00:00.0,VEGA Alexis,Men,Mexico,Football
+Gold Medal,1,00:00.0,KORDA Nelly,Women's Individual Stroke Play,United States of America,Golf
+Silver Medal,2,00:00.0,INAMI Mone,Women's Individual Stroke Play,Japan,Golf
+Bronze Medal,3,00:00.0,KO Lydia,Women's Individual Stroke Play,New Zealand,Golf
+Gold Medal,1,00:00.0,ABALO Luc,Men,France,Handball
+Gold Medal,1,00:00.0,DESCAT Hugo,Men,France,Handball
+Gold Medal,1,00:00.0,FABREGAS Ludovic,Men,France,Handball
+Gold Medal,1,00:00.0,GENTY Yann,Men,France,Handball
+Gold Medal,1,00:00.0,GERARD Vincent,Men,France,Handball
+Gold Medal,1,00:00.0,GUIGOU Michael,Men,France,Handball
+Gold Medal,1,00:00.0,KARABATIC Nikola,Men,France,Handball
+Gold Medal,1,00:00.0,KARABATIC Luka,Men,France,Handball
+Gold Medal,1,00:00.0,LAGARDE Romain,Men,France,Handball
+Gold Medal,1,00:00.0,MAHE Kentin,Men,France,Handball
+Gold Medal,1,00:00.0,MEM Dika,Men,France,Handball
+Gold Medal,1,00:00.0,NGUESSAN Timothey,Men,France,Handball
+Gold Medal,1,00:00.0,PORTE Valentin,Men,France,Handball
+Gold Medal,1,00:00.0,REMILI Nedim,Men,France,Handball
+Gold Medal,1,00:00.0,RICHARDSON Melvyn,Men,France,Handball
+Gold Medal,1,00:00.0,TOURNAT Nicolas,Men,France,Handball
+Silver Medal,2,00:00.0,ANDERSSON Lasse,Men,Denmark,Handball
+Silver Medal,2,00:00.0,GIDSEL Mathias,Men,Denmark,Handball
+Silver Medal,2,00:00.0,HANSEN Johan,Men,Denmark,Handball
+Silver Medal,2,00:00.0,HOLM Jacob,Men,Denmark,Handball
+Silver Medal,2,00:00.0,JAKOBSEN Emil,Men,Denmark,Handball
+Silver Medal,2,00:00.0,LANDIN Magnus,Men,Denmark,Handball
+Silver Medal,2,00:00.0,LANDIN Niklas,Men,Denmark,Handball
+Silver Medal,2,00:00.0,MENSAH Mads,Men,Denmark,Handball
+Silver Medal,2,00:00.0,MOELLGAARD Henrik,Men,Denmark,Handball
+Silver Medal,2,00:00.0,OLSEN Morten,Men,Denmark,Handball
+Silver Medal,2,00:00.0,SAUGSTRUP Magnus,Men,Denmark,Handball
+Silver Medal,2,00:00.0,SVAN Lasse,Men,Denmark,Handball
+Silver Medal,2,00:00.0,TOFT HANSEN Henrik,Men,Denmark,Handball
+Silver Medal,2,00:00.0,HANSEN Mikkel,Men,Denmark,Handball
+Silver Medal,2,00:00.0,MOELLER Kevin,Men,Denmark,Handball
+Bronze Medal,3,00:00.0,GARCIA ROBLEDO Antonio,Men,Spain,Handball
+Bronze Medal,3,00:00.0,GOMEZ ABELLO Aleix,Men,Spain,Handball
+Bronze Medal,3,00:00.0,CORRALES RODAL Rodrigo,Men,Spain,Handball
+Bronze Medal,3,00:00.0,MAQUEDA PENO Jorge,Men,Spain,Handball
+Bronze Medal,3,00:00.0,SOLE SALA Ferran,Men,Spain,Handball
+Bronze Medal,3,00:00.0,PEREZ de VARGAS MORENO Gonzalo,Men,Spain,Handball
+Bronze Medal,3,00:00.0,DUJSHEBAEV DOVICHEBAEVA Alex,Men,Spain,Handball
+Bronze Medal,3,00:00.0,FIGUERAS TREJO Adrian,Men,Spain,Handball
+Bronze Medal,3,00:00.0,MORROS de ARGILA Viran,Men,Spain,Handball
+Bronze Medal,3,00:00.0,ENTRERRIOS RODRIGUEZ Raul,Men,Spain,Handball
+Bronze Medal,3,00:00.0,GURBINDO MARTINEZ Eduardo,Men,Spain,Handball
+Bronze Medal,3,00:00.0,SARMIENTO MELIAN Daniel,Men,Spain,Handball
+Bronze Medal,3,00:00.0,SANCHEZ-MIGALLON NARANJO Miguel,Men,Spain,Handball
+Bronze Medal,3,00:00.0,FERNANDEZ PEREZ Angel,Men,Spain,Handball
+Bronze Medal,3,00:00.0,AGUINAGALDE AQUIZU Julen,Men,Spain,Handball
+Bronze Medal,3,00:00.0,GUARDIOLA VILLAPLANA Gedeon,Men,Spain,Handball
+Gold Medal,1,00:00.0,GANJZADEH Sajad,Men's Kumite +75kg,Islamic Republic of Iran,Karate
+Silver Medal,2,00:00.0,HAMEDI Tareg,Men's Kumite +75kg,Saudi Arabia,Karate
+Bronze Medal,3,00:00.0,ARAGA Ryutaro,Men's Kumite +75kg,Japan,Karate
+Bronze Medal,3,00:00.0,AKTAS Ugur,Men's Kumite +75kg,Turkey,Karate
+Gold Medal,1,00:00.0,ABDELAZIZ Feryal,Women's Kumite +61kg,Egypt,Karate
+Silver Medal,2,00:00.0,ZARETSKA Iryna,Women's Kumite +61kg,Azerbaijan,Karate
+Bronze Medal,3,00:00.0,GONG Li,Women's Kumite +61kg,People's Republic of China,Karate
+Bronze Medal,3,00:00.0,BERULTSEVA Sofya,Women's Kumite +61kg,Kazakhstan,Karate
+Gold Medal,1,00:00.0,CHOONG Joseph,Men's Individual,Great Britain,Modern Pentathlon
+Silver Medal,2,00:00.0,ELGENDY Ahmed,Men's Individual,Egypt,Modern Pentathlon
+Bronze Medal,3,00:00.0,JUN Woongtae,Men's Individual,Republic of Korea,Modern Pentathlon
+Gold Medal,1,00:00.0,ASHRAM Linoy,Individual All-Around,Israel,Rhythmic Gymnastics
+Silver Medal,2,00:00.0,AVERINA Dina,Individual All-Around,ROC,Rhythmic Gymnastics
+Bronze Medal,3,00:00.0,HARNASKO Alina,Individual All-Around,Belarus,Rhythmic Gymnastics
+Gold Medal,1,00:00.0,le GOFF Nicolas,Men,France,Volleyball
+Gold Medal,1,00:00.0,CHINENYEZE Barthelemy,Men,France,Volleyball
+Gold Medal,1,00:00.0,BOYER Stephen,Men,France,Volleyball
+Gold Medal,1,00:00.0,BRIZARD Antoine,Men,France,Volleyball
+Gold Medal,1,00:00.0,BULTOR Daryl,Men,France,Volleyball
+Gold Medal,1,00:00.0,CLEVENOT Trevor,Men,France,Volleyball
+Gold Medal,1,00:00.0,GREBENNIKOV Jenia,Men,France,Volleyball
+Gold Medal,1,00:00.0,LOUATI Yacine,Men,France,Volleyball
+Gold Medal,1,00:00.0,NGAPETH Earvin,Men,France,Volleyball
+Gold Medal,1,00:00.0,PATRY Jean,Men,France,Volleyball
+Gold Medal,1,00:00.0,TILLIE Kevin,Men,France,Volleyball
+Gold Medal,1,00:00.0,TONIUTTI Benjamin,Men,France,Volleyball
+Silver Medal,2,00:00.0,KOBZAR Igor,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,PANKOV Pavel,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,VOLVICH Artem,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,KURKAEV Ilyas,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,IAKOVLEV Ivan,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,KLIUKA Egor,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,VOLKOV Dmitry,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,PODLESNYKH Yaroslav,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,BOGDAN Denis,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,MIKHAYLOV Maxim,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,POLETAEV Victor,Men,ROC,Volleyball
+Silver Medal,2,00:00.0,GOLUBEV Valentin,Men,ROC,Volleyball
+Bronze Medal,3,00:00.0,de CECCO Luciano,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,SANCHEZ Matias,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,SOLE Sebastian,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,RAMOS Martin,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,LOSER Agustin,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,PEREYRA Federico,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,LIMA Bruno,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,CONTE Facundo,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,POGLAJEN Cristian,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,PALACIOS Ezequiel,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,MENDEZ Nicolas,Men,Argentina,Volleyball
+Bronze Medal,3,00:00.0,DANANI Santiago,Men,Argentina,Volleyball
+Gold Medal,1,00:00.0,FISCHER Aria,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,JOHNSON Ashleigh,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,LONGAN Amanda,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,WILLIAMS Alys,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,NEUSHUL Jamie,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,GILCHRIST Kaleigh,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,FISCHER Makenzie,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,MUSSELMAN Madeline,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,SEIDEMANN Melissa,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,STEFFENS Margaret,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,HAUSCHILD Paige,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,FATTAL Rachel,Women,United States of America,Water Polo
+Gold Medal,1,00:00.0,HARALABIDIS Stephanie,Women,United States of America,Water Polo
+Silver Medal,2,00:00.0,BACH Marta,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,ESPAR LLAQUET Anna,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,ESPAR LLAQUET Clara,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,ESTER RAMOS Laura,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,FORCA ARIZA Judith,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,GARCIA GODOY Maica,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,GONZALEZ LOPEZ Irene,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,LEITON ARRONES Paula,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,ORTIZ Bea,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,PENA Pili,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,SANCHEZ GONZALEZ Maria Elena,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,TARRAGO AYMERICH Roser,Women,Spain,Water Polo
+Silver Medal,2,00:00.0,RUIZ Elena,Women,Spain,Water Polo
+Bronze Medal,3,00:00.0,GANGL Edina,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,GARDA Krisztina,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,GURISATTI Greta,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,GYONGYOSSY Aniko,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,ILLES Anna,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,KESZTHELYI Rita,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,LEIMETER Dora,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,MAGYARI Alda,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,PARKES Rebecca,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,RYBANSKA Natasa,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,SZILAGYI Dorottya,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,SZUCS Gabriella,Women,Hungary,Water Polo
+Bronze Medal,3,00:00.0,VALYI Vanda,Women,Hungary,Water Polo
+Gold Medal,1,00:00.0,OTOGURO Takuto,Men's Freestyle 65kg,Japan,Wrestling
+Silver Medal,2,00:00.0,ALIYEV Haji,Men's Freestyle 65kg,Azerbaijan,Wrestling
+Bronze Medal,3,00:00.0,RASHIDOV Gadzhimurad,Men's Freestyle 65kg,ROC,Wrestling
+Bronze Medal,3,00:00.0,BAJRANG Bajrang,Men's Freestyle 65kg,India,Wrestling
+Gold Medal,1,00:00.0,SADULAEV Abdulrashid,Men's Freestyle 97kg,ROC,Wrestling
+Silver Medal,2,00:00.0,SNYDER Kyle Frederick,Men's Freestyle 97kg,United States of America,Wrestling
+Bronze Medal,3,00:00.0,SALAS PEREZ Reineris,Men's Freestyle 97kg,Cuba,Wrestling
+Bronze Medal,3,00:00.0,CONYEDO RUANO Abraham de Jesus,Men's Freestyle 97kg,Italy,Wrestling
+Gold Medal,1,00:00.0,SUSAKI Yui,Women's Freestyle 50kg,Japan,Wrestling
+Silver Medal,2,00:00.0,SUN Yanan,Women's Freestyle 50kg,People's Republic of China,Wrestling
+Bronze Medal,3,00:00.0,STADNIK Mariya,Women's Freestyle 50kg,Azerbaijan,Wrestling
+Bronze Medal,3,00:00.0,HILDEBRANDT Sarah Ann,Women's Freestyle 50kg,United States of America,Wrestling
+Gold Medal,1,00:00.0,KIPCHOGE Eliud,Men's Marathon,Kenya,Athletics
+Silver Medal,2,00:00.0,NAGEEYE Abdi,Men's Marathon,Netherlands,Athletics
+Bronze Medal,3,00:00.0,ABDI Bashir,Men's Marathon,Belgium,Athletics
+Gold Medal,1,00:00.0,ATKINS Ariel,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,WILSON A'ja,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,GRINER Brittney,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,STEWART Breanna,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,GRAY Chelsea,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,LOYD Jewell,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,TAURASI Diana,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,BIRD Sue,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,DIGGINS Skylar,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,FOWLES Sylvia,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,CHARLES Tina,Women,United States of America,Basketball
+Gold Medal,1,00:00.0,COLLIER Napheesa,Women,United States of America,Basketball
+Silver Medal,2,00:00.0,MIYOSHI Naho,Women,Japan,Basketball
+Silver Medal,2,00:00.0,TAKADA Maki,Women,Japan,Basketball
+Silver Medal,2,00:00.0,MACHIDA Rui,Women,Japan,Basketball
+Silver Medal,2,00:00.0,MIYAZAWA Yuki,Women,Japan,Basketball
+Silver Medal,2,00:00.0,MOTOHASHI Nako,Women,Japan,Basketball
+Silver Medal,2,00:00.0,NAGAOKA Moeko,Women,Japan,Basketball
+Silver Medal,2,00:00.0,HAYASHI Saki,Women,Japan,Basketball
+Silver Medal,2,00:00.0,MAWULI Evelyn,Women,Japan,Basketball
+Silver Medal,2,00:00.0,MIYAZAKI Saori,Women,Japan,Basketball
+Silver Medal,2,00:00.0,AKAHO Himawari,Women,Japan,Basketball
+Silver Medal,2,00:00.0,OKOYE Monica,Women,Japan,Basketball
+Silver Medal,2,00:00.0,TODO Nanako,Women,Japan,Basketball
+Bronze Medal,3,00:00.0,FAUTHOUX Marine,Women,France,Basketball
+Bronze Medal,3,00:00.0,DUCHET Alix,Women,France,Basketball
+Bronze Medal,3,00:00.0,JOHANNES Marine,Women,France,Basketball
+Bronze Medal,3,00:00.0,MICHEL Sarah,Women,France,Basketball
+Bronze Medal,3,00:00.0,VUKOSAVLJEVIC Valeriane,Women,France,Basketball
+Bronze Medal,3,00:00.0,TCHATCHOUANG Diandra,Women,France,Basketball
+Bronze Medal,3,00:00.0,MIYEM Endene,Women,France,Basketball
+Bronze Medal,3,00:00.0,CHARTEREAU Alexia,Women,France,Basketball
+Bronze Medal,3,00:00.0,GRUDA Sandrine,Women,France,Basketball
+Bronze Medal,3,00:00.0,RUPERT Iliana,Women,France,Basketball
+Bronze Medal,3,00:00.0,CIAK Helena,Women,France,Basketball
+Bronze Medal,3,00:00.0,WILLIAMS Gabby,Women,France,Basketball
+Gold Medal,1,00:00.0,CRUZ Andy,Men's Light (57-63kg),Cuba,Boxing
+Silver Medal,2,00:00.0,DAVIS Keyshawn,Men's Light (57-63kg),United States of America,Boxing
+Gold Medal,1,00:00.0,JALOLOV Bakhodir,Men's Super Heavy (+91kg),Uzbekistan,Boxing
+Silver Medal,2,00:00.0,TORREZ JR Richard,Men's Super Heavy (+91kg),United States of America,Boxing
+Gold Medal,1,00:00.0,HARRINGTON Kellie Anne,Women's Light (57-60kg),Ireland,Boxing
+Silver Medal,2,00:00.0,FERREIRA Beatriz,Women's Light (57-60kg),Brazil,Boxing
+Gold Medal,1,00:00.0,PRICE Lauren,Women's Middle (69-75kg),Great Britain,Boxing
+Silver Medal,2,00:00.0,LI Qian,Women's Middle (69-75kg),People's Republic of China,Boxing
+Gold Medal,1,00:00.0,KENNY Jason,Men's Keirin,Great Britain,Cycling Track
+Silver Medal,2,00:00.0,AWANG Mohd Azizulhasni,Men's Keirin,Malaysia,Cycling Track
+Bronze Medal,3,00:00.0,LAVREYSEN Harrie,Men's Keirin,Netherlands,Cycling Track
+Gold Medal,1,00:00.0,VALENTE Jennifer,Women's Omnium,United States of America,Cycling Track
+Silver Medal,2,00:00.0,KAJIHARA Yumi,Women's Omnium,Japan,Cycling Track
+Bronze Medal,3,00:00.0,WILD Kirsten,Women's Omnium,Netherlands,Cycling Track
+Gold Medal,1,00:00.0,MITCHELL Kelsey,Women's Sprint,Canada,Cycling Track
+Silver Medal,2,00:00.0,STARIKOVA Olena,Women's Sprint,Ukraine,Cycling Track
+Bronze Medal,3,00:00.0,LEE Wai Sze,Women's Sprint,"Hong Kong, China",Cycling Track
+Gold Medal,1,00:00.0,EDWIGE Beatrice,Women,France,Handball
+Gold Medal,1,00:00.0,NZE MINKO Estelle,Women,France,Handball
+Gold Medal,1,00:00.0,LEYNAUD Amandine,Women,France,Handball
+Gold Medal,1,00:00.0,DARLEUX Cleopatre,Women,France,Handball
+Gold Medal,1,00:00.0,LASSOURCE Coralie,Women,France,Handball
+Gold Medal,1,00:00.0,VALENTINI Chloe,Women,France,Handball
+Gold Medal,1,00:00.0,FOPPA Pauletta,Women,France,Handball
+Gold Medal,1,00:00.0,LACRABERE Alexandra,Women,France,Handball
+Gold Medal,1,00:00.0,SERCIEN UGOLIN Oceane,Women,France,Handball
+Gold Medal,1,00:00.0,COATANEA Pauline,Women,France,Handball
+Gold Medal,1,00:00.0,FLIPPES Laura,Women,France,Handball
+Gold Medal,1,00:00.0,DANCETTE Blandine,Women,France,Handball
+Gold Medal,1,00:00.0,ZAADI DEUNA Grace,Women,France,Handball
+Gold Medal,1,00:00.0,NOCANDY Meline,Women,France,Handball
+Gold Medal,1,00:00.0,PINEAU Allison,Women,France,Handball
+Gold Medal,1,00:00.0,NIAKATE Kalidiatou,Women,France,Handball
+Silver Medal,2,00:00.0,BOBROVNIKOVA Vladlena,Women,ROC,Handball
+Silver Medal,2,00:00.0,VEDEKHINA Polina,Women,ROC,Handball
+Silver Medal,2,00:00.0,VYAKHIREVA Anna,Women,ROC,Handball
+Silver Medal,2,00:00.0,GORSHKOVA Polina,Women,ROC,Handball
+Silver Medal,2,00:00.0,DMITRIEVA Daria,Women,ROC,Handball
+Silver Medal,2,00:00.0,ILINA Ekaterina,Women,ROC,Handball
+Silver Medal,2,00:00.0,KALININA Viktoriia,Women,ROC,Handball
+Silver Medal,2,00:00.0,KUZNETSOVA Polina,Women,ROC,Handball
+Silver Medal,2,00:00.0,MAKEEVA Kseniia,Women,ROC,Handball
+Silver Medal,2,00:00.0,MANAGAROVA Iuliia,Women,ROC,Handball
+Silver Medal,2,00:00.0,MIKHAYLICHENKO Elena,Women,ROC,Handball
+Silver Medal,2,00:00.0,SEDOYKINA Anna,Women,ROC,Handball
+Silver Medal,2,00:00.0,SEN Anna,Women,ROC,Handball
+Silver Medal,2,00:00.0,SKOROBOGATCHENKO Antonina,Women,ROC,Handball
+Silver Medal,2,00:00.0,FOMINA Olga,Women,ROC,Handball
+Bronze Medal,3,00:00.0,TOMAC Marta,Women,Norway,Handball
+Bronze Medal,3,00:00.0,JACOBSEN Marit,Women,Norway,Handball
+Bronze Medal,3,00:00.0,MOERK Nora,Women,Norway,Handball
+Bronze Medal,3,00:00.0,REISTAD Henny,Women,Norway,Handball
+Bronze Medal,3,00:00.0,KRISTIANSEN Veronica,Women,Norway,Handball
+Bronze Medal,3,00:00.0,SKOGRAND Stine,Women,Norway,Handball
+Bronze Medal,3,00:00.0,LUNDE Katrine,Women,Norway,Handball
+Bronze Medal,3,00:00.0,JOHANSEN Vilde Ingeborg,Women,Norway,Handball
+Bronze Medal,3,00:00.0,BREISTOEL Kristine,Women,Norway,Handball
+Bronze Medal,3,00:00.0,FRAFJORD Marit Malm,Women,Norway,Handball
+Bronze Medal,3,00:00.0,BRATTSET DALE Kari,Women,Norway,Handball
+Bronze Medal,3,00:00.0,BREDAL OFTEDAL Stine,Women,Norway,Handball
+Bronze Medal,3,00:00.0,SOLBERG ISAKSEN Sanna,Women,Norway,Handball
+Bronze Medal,3,00:00.0,HERREM Camilla,Women,Norway,Handball
+Bronze Medal,3,00:00.0,SOLBERG Silje,Women,Norway,Handball
+Gold Medal,1,00:00.0,DYANKOVA Simona,Group All-Around,Bulgaria,Rhythmic Gymnastics
+Gold Medal,1,00:00.0,RADUKANOVA Madlen,Group All-Around,Bulgaria,Rhythmic Gymnastics
+Gold Medal,1,00:00.0,KIRYAKOVA Stefani,Group All-Around,Bulgaria,Rhythmic Gymnastics
+Gold Medal,1,00:00.0,ZAFIROVA Erika,Group All-Around,Bulgaria,Rhythmic Gymnastics
+Gold Medal,1,00:00.0,TRAETS Laura,Group All-Around,Bulgaria,Rhythmic Gymnastics
+Silver Medal,2,00:00.0,BLIZNYUK Anastasia,Group All-Around,ROC,Rhythmic Gymnastics
+Silver Medal,2,00:00.0,SHKATOVA Angelina,Group All-Around,ROC,Rhythmic Gymnastics
+Silver Medal,2,00:00.0,TISHCHENKO Alisa,Group All-Around,ROC,Rhythmic Gymnastics
+Silver Medal,2,00:00.0,MAKSIMOVA Anastasiia,Group All-Around,ROC,Rhythmic Gymnastics
+Silver Medal,2,00:00.0,TATAREVA Anastasiia,Group All-Around,ROC,Rhythmic Gymnastics
+Bronze Medal,3,00:00.0,MAURELLI Alessia,Group All-Around,Italy,Rhythmic Gymnastics
+Bronze Medal,3,00:00.0,CENTOFANTI Martina,Group All-Around,Italy,Rhythmic Gymnastics
+Bronze Medal,3,00:00.0,SANTANDREA Martina,Group All-Around,Italy,Rhythmic Gymnastics
+Bronze Medal,3,00:00.0,DURANTI Agnese,Group All-Around,Italy,Rhythmic Gymnastics
+Bronze Medal,3,00:00.0,MOGUREAN Daniela,Group All-Around,Italy,Rhythmic Gymnastics
+Gold Medal,1,00:00.0,DREWS Andrea,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,OGBOGU Chiaka,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,AKINRADEWO Foluke,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,WASHINGTON Haleigh,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,LARSON Jordan,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,WONG-ORANTES Justine,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,HILL Kimberly,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,ROBINSON Kelsey,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,BARTSCH-HACKLEY Michelle,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,HANCOCK Micha,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,POULTER Jordyn,Women,United States of America,Volleyball
+Gold Medal,1,00:00.0,THOMPSON Jordan,Women,United States of America,Volleyball
+Silver Medal,2,00:00.0,CORREA Ana Beatriz,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,da SILVA Ana Carolina,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,MENEZES OLIVEIRA de SOUZA Ana Cris.,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,BRAIT Camila,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,de OLIVEIRA SAAD GATTAZ Caroline,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,RODRIGUES Fernanda,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,BRAGA GUIMARAES Gabriela,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,SILVA CARNEIRO Macris Fernanda,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,PEREIRA Natalia,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,MONTIBELLER Rosamaria,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,RATZKE Roberta Silva,Women,Brazil,Volleyball
+Silver Medal,2,00:00.0,CAIXETA Tandara,Women,Brazil,Volleyball
+Bronze Medal,3,00:00.0,BJELICA Ana,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,BUSA Bianka,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,MILENKOVIC Bojana,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,MIHAJLOVIC Brankica,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,BLAGOJEVIC Jelena,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,ALEKSIC Maja,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,OGNJENOVIC Maja,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,RASIC Milena,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,POPOVIC Mina,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,POPOVIC Silvija,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,MIRKOVIC Sladjana,Women,Serbia,Volleyball
+Bronze Medal,3,00:00.0,BOSKOVIC Tijana,Women,Serbia,Volleyball
+Gold Medal,1,00:00.0,ALEKSIC Milan,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,DEDOVIC Nikola,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,FILIPOVIC Filip,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,JAKSIC Nikola,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,LAZIC Dorde,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,MANDIC Dusan,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,MITROVIC Branislav,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,MITROVIC Stefan,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,PIJETLOVIC Dusko,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,PIJETLOVIC Gojko,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,PRLAINOVIC Andrija,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,RANDELOVIC Sava,Men,Serbia,Water Polo
+Gold Medal,1,00:00.0,RASOVIC Strahinja,Men,Serbia,Water Polo
+Silver Medal,2,00:00.0,ARGYROPOULOS KANAKAKIS Stylianos,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,DERVISIS Georgios,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,FOUNTOULIS Ioannis,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,GALANIDIS Konstantinos,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,GENIDOUNIAS Konstantinos,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,KAPOTSIS Marios,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,KOLOMVOS Christodoulos,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,MOURIKIS Konstantinos,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,PAPANASTASIOU Alexandros,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,SKOUMPAKIS Dimitrios,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,VLACHOPOULOS Angelos,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,ZERDEVAS Emmanouil,Men,Greece,Water Polo
+Silver Medal,2,00:00.0,GKIOUVETSIS Konstantinos,Men,Greece,Water Polo
+Bronze Medal,3,00:00.0,PASZTOR Matyas,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,ANGYAL Daniel,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,ERDELYI Balazs,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,HARAI Balazs,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,HOSNYANSZKY Norbert,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,JANSIK Szilard,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,MANHERCZ Krisztian,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,MEZEI Tamas,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,NAGY Viktor,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,VAMOS Marton,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,VARGA Denes,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,VOGEL Soma,Men,Hungary,Water Polo
+Bronze Medal,3,00:00.0,ZALANKI Gergo,Men,Hungary,Water Polo
